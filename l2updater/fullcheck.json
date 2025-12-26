@@ -1,5 +1,5 @@
 {
-    "base_url": "http://192.168.15.57:8080/l2updater/client/",
+    "base_url": "https://redgrenade.life/l2updater/client/",
     "files": [
         {
             "path": "/system_en/l2.exe",

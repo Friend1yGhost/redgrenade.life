@@ -4,7 +4,7 @@
  * com base no conteúdo da pasta client/.
  *
  * Uso (linha de comando):
- *   php generate_manifests.php --base-url="http://192.168.15.57:8080/l2updater/client"
+ *   php generate_manifests.php --base-url="https://redgrenade.life/l2updater/client"
  */
 
 ini_set('display_errors', 1);
@@ -13,7 +13,7 @@ error_reporting(E_ALL);
 // -------------------- PARÂMETROS --------------------
 
 // base_url padrão (pode sobrescrever via --base-url=)
-$baseUrl = "http://192.168.15.57:8080/l2updater/client";
+$baseUrl = "https://redgrenade.life/l2updater/client";
 
 // lê argumentos da linha de comando
 foreach ($argv as $arg) {
