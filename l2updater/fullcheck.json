@@ -770,18 +770,6 @@
       "url": "https://redgrenade.life/l2updater/Textures/field_deco_T.utx"
     },
     {
-      "path": "fullcheck.json",
-      "sha1": "8c4a2ee6719c6e881735edb093746c5958c9bcb4",
-      "size": 71,
-      "url": "https://redgrenade.life/l2updater/fullcheck.json"
-    },
-    {
-      "path": "generate_patch_list.py",
-      "sha1": "e532c9249cdd3645a66f9f888ce56c81597ea51d",
-      "size": 3875,
-      "url": "https://redgrenade.life/l2updater/generate_patch_list.py"
-    },
-    {
       "path": "music/INTRO.ogg",
       "sha1": "7169e3b25a53f26a383d5700390a174902fd4ccf",
       "size": 2371207,
