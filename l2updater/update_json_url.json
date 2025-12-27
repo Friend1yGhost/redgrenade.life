@@ -1,15 +1,4955 @@
 {
-    "base_url": "https://redgrenade.life/l2updater/client/",
-    "files": [
-        {
-            "path": "/system_ru/l2.exe",
-            "sha1": "CF7AC7124BE7F34270EE73C30E321DDB61308B57",
-            "size": 3515096
-        },
-        {
-            "path": "/system_ru/l2.ini",
-            "sha1": "61B90013141D22F9A96E61E04369831D5C371CFB",
-            "size": 4400
-        }
-    ]
+  "base_url": "https://redgrenade.life/l2updater",
+  "files": [
+    {
+      "path": "Animations/LineageBgMeshes.ukx",
+      "sha1": "4dfd7b9934c0b2cd74a66394097608d9fd7af7f5",
+      "size": 24841817,
+      "url": "https://redgrenade.life/l2updater/Animations/LineageBgMeshes.ukx"
+    },
+    {
+      "path": "Animations/LineageWeapons_DarkHellShield_byVikosTV.ukx",
+      "sha1": "58d1347b9d03ebdf85807a4042c6f8ab1e2d7174",
+      "size": 4455906,
+      "url": "https://redgrenade.life/l2updater/Animations/LineageWeapons_DarkHellShield_byVikosTV.ukx"
+    },
+    {
+      "path": "Animations/LineageWeapons_GoldHellShield_byVikosTV.ukx",
+      "sha1": "7a6ea991b9c77b071e0462dda2c4044533c75e85",
+      "size": 4494921,
+      "url": "https://redgrenade.life/l2updater/Animations/LineageWeapons_GoldHellShield_byVikosTV.ukx"
+    },
+    {
+      "path": "Animations/LineageWeapons_GreenHellShield_byVikosTV.ukx",
+      "sha1": "67729d07d784bbf4a806e82b74c78cb35484d49c",
+      "size": 4728461,
+      "url": "https://redgrenade.life/l2updater/Animations/LineageWeapons_GreenHellShield_byVikosTV.ukx"
+    },
+    {
+      "path": "Animations/LineageWeapons_RareHellShield_byVikosTV.ukx",
+      "sha1": "361211b4ff9d98bbebf0d77444e29ef87f7e685a",
+      "size": 3712690,
+      "url": "https://redgrenade.life/l2updater/Animations/LineageWeapons_RareHellShield_byVikosTV.ukx"
+    },
+    {
+      "path": "Animations/LineageWeapons_RareLindShield_byVikosTV.ukx",
+      "sha1": "66fbab51ad36c7b19bd295a3dda23fc23b26aa6c",
+      "size": 3029562,
+      "url": "https://redgrenade.life/l2updater/Animations/LineageWeapons_RareLindShield_byVikosTV.ukx"
+    },
+    {
+      "path": "Animations/LineageWeapons_WhiteHellShield_byVikosTV.ukx",
+      "sha1": "052e6f855fb1c6e20ed80736ccd8c905340cef0a",
+      "size": 4531856,
+      "url": "https://redgrenade.life/l2updater/Animations/LineageWeapons_WhiteHellShield_byVikosTV.ukx"
+    },
+    {
+      "path": "Animations/RaccoonWeapons05.ukx",
+      "sha1": "9a6b50601c86927162f3c221bb602b2582077f1d",
+      "size": 28093216,
+      "url": "https://redgrenade.life/l2updater/Animations/RaccoonWeapons05.ukx"
+    },
+    {
+      "path": "Animations/Raccoon_IceWeapons.ukx",
+      "sha1": "1145d9578ed7f9999acc2f2056ab2378afaca029",
+      "size": 24692356,
+      "url": "https://redgrenade.life/l2updater/Animations/Raccoon_IceWeapons.ukx"
+    },
+    {
+      "path": "Animations/Raccoon_WeaponsVala.ukx",
+      "sha1": "bb20bce51e4c7c09bb30c512a7b7880d5dd9a8de",
+      "size": 17865761,
+      "url": "https://redgrenade.life/l2updater/Animations/Raccoon_WeaponsVala.ukx"
+    },
+    {
+      "path": "Maps/13_25_Classic.unr",
+      "sha1": "8e19ae4ac8d607ae5ba62b661bb849bd3ff46680",
+      "size": 7768438,
+      "url": "https://redgrenade.life/l2updater/Maps/13_25_Classic.unr"
+    },
+    {
+      "path": "Maps/17_10_Classic.unr",
+      "sha1": "338af1442f39502dcd1b8d455b87ecd3d5c992e7",
+      "size": 6720908,
+      "url": "https://redgrenade.life/l2updater/Maps/17_10_Classic.unr"
+    },
+    {
+      "path": "Maps/24_18.unr",
+      "sha1": "02827764290afd5bcde67c41f4150ce751550dcf",
+      "size": 12691989,
+      "url": "https://redgrenade.life/l2updater/Maps/24_18.unr"
+    },
+    {
+      "path": "Maps/24_18_Classic.unr",
+      "sha1": "02827764290afd5bcde67c41f4150ce751550dcf",
+      "size": 12691989,
+      "url": "https://redgrenade.life/l2updater/Maps/24_18_Classic.unr"
+    },
+    {
+      "path": "Maps/25_25_Classic.unr",
+      "sha1": "19ad148bd71a9c51d950da3c935cdcbe4a5ee9b6",
+      "size": 42120710,
+      "url": "https://redgrenade.life/l2updater/Maps/25_25_Classic.unr"
+    },
+    {
+      "path": "Maps/Lobby01.unr",
+      "sha1": "ce41e95074b75b615b3160f21ca7973eeb871442",
+      "size": 7342480,
+      "url": "https://redgrenade.life/l2updater/Maps/Lobby01.unr"
+    },
+    {
+      "path": "Maps/Lobby01_Classic.unr",
+      "sha1": "ce41e95074b75b615b3160f21ca7973eeb871442",
+      "size": 7342480,
+      "url": "https://redgrenade.life/l2updater/Maps/Lobby01_Classic.unr"
+    },
+    {
+      "path": "StaticMeshes/L2_Lobby.usx",
+      "sha1": "74f4faf4d68bd446b5f4331c382f6229280eadfe",
+      "size": 4517324,
+      "url": "https://redgrenade.life/l2updater/StaticMeshes/L2_Lobby.usx"
+    },
+    {
+      "path": "SysTextures/AutoPotion.utx",
+      "sha1": "cffe3af7a787910937216012d947ac7ded280436",
+      "size": 112098,
+      "url": "https://redgrenade.life/l2updater/SysTextures/AutoPotion.utx"
+    },
+    {
+      "path": "SysTextures/Doda_buttons.utx",
+      "sha1": "d5df8b63d5e9a803745a9abf68036ca0d456322e",
+      "size": 5176671,
+      "url": "https://redgrenade.life/l2updater/SysTextures/Doda_buttons.utx"
+    },
+    {
+      "path": "SysTextures/IconVikos.utx",
+      "sha1": "991fe5175d956535a84f943b4fbbe97c8450a39f",
+      "size": 2143,
+      "url": "https://redgrenade.life/l2updater/SysTextures/IconVikos.utx"
+    },
+    {
+      "path": "SysTextures/L2EssenceCommunity.utx",
+      "sha1": "f60232ff2a0eb90cf672442a4a0196b39053a64b",
+      "size": 113478581,
+      "url": "https://redgrenade.life/l2updater/SysTextures/L2EssenceCommunity.utx"
+    },
+    {
+      "path": "SysTextures/L2Font-e.utx",
+      "sha1": "2516ef659b5b87f4d01f2120d300381f3f11e3e6",
+      "size": 235873857,
+      "url": "https://redgrenade.life/l2updater/SysTextures/L2Font-e.utx"
+    },
+    {
+      "path": "SysTextures/L2Font-eu.utx",
+      "sha1": "982c1ccfa58d9106b158a1ed6ce0e70d523b5943",
+      "size": 199520516,
+      "url": "https://redgrenade.life/l2updater/SysTextures/L2Font-eu.utx"
+    },
+    {
+      "path": "SysTextures/L2Oren.utx",
+      "sha1": "e9b3e0469a233b1b89200c3b7862803e853153d2",
+      "size": 786999,
+      "url": "https://redgrenade.life/l2updater/SysTextures/L2Oren.utx"
+    },
+    {
+      "path": "SysTextures/L2PredatorIcons.utx",
+      "sha1": "1e93829737acd14fa9e1011413dbd1503680e4c8",
+      "size": 56520,
+      "url": "https://redgrenade.life/l2updater/SysTextures/L2PredatorIcons.utx"
+    },
+    {
+      "path": "SysTextures/L2UI_LuceraFree.utx",
+      "sha1": "cc3f69a50b5b8f97ac3f9757ce184382377176f9",
+      "size": 17151,
+      "url": "https://redgrenade.life/l2updater/SysTextures/L2UI_LuceraFree.utx"
+    },
+    {
+      "path": "SysTextures/L2UI_NewTex.utx",
+      "sha1": "6eeebe5eb7214b1ee33cba110aae841aacf8e224",
+      "size": 47935611,
+      "url": "https://redgrenade.life/l2updater/SysTextures/L2UI_NewTex.utx"
+    },
+    {
+      "path": "SysTextures/L2UI_SCRYDE.utx",
+      "sha1": "ca88bc318799457f757c6990d2ebb775fb5fe8c0",
+      "size": 23144311,
+      "url": "https://redgrenade.life/l2updater/SysTextures/L2UI_SCRYDE.utx"
+    },
+    {
+      "path": "SysTextures/L2WorldMap.utx",
+      "sha1": "b20208064da2431cbd0b53bad10066bf6309b6f4",
+      "size": 8728710,
+      "url": "https://redgrenade.life/l2updater/SysTextures/L2WorldMap.utx"
+    },
+    {
+      "path": "SysTextures/Shockzone_UI.utx",
+      "sha1": "31eec64bf6172ce965547546e215b89a80272baf",
+      "size": 135253,
+      "url": "https://redgrenade.life/l2updater/SysTextures/Shockzone_UI.utx"
+    },
+    {
+      "path": "SysTextures/achivs.utx",
+      "sha1": "83ebf22264fd8f4457632880e6c86589f6e9d751",
+      "size": 17337,
+      "url": "https://redgrenade.life/l2updater/SysTextures/achivs.utx"
+    },
+    {
+      "path": "SysTextures/areda.utx",
+      "sha1": "bac5da9ba944b5e547033de288366f07a2164c1a",
+      "size": 923,
+      "url": "https://redgrenade.life/l2updater/SysTextures/areda.utx"
+    },
+    {
+      "path": "SysTextures/bc.utx",
+      "sha1": "c3daf114cbaf06f655a19845115d43dfa3808948",
+      "size": 2075744,
+      "url": "https://redgrenade.life/l2updater/SysTextures/bc.utx"
+    },
+    {
+      "path": "SysTextures/beast_icon.utx",
+      "sha1": "479fb62e4a2001556a822a346ebf089c1ed00b90",
+      "size": 25293,
+      "url": "https://redgrenade.life/l2updater/SysTextures/beast_icon.utx"
+    },
+    {
+      "path": "SysTextures/best_gk.utx",
+      "sha1": "ebca2b11c2fc78583d0337e10a3380fc7c25d8b2",
+      "size": 4558,
+      "url": "https://redgrenade.life/l2updater/SysTextures/best_gk.utx"
+    },
+    {
+      "path": "SysTextures/bf.utx",
+      "sha1": "9553843ff867b86e525809e511315044f3c7bd31",
+      "size": 101379,
+      "url": "https://redgrenade.life/l2updater/SysTextures/bf.utx"
+    },
+    {
+      "path": "SysTextures/bm5.utx",
+      "sha1": "4cf48f1dc4a246428ed5b393d00f3446b01605dd",
+      "size": 5760,
+      "url": "https://redgrenade.life/l2updater/SysTextures/bm5.utx"
+    },
+    {
+      "path": "SysTextures/bm6.utx",
+      "sha1": "753f6d2b9e24e1c5519b3ae1ee5a64bda660986a",
+      "size": 26937,
+      "url": "https://redgrenade.life/l2updater/SysTextures/bm6.utx"
+    },
+    {
+      "path": "SysTextures/bm7.utx",
+      "sha1": "cd1f078cfaca32ae21b98a6180bfc986f70a62f2",
+      "size": 1553,
+      "url": "https://redgrenade.life/l2updater/SysTextures/bm7.utx"
+    },
+    {
+      "path": "SysTextures/btd.utx",
+      "sha1": "7cbd4f593cc0c1979973072c9798df96dc0ebfeb",
+      "size": 98936,
+      "url": "https://redgrenade.life/l2updater/SysTextures/btd.utx"
+    },
+    {
+      "path": "SysTextures/doda_icons.utx",
+      "sha1": "6dd6713e0ae8c678f41d1b911bac74a803d348ff",
+      "size": 217836,
+      "url": "https://redgrenade.life/l2updater/SysTextures/doda_icons.utx"
+    },
+    {
+      "path": "SysTextures/doda_new_icons.utx",
+      "sha1": "85cf7c452e12a46d23792ee5a5f777cd56311a19",
+      "size": 36573,
+      "url": "https://redgrenade.life/l2updater/SysTextures/doda_new_icons.utx"
+    },
+    {
+      "path": "SysTextures/energys.utx",
+      "sha1": "a94aef8d6bd3e03bc71d9370c7fd3647662ecb52",
+      "size": 29596,
+      "url": "https://redgrenade.life/l2updater/SysTextures/energys.utx"
+    },
+    {
+      "path": "SysTextures/epic.utx",
+      "sha1": "e2be4fd652a398fd010b603ee299a1cef5194d34",
+      "size": 3336,
+      "url": "https://redgrenade.life/l2updater/SysTextures/epic.utx"
+    },
+    {
+      "path": "SysTextures/epic0305.utx",
+      "sha1": "13e8efee7580ac449f651d2b2561b28fff501761",
+      "size": 62637,
+      "url": "https://redgrenade.life/l2updater/SysTextures/epic0305.utx"
+    },
+    {
+      "path": "SysTextures/fange_ui.utx",
+      "sha1": "368766a165104b3ab759060e54adbb392c157c4a",
+      "size": 1532873,
+      "url": "https://redgrenade.life/l2updater/SysTextures/fange_ui.utx"
+    },
+    {
+      "path": "SysTextures/gk1.utx",
+      "sha1": "de9ac67e508ced43485f9b9f819a9a12bb3af0dc",
+      "size": 7015,
+      "url": "https://redgrenade.life/l2updater/SysTextures/gk1.utx"
+    },
+    {
+      "path": "SysTextures/ic1.utx",
+      "sha1": "edf693cd34338545519119c9f6f41a34ee79436f",
+      "size": 17959,
+      "url": "https://redgrenade.life/l2updater/SysTextures/ic1.utx"
+    },
+    {
+      "path": "SysTextures/ico2.utx",
+      "sha1": "86e765a77e28848faf5580717c07a5c6a09e25c5",
+      "size": 121414,
+      "url": "https://redgrenade.life/l2updater/SysTextures/ico2.utx"
+    },
+    {
+      "path": "SysTextures/icon-just16x16.utx",
+      "sha1": "287b352056aaa05d2e2ade9c58b926e0f3198967",
+      "size": 101379,
+      "url": "https://redgrenade.life/l2updater/SysTextures/icon-just16x16.utx"
+    },
+    {
+      "path": "SysTextures/icon-just24x24.utx",
+      "sha1": "5caa57ee8a9fede790dfcaf8b702c2d5b6b9985f",
+      "size": 92392,
+      "url": "https://redgrenade.life/l2updater/SysTextures/icon-just24x24.utx"
+    },
+    {
+      "path": "SysTextures/icon2.utx",
+      "sha1": "7ea342c51e151902b6f26a9d6f261bf37edc0190",
+      "size": 11166070,
+      "url": "https://redgrenade.life/l2updater/SysTextures/icon2.utx"
+    },
+    {
+      "path": "SysTextures/icons_by_doda.utx",
+      "sha1": "47968b953a88eee5fda0928e4498ac3200fe4782",
+      "size": 112379,
+      "url": "https://redgrenade.life/l2updater/SysTextures/icons_by_doda.utx"
+    },
+    {
+      "path": "SysTextures/impulse_bg.utx",
+      "sha1": "8e38d3022dc55ae4a2398a9a2587516ef2e781a1",
+      "size": 1835999,
+      "url": "https://redgrenade.life/l2updater/SysTextures/impulse_bg.utx"
+    },
+    {
+      "path": "SysTextures/interf.utx",
+      "sha1": "eb538cf2b4f49a21adbd1b2c1d2ccd0aa1814eb1",
+      "size": 20504,
+      "url": "https://redgrenade.life/l2updater/SysTextures/interf.utx"
+    },
+    {
+      "path": "SysTextures/l2empire_icon3.utx",
+      "sha1": "f15503f10a347854f0b2fb1904925049385e6215",
+      "size": 6403,
+      "url": "https://redgrenade.life/l2updater/SysTextures/l2empire_icon3.utx"
+    },
+    {
+      "path": "SysTextures/l2empire_icons.utx",
+      "sha1": "4ce73c2806a491ecfa95c4bee10794e77fe5242f",
+      "size": 13095,
+      "url": "https://redgrenade.life/l2updater/SysTextures/l2empire_icons.utx"
+    },
+    {
+      "path": "SysTextures/l2lucky.utx",
+      "sha1": "bea0756cd7a2543f6bc5ee6bd5a7f1920998d816",
+      "size": 73785,
+      "url": "https://redgrenade.life/l2updater/SysTextures/l2lucky.utx"
+    },
+    {
+      "path": "SysTextures/l2play_ex.utx",
+      "sha1": "ff688d0f663e0c43c3958d47ecf9aa33af5d3dc4",
+      "size": 9458,
+      "url": "https://redgrenade.life/l2updater/SysTextures/l2play_ex.utx"
+    },
+    {
+      "path": "SysTextures/l2play_ico.utx",
+      "sha1": "e4427cafd72356626100d8a079e320d92d5692f9",
+      "size": 53098,
+      "url": "https://redgrenade.life/l2updater/SysTextures/l2play_ico.utx"
+    },
+    {
+      "path": "SysTextures/l2playskills.utx",
+      "sha1": "e071a9338d8c68b4e0fa85d39d06478f20f5f903",
+      "size": 7596,
+      "url": "https://redgrenade.life/l2updater/SysTextures/l2playskills.utx"
+    },
+    {
+      "path": "SysTextures/l2rip.utx",
+      "sha1": "eb29388f40b8c617a3d5333d1f0c5242fcca8023",
+      "size": 869686,
+      "url": "https://redgrenade.life/l2updater/SysTextures/l2rip.utx"
+    },
+    {
+      "path": "SysTextures/l2sirius1.utx",
+      "sha1": "31c19361ca3322cb3ab75dbfa8610dba7d8da4a2",
+      "size": 16708,
+      "url": "https://redgrenade.life/l2updater/SysTextures/l2sirius1.utx"
+    },
+    {
+      "path": "SysTextures/l2vote.utx",
+      "sha1": "00326ea1074b1433a299b1b2d907bd8f62cd557a",
+      "size": 2059,
+      "url": "https://redgrenade.life/l2updater/SysTextures/l2vote.utx"
+    },
+    {
+      "path": "SysTextures/l2zonename.utx",
+      "sha1": "8f2d43def98fd7bcf16a0fec1a58299c4112c322",
+      "size": 4839993,
+      "url": "https://redgrenade.life/l2updater/SysTextures/l2zonename.utx"
+    },
+    {
+      "path": "SysTextures/l2zonename_Classic.utx",
+      "sha1": "4c324d7fb9a9e4132579fa2fae00691600a2812f",
+      "size": 4766995,
+      "url": "https://redgrenade.life/l2updater/SysTextures/l2zonename_Classic.utx"
+    },
+    {
+      "path": "SysTextures/lcky_icons_v5.utx",
+      "sha1": "a32d481961c5f421fd90ed04191e3c69dbb7dc11",
+      "size": 8719,
+      "url": "https://redgrenade.life/l2updater/SysTextures/lcky_icons_v5.utx"
+    },
+    {
+      "path": "SysTextures/luckyv5.utx",
+      "sha1": "96b3c45cfedc4047cd2fe8c81afd291ce34039cf",
+      "size": 8831,
+      "url": "https://redgrenade.life/l2updater/SysTextures/luckyv5.utx"
+    },
+    {
+      "path": "SysTextures/mastery_skills.utx",
+      "sha1": "b16e5ca369945987c19282819b8471fc122dd694",
+      "size": 6372,
+      "url": "https://redgrenade.life/l2updater/SysTextures/mastery_skills.utx"
+    },
+    {
+      "path": "SysTextures/mmo-dev.utx",
+      "sha1": "f1601e6bee636f51092c3092afb49a902b000869",
+      "size": 34637,
+      "url": "https://redgrenade.life/l2updater/SysTextures/mmo-dev.utx"
+    },
+    {
+      "path": "SysTextures/new_buttons2.utx",
+      "sha1": "06c4623cd10fb55c02c3a33800b45a6b4f19d611",
+      "size": 262889,
+      "url": "https://redgrenade.life/l2updater/SysTextures/new_buttons2.utx"
+    },
+    {
+      "path": "SysTextures/newbutbest.utx",
+      "sha1": "42b7830a792b9b46e6f76e2c3711cd623c94b9ac",
+      "size": 197259,
+      "url": "https://redgrenade.life/l2updater/SysTextures/newbutbest.utx"
+    },
+    {
+      "path": "SysTextures/newbuttonsbest.utx",
+      "sha1": "f32ee8db47c56c1924db4304e9b54298bb751e55",
+      "size": 2757477,
+      "url": "https://redgrenade.life/l2updater/SysTextures/newbuttonsbest.utx"
+    },
+    {
+      "path": "SysTextures/ripskills.utx",
+      "sha1": "5238a30181b53983443d5c658e8181e8b2022bfb",
+      "size": 13097,
+      "url": "https://redgrenade.life/l2updater/SysTextures/ripskills.utx"
+    },
+    {
+      "path": "SysTextures/service_war.utx",
+      "sha1": "b7d11549db5fc951f1812cd4626c3b4df6ccba5a",
+      "size": 4558,
+      "url": "https://redgrenade.life/l2updater/SysTextures/service_war.utx"
+    },
+    {
+      "path": "SysTextures/shp.utx",
+      "sha1": "5c5c0fa442e26a7558bf2aa7c571014685e49c22",
+      "size": 37163,
+      "url": "https://redgrenade.life/l2updater/SysTextures/shp.utx"
+    },
+    {
+      "path": "SysTextures/shp2.utx",
+      "sha1": "07f1e94ca9404aca1bb59390c936ac2e092d6c8c",
+      "size": 10381,
+      "url": "https://redgrenade.life/l2updater/SysTextures/shp2.utx"
+    },
+    {
+      "path": "SysTextures/shr.utx",
+      "sha1": "0114b23be065ae0f1c3979287d9126213ae7645f",
+      "size": 5156,
+      "url": "https://redgrenade.life/l2updater/SysTextures/shr.utx"
+    },
+    {
+      "path": "SysTextures/sirius5.utx",
+      "sha1": "e9d8573a7f2a234e8e0bbf93cd0f0dcf35e40194",
+      "size": 3342,
+      "url": "https://redgrenade.life/l2updater/SysTextures/sirius5.utx"
+    },
+    {
+      "path": "SysTextures/sirius_icons.utx",
+      "sha1": "1d4353bd6320c544835278ee7dce38bb1b75febd",
+      "size": 33100,
+      "url": "https://redgrenade.life/l2updater/SysTextures/sirius_icons.utx"
+    },
+    {
+      "path": "SysTextures/sm2.utx",
+      "sha1": "ad6cc083e36725e33632dd5ede6785e59d74f2ee",
+      "size": 16163,
+      "url": "https://redgrenade.life/l2updater/SysTextures/sm2.utx"
+    },
+    {
+      "path": "SysTextures/sp_256_01.bmp",
+      "sha1": "7f89c2b6c8bd314deb516576b3e75842c48cc0bd",
+      "size": 308304,
+      "url": "https://redgrenade.life/l2updater/SysTextures/sp_256_01.bmp"
+    },
+    {
+      "path": "SysTextures/sp_256_02.bmp",
+      "sha1": "fd4d886dabcb7eca61949508548e4e296ca478cf",
+      "size": 308304,
+      "url": "https://redgrenade.life/l2updater/SysTextures/sp_256_02.bmp"
+    },
+    {
+      "path": "SysTextures/sp_256_03.bmp",
+      "sha1": "c98b01300e8f2ddccc57c0d6e80379b9ab98f1ac",
+      "size": 308304,
+      "url": "https://redgrenade.life/l2updater/SysTextures/sp_256_03.bmp"
+    },
+    {
+      "path": "SysTextures/sp_256_04.bmp",
+      "sha1": "5662521bd869954791178fb20da2b229110d09ed",
+      "size": 308324,
+      "url": "https://redgrenade.life/l2updater/SysTextures/sp_256_04.bmp"
+    },
+    {
+      "path": "SysTextures/sp_256_05.bmp",
+      "sha1": "be498ab719dc3ee3db783509b85fa22e7adfa46c",
+      "size": 308324,
+      "url": "https://redgrenade.life/l2updater/SysTextures/sp_256_05.bmp"
+    },
+    {
+      "path": "SysTextures/sp_256_06.bmp",
+      "sha1": "978a4a3e414c98195698d868182b127c1c63a861",
+      "size": 308324,
+      "url": "https://redgrenade.life/l2updater/SysTextures/sp_256_06.bmp"
+    },
+    {
+      "path": "SysTextures/sp_256_07.bmp",
+      "sha1": "b4a6743ef76f641c052de98112adcd19cf1811c8",
+      "size": 308324,
+      "url": "https://redgrenade.life/l2updater/SysTextures/sp_256_07.bmp"
+    },
+    {
+      "path": "SysTextures/sp_256_08.bmp",
+      "sha1": "abaf13dc22fe880f416cb07db706a580d391e8ca",
+      "size": 308324,
+      "url": "https://redgrenade.life/l2updater/SysTextures/sp_256_08.bmp"
+    },
+    {
+      "path": "SysTextures/sp_256_09.bmp",
+      "sha1": "65f028005a32c2d4eb9e5fe5659ef30b1c384b2c",
+      "size": 308324,
+      "url": "https://redgrenade.life/l2updater/SysTextures/sp_256_09.bmp"
+    },
+    {
+      "path": "SysTextures/sp_256_10.bmp",
+      "sha1": "366a304420afc7e98fcefb24fec4860dd4f0a46d",
+      "size": 308324,
+      "url": "https://redgrenade.life/l2updater/SysTextures/sp_256_10.bmp"
+    },
+    {
+      "path": "SysTextures/sp_256_11.bmp",
+      "sha1": "af517038a7bb395444f956d610404d624bb12ff8",
+      "size": 308324,
+      "url": "https://redgrenade.life/l2updater/SysTextures/sp_256_11.bmp"
+    },
+    {
+      "path": "SysTextures/sp_32b_01.bmp",
+      "sha1": "483ccda64984679c0893bda733b59aa2fae25ffb",
+      "size": 1228884,
+      "url": "https://redgrenade.life/l2updater/SysTextures/sp_32b_01.bmp"
+    },
+    {
+      "path": "SysTextures/sp_32b_02.bmp",
+      "sha1": "b92f8c8030899c0b1eef349f40edd7647778d760",
+      "size": 1228884,
+      "url": "https://redgrenade.life/l2updater/SysTextures/sp_32b_02.bmp"
+    },
+    {
+      "path": "SysTextures/sp_32b_03.bmp",
+      "sha1": "aa3daee75dc9365d8babe4b0c57bfed9ac9b789a",
+      "size": 1228884,
+      "url": "https://redgrenade.life/l2updater/SysTextures/sp_32b_03.bmp"
+    },
+    {
+      "path": "SysTextures/sp_32b_04.bmp",
+      "sha1": "e37e534787ae05ef924c474e66a6535881dce80c",
+      "size": 1228904,
+      "url": "https://redgrenade.life/l2updater/SysTextures/sp_32b_04.bmp"
+    },
+    {
+      "path": "SysTextures/sp_32b_05.bmp",
+      "sha1": "7f21c04ddf10714744f8203b00939c1a0cbc111f",
+      "size": 1228904,
+      "url": "https://redgrenade.life/l2updater/SysTextures/sp_32b_05.bmp"
+    },
+    {
+      "path": "SysTextures/sp_32b_06.bmp",
+      "sha1": "d4adc416a3d95ca027e1ce6f02f3bb025a69fdec",
+      "size": 1228904,
+      "url": "https://redgrenade.life/l2updater/SysTextures/sp_32b_06.bmp"
+    },
+    {
+      "path": "SysTextures/sp_32b_07.bmp",
+      "sha1": "49bcc7ecc85449e22597f02c07770fcb28b22d89",
+      "size": 1228904,
+      "url": "https://redgrenade.life/l2updater/SysTextures/sp_32b_07.bmp"
+    },
+    {
+      "path": "SysTextures/sp_32b_08.bmp",
+      "sha1": "07cb45c638f9a1f4c8bcdd377486c4cb926a1a9f",
+      "size": 1228904,
+      "url": "https://redgrenade.life/l2updater/SysTextures/sp_32b_08.bmp"
+    },
+    {
+      "path": "SysTextures/sp_32b_09.bmp",
+      "sha1": "5230b1038faf5b88039dd000511f3b57c64936eb",
+      "size": 1228904,
+      "url": "https://redgrenade.life/l2updater/SysTextures/sp_32b_09.bmp"
+    },
+    {
+      "path": "SysTextures/sp_32b_10.bmp",
+      "sha1": "9938e871086d70c66722f89a145a784abff3763b",
+      "size": 1228904,
+      "url": "https://redgrenade.life/l2updater/SysTextures/sp_32b_10.bmp"
+    },
+    {
+      "path": "SysTextures/sp_32b_11.bmp",
+      "sha1": "abe412109b9c0b5de5a16c22dea5ae715bb0b80a",
+      "size": 1228904,
+      "url": "https://redgrenade.life/l2updater/SysTextures/sp_32b_11.bmp"
+    },
+    {
+      "path": "SysTextures/takeyou_buttons.utx",
+      "sha1": "a7ccf36f6a083698a9617b061a85e89dac73b248",
+      "size": 5260550,
+      "url": "https://redgrenade.life/l2updater/SysTextures/takeyou_buttons.utx"
+    },
+    {
+      "path": "SysTextures/tk.utx",
+      "sha1": "324cf361963f9c321b35ea74aa06228c2ed21c42",
+      "size": 3293103,
+      "url": "https://redgrenade.life/l2updater/SysTextures/tk.utx"
+    },
+    {
+      "path": "SysTextures/trc.utx",
+      "sha1": "17b66bb5b7c64d659dc589abca85a30928a2c947",
+      "size": 10412,
+      "url": "https://redgrenade.life/l2updater/SysTextures/trc.utx"
+    },
+    {
+      "path": "SysTextures/ui1.ugx",
+      "sha1": "fd8868e0ec10e1b83842ad4cd415d52e4cc62b6e",
+      "size": 16836869,
+      "url": "https://redgrenade.life/l2updater/SysTextures/ui1.ugx"
+    },
+    {
+      "path": "SysTextures/ui10.ugx",
+      "sha1": "fabca97664b54d814372895b4e12c4df8db47b17",
+      "size": 1840600,
+      "url": "https://redgrenade.life/l2updater/SysTextures/ui10.ugx"
+    },
+    {
+      "path": "SysTextures/ui2.ugx",
+      "sha1": "6428629b78697abea8012b56e8dd31f307bf2ec6",
+      "size": 19970607,
+      "url": "https://redgrenade.life/l2updater/SysTextures/ui2.ugx"
+    },
+    {
+      "path": "SysTextures/ui3.ugx",
+      "sha1": "68bf19a4de156368d94462d4c67eca74b0ba252e",
+      "size": 26685031,
+      "url": "https://redgrenade.life/l2updater/SysTextures/ui3.ugx"
+    },
+    {
+      "path": "SysTextures/ui4.ugx",
+      "sha1": "987e7678773d0607093a38416208f046ecd20b0a",
+      "size": 21150529,
+      "url": "https://redgrenade.life/l2updater/SysTextures/ui4.ugx"
+    },
+    {
+      "path": "SysTextures/ui5.ugx",
+      "sha1": "a835ea35e5d110a2a2e9021dbe62a36adb9cb826",
+      "size": 49273726,
+      "url": "https://redgrenade.life/l2updater/SysTextures/ui5.ugx"
+    },
+    {
+      "path": "SysTextures/ui6.ugx",
+      "sha1": "7c9dd330c1d2c6c420f83b14c54e12545bae3f9a",
+      "size": 20753669,
+      "url": "https://redgrenade.life/l2updater/SysTextures/ui6.ugx"
+    },
+    {
+      "path": "SysTextures/ui7.ugx",
+      "sha1": "9e758eb11c146566a745a827d10e152314493347",
+      "size": 14647508,
+      "url": "https://redgrenade.life/l2updater/SysTextures/ui7.ugx"
+    },
+    {
+      "path": "SysTextures/ui8.ugx",
+      "sha1": "dee5faf4628e6aa2a4463b8b3a53ca24db2a986b",
+      "size": 31532735,
+      "url": "https://redgrenade.life/l2updater/SysTextures/ui8.ugx"
+    },
+    {
+      "path": "SysTextures/ui9.ugx",
+      "sha1": "4a70fb3dedddc751bdfccce5773e8b5f059cf720",
+      "size": 8771235,
+      "url": "https://redgrenade.life/l2updater/SysTextures/ui9.ugx"
+    },
+    {
+      "path": "SysTextures/uniquepvp.utx",
+      "sha1": "d81664c4de1814f6c189542833fe945a7ca7feed",
+      "size": 148523,
+      "url": "https://redgrenade.life/l2updater/SysTextures/uniquepvp.utx"
+    },
+    {
+      "path": "SysTextures/wandcbl.utx",
+      "sha1": "0b98b5eeee52090ab9dbb042712763c80769f85f",
+      "size": 262743,
+      "url": "https://redgrenade.life/l2updater/SysTextures/wandcbl.utx"
+    },
+    {
+      "path": "SysTextures/warskill.utx",
+      "sha1": "3286bf648acb6b31e562b70df4375c476aa9a0b7",
+      "size": 13734,
+      "url": "https://redgrenade.life/l2updater/SysTextures/warskill.utx"
+    },
+    {
+      "path": "SysTextures/warstown12.utx",
+      "sha1": "e4f5298aa1cbd84b196d016deaeab7bb2fceb025",
+      "size": 1543,
+      "url": "https://redgrenade.life/l2updater/SysTextures/warstown12.utx"
+    },
+    {
+      "path": "SysTextures/warstown_5.utx",
+      "sha1": "faecfdc05a51addbf039a2d417abfbe8ad3ba2de",
+      "size": 5808,
+      "url": "https://redgrenade.life/l2updater/SysTextures/warstown_5.utx"
+    },
+    {
+      "path": "SysTextures/warstown_accses.utx",
+      "sha1": "455f9ea086c5ca42405eb4fa272454e80030dc1c",
+      "size": 1550,
+      "url": "https://redgrenade.life/l2updater/SysTextures/warstown_accses.utx"
+    },
+    {
+      "path": "SysTextures/wn.utx",
+      "sha1": "8b42b82babd7a306fbcc4cda696a3a5e72af070e",
+      "size": 78193,
+      "url": "https://redgrenade.life/l2updater/SysTextures/wn.utx"
+    },
+    {
+      "path": "Textures/L2Font-ru.utx",
+      "sha1": "79f6a20a5c6d536a7a8031fb75475f48f924494f",
+      "size": 213078298,
+      "url": "https://redgrenade.life/l2updater/Textures/L2Font-ru.utx"
+    },
+    {
+      "path": "Textures/L2Font-ru.utxz",
+      "sha1": "5f5663731ae99e4a475c9841d1925ec1031c9340",
+      "size": 205817728,
+      "url": "https://redgrenade.life/l2updater/Textures/L2Font-ru.utxz"
+    },
+    {
+      "path": "Textures/L2_Lobby_T.utx",
+      "sha1": "86e0fcd6eac123010428670b33e70f1ce53f8014",
+      "size": 27905175,
+      "url": "https://redgrenade.life/l2updater/Textures/L2_Lobby_T.utx"
+    },
+    {
+      "path": "Textures/field_deco_T.utx",
+      "sha1": "3db266c2052c9e0a55c09f91dc22d7ae7b19dd1b",
+      "size": 27004286,
+      "url": "https://redgrenade.life/l2updater/Textures/field_deco_T.utx"
+    },
+    {
+      "path": "fullcheck.json",
+      "sha1": "8c4a2ee6719c6e881735edb093746c5958c9bcb4",
+      "size": 71,
+      "url": "https://redgrenade.life/l2updater/fullcheck.json"
+    },
+    {
+      "path": "generate_patch_list.py",
+      "sha1": "e532c9249cdd3645a66f9f888ce56c81597ea51d",
+      "size": 3875,
+      "url": "https://redgrenade.life/l2updater/generate_patch_list.py"
+    },
+    {
+      "path": "music/INTRO.ogg",
+      "sha1": "7169e3b25a53f26a383d5700390a174902fd4ccf",
+      "size": 2371207,
+      "url": "https://redgrenade.life/l2updater/music/INTRO.ogg"
+    },
+    {
+      "path": "system_en/ALAudio.dll",
+      "sha1": "547b0d1bee070f6b346ca486cd569a0327294074",
+      "size": 242176,
+      "url": "https://redgrenade.life/l2updater/system_en/ALAudio.dll"
+    },
+    {
+      "path": "system_en/ALAudio.int",
+      "sha1": "972ce1a7dd870e2c25a328e40e0e6a748ef3c75a",
+      "size": 4636,
+      "url": "https://redgrenade.life/l2updater/system_en/ALAudio.int"
+    },
+    {
+      "path": "system_en/AbnormalDefaultEffect.dat",
+      "sha1": "096af3b3408fb410a57e7541359db6837dbb08db",
+      "size": 3504,
+      "url": "https://redgrenade.life/l2updater/system_en/AbnormalDefaultEffect.dat"
+    },
+    {
+      "path": "system_en/AbnormalEdgeEffectData.dat",
+      "sha1": "cb036309772db33526b8a0406e9e00d340d7848b",
+      "size": 432,
+      "url": "https://redgrenade.life/l2updater/system_en/AbnormalEdgeEffectData.dat"
+    },
+    {
+      "path": "system_en/ActionName-eu.dat",
+      "sha1": "2dea4c1fe01c89e64b837d66c0cedf72370fcff7",
+      "size": 12592,
+      "url": "https://redgrenade.life/l2updater/system_en/ActionName-eu.dat"
+    },
+    {
+      "path": "system_en/ActionName_Classic-eu.dat",
+      "sha1": "eb4acce84da29a24f5c934824023261749aca18c",
+      "size": 11696,
+      "url": "https://redgrenade.life/l2updater/system_en/ActionName_Classic-eu.dat"
+    },
+    {
+      "path": "system_en/AdditionalEffect.dat",
+      "sha1": "aedfdbfc9aa63a20990200afb815603120d9475f",
+      "size": 2480,
+      "url": "https://redgrenade.life/l2updater/system_en/AdditionalEffect.dat"
+    },
+    {
+      "path": "system_en/AdditionalEffect_Classic.dat",
+      "sha1": "672de156fa98bce15f2ca49068528bd72cb03481",
+      "size": 2352,
+      "url": "https://redgrenade.life/l2updater/system_en/AdditionalEffect_Classic.dat"
+    },
+    {
+      "path": "system_en/AdditionalItemGrp.dat",
+      "sha1": "90d88cfd66386b797434d982cc2c8e38ae200154",
+      "size": 91184,
+      "url": "https://redgrenade.life/l2updater/system_en/AdditionalItemGrp.dat"
+    },
+    {
+      "path": "system_en/AdditionalItemGrp_Classic.dat",
+      "sha1": "7d6fe51a0caa5c9275c296665826cc2ffdda2be9",
+      "size": 29488,
+      "url": "https://redgrenade.life/l2updater/system_en/AdditionalItemGrp_Classic.dat"
+    },
+    {
+      "path": "system_en/AdditionalJewelEquipEffect.dat",
+      "sha1": "1671e6f03c6ff2021a2ed632614731f4907950c4",
+      "size": 304,
+      "url": "https://redgrenade.life/l2updater/system_en/AdditionalJewelEquipEffect.dat"
+    },
+    {
+      "path": "system_en/AdditionalJewelEquipEffect_Classic.dat",
+      "sha1": "fc6954e62418593a66f04fab2d205607d29c02da",
+      "size": 688,
+      "url": "https://redgrenade.life/l2updater/system_en/AdditionalJewelEquipEffect_Classic.dat"
+    },
+    {
+      "path": "system_en/AdditionalNpcGrpParts.dat",
+      "sha1": "9bee9e3dcac5c2e3df7b18183060275c6fc6946c",
+      "size": 1840,
+      "url": "https://redgrenade.life/l2updater/system_en/AdditionalNpcGrpParts.dat"
+    },
+    {
+      "path": "system_en/AdditionalNpcGrpParts_Classic.dat",
+      "sha1": "43679cfe15645e1e8205761bb76bbb606dfb1a92",
+      "size": 176,
+      "url": "https://redgrenade.life/l2updater/system_en/AdditionalNpcGrpParts_Classic.dat"
+    },
+    {
+      "path": "system_en/AdditionalSoulshotEffect.dat",
+      "sha1": "1ed6a35e722f585a73ec1c90fff6b2f8a5c74660",
+      "size": 304,
+      "url": "https://redgrenade.life/l2updater/system_en/AdditionalSoulshotEffect.dat"
+    },
+    {
+      "path": "system_en/AdditionalSoulshotEffect_Classic.dat",
+      "sha1": "0a2234afe71d7ee26687f2268f5a2ab320d1182e",
+      "size": 432,
+      "url": "https://redgrenade.life/l2updater/system_en/AdditionalSoulshotEffect_Classic.dat"
+    },
+    {
+      "path": "system_en/AlchemyData.dat",
+      "sha1": "f4b0a18fc12ea0bdc988a4d8aefbca9b0cc30539",
+      "size": 1840,
+      "url": "https://redgrenade.life/l2updater/system_en/AlchemyData.dat"
+    },
+    {
+      "path": "system_en/AlterSkillData.dat",
+      "sha1": "ff912401bcb43561ec4ea3a3976d515b4297e71f",
+      "size": 560,
+      "url": "https://redgrenade.life/l2updater/system_en/AlterSkillData.dat"
+    },
+    {
+      "path": "system_en/AnimationCombo.dat",
+      "sha1": "480d693d8735f0bd7918ea6b3495859b5543314c",
+      "size": 2992,
+      "url": "https://redgrenade.life/l2updater/system_en/AnimationCombo.dat"
+    },
+    {
+      "path": "system_en/Armorgrp.dat",
+      "sha1": "b54f7264013dab58d4ac619ed8e2d5a1a04c6ce6",
+      "size": 511664,
+      "url": "https://redgrenade.life/l2updater/system_en/Armorgrp.dat"
+    },
+    {
+      "path": "system_en/Armorgrp_Classic.dat",
+      "sha1": "609c524c6a38ae3d1850f1c5fedd26ca191261ac",
+      "size": 160304,
+      "url": "https://redgrenade.life/l2updater/system_en/Armorgrp_Classic.dat"
+    },
+    {
+      "path": "system_en/ArtifactData.dat",
+      "sha1": "a296485378649037a8a02837a727f8f2d038229c",
+      "size": 304,
+      "url": "https://redgrenade.life/l2updater/system_en/ArtifactData.dat"
+    },
+    {
+      "path": "system_en/ArtifactEnchantSetting.dat",
+      "sha1": "17602ccf78729454034cd82bb835ec763ae3ca66",
+      "size": 176,
+      "url": "https://redgrenade.life/l2updater/system_en/ArtifactEnchantSetting.dat"
+    },
+    {
+      "path": "system_en/ArtifactTypeSetting.dat",
+      "sha1": "b274224f7128ec9fdf5bcf46ffd08c474b0929e0",
+      "size": 176,
+      "url": "https://redgrenade.life/l2updater/system_en/ArtifactTypeSetting.dat"
+    },
+    {
+      "path": "system_en/ArtifactUpgrade.dat",
+      "sha1": "b3f91c31469b06ab8523c89e32a8c8ae16e57acf",
+      "size": 688,
+      "url": "https://redgrenade.life/l2updater/system_en/ArtifactUpgrade.dat"
+    },
+    {
+      "path": "system_en/Awesomium.dll",
+      "sha1": "aaa03e1a11d13e2d3e66398ed171bf9f67a08cbb",
+      "size": 21438776,
+      "url": "https://redgrenade.life/l2updater/system_en/Awesomium.dll"
+    },
+    {
+      "path": "system_en/AwesomiumProcess.exe",
+      "sha1": "4a4fb61fe21690ecbf15696e11704e55557db260",
+      "size": 453944,
+      "url": "https://redgrenade.life/l2updater/system_en/AwesomiumProcess.exe"
+    },
+    {
+      "path": "system_en/BeastTimeEnv0.int",
+      "sha1": "bc5e033a8b754bfeb86fa87e722995d54376a212",
+      "size": 28126,
+      "url": "https://redgrenade.life/l2updater/system_en/BeastTimeEnv0.int"
+    },
+    {
+      "path": "system_en/BeastTimeEnv1.int",
+      "sha1": "073c140bc2c3df4167aba296a2603920871d0a76",
+      "size": 28453,
+      "url": "https://redgrenade.life/l2updater/system_en/BeastTimeEnv1.int"
+    },
+    {
+      "path": "system_en/BeastTimeEnv2.int",
+      "sha1": "46296696b858a53189149fae9e2816842d1cd491",
+      "size": 27325,
+      "url": "https://redgrenade.life/l2updater/system_en/BeastTimeEnv2.int"
+    },
+    {
+      "path": "system_en/BeastTimeEnv3.int",
+      "sha1": "fa5f0f404431a4c84eff802e52bb6d84ce541837",
+      "size": 28101,
+      "url": "https://redgrenade.life/l2updater/system_en/BeastTimeEnv3.int"
+    },
+    {
+      "path": "system_en/BeastTimeEnv4.int",
+      "sha1": "3fe1ec0d0148ac27b11f636bafad479318a5ee54",
+      "size": 4922,
+      "url": "https://redgrenade.life/l2updater/system_en/BeastTimeEnv4.int"
+    },
+    {
+      "path": "system_en/BeastTimeEnv5.int",
+      "sha1": "07a98caadbf7388c739af5cfa90d2fa41d7c7fc1",
+      "size": 4992,
+      "url": "https://redgrenade.life/l2updater/system_en/BeastTimeEnv5.int"
+    },
+    {
+      "path": "system_en/CameraEffectInfo.u",
+      "sha1": "94c067f14f61457f9bf9ec82d4f556a75fefaa02",
+      "size": 1462,
+      "url": "https://redgrenade.life/l2updater/system_en/CameraEffectInfo.u"
+    },
+    {
+      "path": "system_en/CardCollectData-eu.dat",
+      "sha1": "7290aa800ff56bc1d94982dbbbac9f186e86e0d1",
+      "size": 304,
+      "url": "https://redgrenade.life/l2updater/system_en/CardCollectData-eu.dat"
+    },
+    {
+      "path": "system_en/CardCollectData_Classic-eu.dat",
+      "sha1": "79fa313e700c0f2a7de638442976a3f75cf4914f",
+      "size": 176,
+      "url": "https://redgrenade.life/l2updater/system_en/CardCollectData_Classic-eu.dat"
+    },
+    {
+      "path": "system_en/CastleName-eu.dat",
+      "sha1": "95cffcc65b05225abb4daef3b862fac45b0c0c2c",
+      "size": 1968,
+      "url": "https://redgrenade.life/l2updater/system_en/CastleName-eu.dat"
+    },
+    {
+      "path": "system_en/CastleName_Classic-eu.dat",
+      "sha1": "414da373edb8003e45f9774b7d4ead9c7177cec5",
+      "size": 1968,
+      "url": "https://redgrenade.life/l2updater/system_en/CastleName_Classic-eu.dat"
+    },
+    {
+      "path": "system_en/CharCreategrp.dat",
+      "sha1": "aa825e62b0c4a95ca974b6d848e6dc554fedda75",
+      "size": 688,
+      "url": "https://redgrenade.life/l2updater/system_en/CharCreategrp.dat"
+    },
+    {
+      "path": "system_en/CharCreategrp_Classic.dat",
+      "sha1": "2c7f93437f8165f8a680d73a9daaa42ad97c448f",
+      "size": 304,
+      "url": "https://redgrenade.life/l2updater/system_en/CharCreategrp_Classic.dat"
+    },
+    {
+      "path": "system_en/CharacterInitialStatExData.dat",
+      "sha1": "3c7bad7830e0a42ccdf3fae94b8ab87b605e69d7",
+      "size": 432,
+      "url": "https://redgrenade.life/l2updater/system_en/CharacterInitialStatExData.dat"
+    },
+    {
+      "path": "system_en/Chargrp.dat",
+      "sha1": "e46b6771c4c687aa73c19e0522f9f7440b9ef4b9",
+      "size": 4912,
+      "url": "https://redgrenade.life/l2updater/system_en/Chargrp.dat"
+    },
+    {
+      "path": "system_en/ClassInfo-eu.dat",
+      "sha1": "f7962871c1838f5a4f278811d2d5cdf72ec4203c",
+      "size": 4912,
+      "url": "https://redgrenade.life/l2updater/system_en/ClassInfo-eu.dat"
+    },
+    {
+      "path": "system_en/ClassInfo_Classic-eu.dat",
+      "sha1": "a1854140a512cabb3e534828adc1d8a6bf92d0f6",
+      "size": 2480,
+      "url": "https://redgrenade.life/l2updater/system_en/ClassInfo_Classic-eu.dat"
+    },
+    {
+      "path": "system_en/Cloak.int",
+      "sha1": "11926a2f162aa5bf621c95c3c08983834e5991bc",
+      "size": 434,
+      "url": "https://redgrenade.life/l2updater/system_en/Cloak.int"
+    },
+    {
+      "path": "system_en/ColorExName-eu.dat",
+      "sha1": "cad5ef7872a465d6a316a3f59ea6f931feda3bbd",
+      "size": 944,
+      "url": "https://redgrenade.life/l2updater/system_en/ColorExName-eu.dat"
+    },
+    {
+      "path": "system_en/ColorExgrp.dat",
+      "sha1": "95fa4910015a2408f4d8a56670f1e45bec0640fb",
+      "size": 560,
+      "url": "https://redgrenade.life/l2updater/system_en/ColorExgrp.dat"
+    },
+    {
+      "path": "system_en/CombinationItemData.dat",
+      "sha1": "525f6e6b0cc90caeda49bbaa2721bf47d0eaa178",
+      "size": 10288,
+      "url": "https://redgrenade.life/l2updater/system_en/CombinationItemData.dat"
+    },
+    {
+      "path": "system_en/CombinationItemData_Classic.dat",
+      "sha1": "dfb19afda6bb55459e3026a17e4ec5d27a868c08",
+      "size": 3760,
+      "url": "https://redgrenade.life/l2updater/system_en/CombinationItemData_Classic.dat"
+    },
+    {
+      "path": "system_en/CommandName-eu.dat",
+      "sha1": "88412108ffbde44a59f65c1c88d64440de7d1f8d",
+      "size": 1840,
+      "url": "https://redgrenade.life/l2updater/system_en/CommandName-eu.dat"
+    },
+    {
+      "path": "system_en/CommandName_Classic-eu.dat",
+      "sha1": "c777a95f34ce7d40341b3b9b684cb24713304de3",
+      "size": 1584,
+      "url": "https://redgrenade.life/l2updater/system_en/CommandName_Classic-eu.dat"
+    },
+    {
+      "path": "system_en/Core.dll",
+      "sha1": "a3c775fc7907d0f75ecd63352eefd7a7bd0dbb7e",
+      "size": 1839288,
+      "url": "https://redgrenade.life/l2updater/system_en/Core.dll"
+    },
+    {
+      "path": "system_en/Core.int",
+      "sha1": "dd7a5f47f73adec31f2bae7eef81cfba0578f0b3",
+      "size": 3479,
+      "url": "https://redgrenade.life/l2updater/system_en/Core.int"
+    },
+    {
+      "path": "system_en/Core.u",
+      "sha1": "c52b63110080b62f43a0477ae41409ae8e5f9c98",
+      "size": 38832,
+      "url": "https://redgrenade.life/l2updater/system_en/Core.u"
+    },
+    {
+      "path": "system_en/Costume_Classic.dat",
+      "sha1": "2c70fdcfd14562fed82e99c1bc3afe749ce0480d",
+      "size": 1328,
+      "url": "https://redgrenade.life/l2updater/system_en/Costume_Classic.dat"
+    },
+    {
+      "path": "system_en/Costume_CollectionBonus_Classic.dat",
+      "sha1": "291793adb98c2250e195bb912dbeba5ac3aca6dc",
+      "size": 176,
+      "url": "https://redgrenade.life/l2updater/system_en/Costume_CollectionBonus_Classic.dat"
+    },
+    {
+      "path": "system_en/Costume_Collection_Classic.dat",
+      "sha1": "f4dda9c4d586407013db3584e13c5e2a158e060a",
+      "size": 304,
+      "url": "https://redgrenade.life/l2updater/system_en/Costume_Collection_Classic.dat"
+    },
+    {
+      "path": "system_en/Credit-eu.dat",
+      "sha1": "7e5f63a23f5e413a5d9910b8765be4ab14b7f161",
+      "size": 176,
+      "url": "https://redgrenade.life/l2updater/system_en/Credit-eu.dat"
+    },
+    {
+      "path": "system_en/CreditFont.gly",
+      "sha1": "618fd8b21cf55c0726a9dc8e9ffead2eaa95d96d",
+      "size": 181780,
+      "url": "https://redgrenade.life/l2updater/system_en/CreditFont.gly"
+    },
+    {
+      "path": "system_en/CubicEffectData.dat",
+      "sha1": "69d7e6dca9521bad5127d367d15058d51842273d",
+      "size": 304,
+      "url": "https://redgrenade.life/l2updater/system_en/CubicEffectData.dat"
+    },
+    {
+      "path": "system_en/D3DDrv.dll",
+      "sha1": "049797cff97ae7ccd8413a8419d7044927422ddc",
+      "size": 811008,
+      "url": "https://redgrenade.life/l2updater/system_en/D3DDrv.dll"
+    },
+    {
+      "path": "system_en/D3DDrv.int",
+      "sha1": "6a666075407d178875d851d1ed472899e61c7135",
+      "size": 402,
+      "url": "https://redgrenade.life/l2updater/system_en/D3DDrv.int"
+    },
+    {
+      "path": "system_en/D3DX9_40.dll",
+      "sha1": "77a7f48f4bdb7e66ed5e524bb8879e3da0d6cd1d",
+      "size": 4379984,
+      "url": "https://redgrenade.life/l2updater/system_en/D3DX9_40.dll"
+    },
+    {
+      "path": "system_en/DSETUP.dll",
+      "sha1": "a0bd2b9f69597c9401891b48a87d3193f011ea57",
+      "size": 62976,
+      "url": "https://redgrenade.life/l2updater/system_en/DSETUP.dll"
+    },
+    {
+      "path": "system_en/DecoNPCData_client.dat",
+      "sha1": "d5150b5e3e9eef089c915d36659f54b93cfb561a",
+      "size": 688,
+      "url": "https://redgrenade.life/l2updater/system_en/DecoNPCData_client.dat"
+    },
+    {
+      "path": "system_en/DefOpenAL32.dll",
+      "sha1": "c16010b8e2b902fe40ad359a57472268ab5c5c88",
+      "size": 114688,
+      "url": "https://redgrenade.life/l2updater/system_en/DefOpenAL32.dll"
+    },
+    {
+      "path": "system_en/DualCastTypeData.dat",
+      "sha1": "f35550fff96e341908a6d78a3a3932cde8b51cdd",
+      "size": 176,
+      "url": "https://redgrenade.life/l2updater/system_en/DualCastTypeData.dat"
+    },
+    {
+      "path": "system_en/DynamicContentsName-eu.dat",
+      "sha1": "482f6fcc9ed20d8dd333ede6deeba7dfb1fd8ab5",
+      "size": 2992,
+      "url": "https://redgrenade.life/l2updater/system_en/DynamicContentsName-eu.dat"
+    },
+    {
+      "path": "system_en/EULA-eu.dat",
+      "sha1": "a15d520754284ef8220e0966a8d4918e7bb329f9",
+      "size": 3120,
+      "url": "https://redgrenade.life/l2updater/system_en/EULA-eu.dat"
+    },
+    {
+      "path": "system_en/Editor.u",
+      "sha1": "6bd0eff0a499a8a5412dac1e87cb6e4f34775122",
+      "size": 558507,
+      "url": "https://redgrenade.life/l2updater/system_en/Editor.u"
+    },
+    {
+      "path": "system_en/ElementalSpiritStat_Classic.dat",
+      "sha1": "5585078f645dad4c06b9b5b01944c614f641408d",
+      "size": 2864,
+      "url": "https://redgrenade.life/l2updater/system_en/ElementalSpiritStat_Classic.dat"
+    },
+    {
+      "path": "system_en/ElementalSpirit_Classic.dat",
+      "sha1": "69732932f2f15cfdf1e3cad32cd905dacf3593c9",
+      "size": 1072,
+      "url": "https://redgrenade.life/l2updater/system_en/ElementalSpirit_Classic.dat"
+    },
+    {
+      "path": "system_en/EnchantStatBonus.dat",
+      "sha1": "758e5d69bf456995127085ae1296d33bf0f2a5dd",
+      "size": 432,
+      "url": "https://redgrenade.life/l2updater/system_en/EnchantStatBonus.dat"
+    },
+    {
+      "path": "system_en/EnchantStatBonus_Classic.dat",
+      "sha1": "330de50d7331932b41f04b9ab3abf0e629fc529e",
+      "size": 432,
+      "url": "https://redgrenade.life/l2updater/system_en/EnchantStatBonus_Classic.dat"
+    },
+    {
+      "path": "system_en/EnchantedWeaponFlowEffectData.dat",
+      "sha1": "0b7bd4a48e31425cdf81a30140c3e6a83f083c83",
+      "size": 1328,
+      "url": "https://redgrenade.life/l2updater/system_en/EnchantedWeaponFlowEffectData.dat"
+    },
+    {
+      "path": "system_en/EnchantedWeaponFlowEffectData_Classic.dat",
+      "sha1": "702f62a52ce077203eb97d0c6799ed0d2b548730",
+      "size": 688,
+      "url": "https://redgrenade.life/l2updater/system_en/EnchantedWeaponFlowEffectData_Classic.dat"
+    },
+    {
+      "path": "system_en/Engine.dll",
+      "sha1": "bfd1f88fbd1da8cc7eee0e378d0a7d7cb63d65a8",
+      "size": 38677176,
+      "url": "https://redgrenade.life/l2updater/system_en/Engine.dll"
+    },
+    {
+      "path": "system_en/Engine.int",
+      "sha1": "8624fff4bcf007101b5e8cde97dc1efbaad19a30",
+      "size": 6991,
+      "url": "https://redgrenade.life/l2updater/system_en/Engine.int"
+    },
+    {
+      "path": "system_en/Engine.u",
+      "sha1": "590645e2deb07c70b881486ceae8388b3e311bc7",
+      "size": 1900690,
+      "url": "https://redgrenade.life/l2updater/system_en/Engine.u"
+    },
+    {
+      "path": "system_en/EnterEventgrp.dat",
+      "sha1": "d2676752056d4a8f408c698f6d40d9ca1ddaf494",
+      "size": 6704,
+      "url": "https://redgrenade.life/l2updater/system_en/EnterEventgrp.dat"
+    },
+    {
+      "path": "system_en/EnterEventgrp_Classic.dat",
+      "sha1": "ade4c36fc6434421c1c2453f3f7b3396c34703f4",
+      "size": 6448,
+      "url": "https://redgrenade.life/l2updater/system_en/EnterEventgrp_Classic.dat"
+    },
+    {
+      "path": "system_en/Env.int",
+      "sha1": "1fe11c13d06ae82d6987c63ff2fa090aa61d1171",
+      "size": 4253,
+      "url": "https://redgrenade.life/l2updater/system_en/Env.int"
+    },
+    {
+      "path": "system_en/EtcItemgrp.dat",
+      "sha1": "e810127d57c354d37d07a6f204aa184264ebf775",
+      "size": 153392,
+      "url": "https://redgrenade.life/l2updater/system_en/EtcItemgrp.dat"
+    },
+    {
+      "path": "system_en/EtcItemgrp_Classic.dat",
+      "sha1": "750854677b91144235c5efe8df6009112e7f25ae",
+      "size": 64688,
+      "url": "https://redgrenade.life/l2updater/system_en/EtcItemgrp_Classic.dat"
+    },
+    {
+      "path": "system_en/EventAlarmList-eu.dat",
+      "sha1": "5681ca4f83bfb3958f9470c1b953a5f2186d958c",
+      "size": 2608,
+      "url": "https://redgrenade.life/l2updater/system_en/EventAlarmList-eu.dat"
+    },
+    {
+      "path": "system_en/EventAlarmList_Classic-eu.dat",
+      "sha1": "af7e282178e99e0462bed71ed3551b62c868331a",
+      "size": 1712,
+      "url": "https://redgrenade.life/l2updater/system_en/EventAlarmList_Classic-eu.dat"
+    },
+    {
+      "path": "system_en/EventContentsGoalName-eu.dat",
+      "sha1": "100a492af28f54d03b7c7d161463d6e7ebc55cc9",
+      "size": 560,
+      "url": "https://redgrenade.life/l2updater/system_en/EventContentsGoalName-eu.dat"
+    },
+    {
+      "path": "system_en/EventContentsName-eu.dat",
+      "sha1": "ff7462e1d8cdb0b455c7b7a42c5b61bc9fca6d2f",
+      "size": 304,
+      "url": "https://redgrenade.life/l2updater/system_en/EventContentsName-eu.dat"
+    },
+    {
+      "path": "system_en/EventLookChange.dat",
+      "sha1": "304764b81fdeb52f4229890d4e6b7c0e8f6068cc",
+      "size": 2352,
+      "url": "https://redgrenade.life/l2updater/system_en/EventLookChange.dat"
+    },
+    {
+      "path": "system_en/ExceptionMinimapData.dat",
+      "sha1": "d4fe1978d896c4aaea4f3c66a2828ef778076f0e",
+      "size": 2096,
+      "url": "https://redgrenade.life/l2updater/system_en/ExceptionMinimapData.dat"
+    },
+    {
+      "path": "system_en/ExceptionMinimapData_Classic.dat",
+      "sha1": "b303b50030f4731dee2ca4fe6ae2b8e75769291a",
+      "size": 1584,
+      "url": "https://redgrenade.life/l2updater/system_en/ExceptionMinimapData_Classic.dat"
+    },
+    {
+      "path": "system_en/FactionName-eu.dat",
+      "sha1": "50792466cefa721d91e755a94c630216909d9402",
+      "size": 2992,
+      "url": "https://redgrenade.life/l2updater/system_en/FactionName-eu.dat"
+    },
+    {
+      "path": "system_en/Fire.dll",
+      "sha1": "c13e51d213cc2c0ae3a8c759f4ad1f738ad6d659",
+      "size": 193024,
+      "url": "https://redgrenade.life/l2updater/system_en/Fire.dll"
+    },
+    {
+      "path": "system_en/Fire.u",
+      "sha1": "c0842817692b7adc05d73e34148ca3c3b698aaae",
+      "size": 6797,
+      "url": "https://redgrenade.life/l2updater/system_en/Fire.u"
+    },
+    {
+      "path": "system_en/FixedTimeEnv0.int",
+      "sha1": "83141a174bb23001cd8a4f8747ac9202756dd129",
+      "size": 27238,
+      "url": "https://redgrenade.life/l2updater/system_en/FixedTimeEnv0.int"
+    },
+    {
+      "path": "system_en/FlashConfig.dat",
+      "sha1": "84688f1a14f291d70f9a18be95dbc1fce88104a9",
+      "size": 1072,
+      "url": "https://redgrenade.life/l2updater/system_en/FlashConfig.dat"
+    },
+    {
+      "path": "system_en/FlyMoveName-eu.dat",
+      "sha1": "aed56909526211576de7ea0589f15f332aaefe10",
+      "size": 944,
+      "url": "https://redgrenade.life/l2updater/system_en/FlyMoveName-eu.dat"
+    },
+    {
+      "path": "system_en/FlyMoveName_Classic-eu.dat",
+      "sha1": "1f47c4a42e99b64f260c4c93d5a7c9b3d5d3c0fc",
+      "size": 816,
+      "url": "https://redgrenade.life/l2updater/system_en/FlyMoveName_Classic-eu.dat"
+    },
+    {
+      "path": "system_en/FullArmorEnchantEffectData.dat",
+      "sha1": "f1f4e2bf07fc5672ed382c161105421236a9c00e",
+      "size": 176,
+      "url": "https://redgrenade.life/l2updater/system_en/FullArmorEnchantEffectData.dat"
+    },
+    {
+      "path": "system_en/GameDataBase-eu.dat",
+      "sha1": "e6f339cc5937703f2e2971b27c5239196394ffd5",
+      "size": 2992,
+      "url": "https://redgrenade.life/l2updater/system_en/GameDataBase-eu.dat"
+    },
+    {
+      "path": "system_en/GameDataBase_Classic-eu.dat",
+      "sha1": "68a3bcd1c458ef31f4f6b13ad9df2fc57b215e90",
+      "size": 688,
+      "url": "https://redgrenade.life/l2updater/system_en/GameDataBase_Classic-eu.dat"
+    },
+    {
+      "path": "system_en/GamePlay.u",
+      "sha1": "6ae4db51ff3072c81405101a55c641a6c2910d61",
+      "size": 106478,
+      "url": "https://redgrenade.life/l2updater/system_en/GamePlay.u"
+    },
+    {
+      "path": "system_en/GameTip-eu.dat",
+      "sha1": "d6f1daa9f3fdbacf91fd0062c3b8a38d14ce0427",
+      "size": 24624,
+      "url": "https://redgrenade.life/l2updater/system_en/GameTip-eu.dat"
+    },
+    {
+      "path": "system_en/GameTip_Classic-eu.dat",
+      "sha1": "fcdb9d45b94bd584ff5df01eb3aa897ba3860811",
+      "size": 24496,
+      "url": "https://redgrenade.life/l2updater/system_en/GameTip_Classic-eu.dat"
+    },
+    {
+      "path": "system_en/GoodsIcon.dat",
+      "sha1": "9a2feb54ce43a7a65881f9d5328d96b4431954a9",
+      "size": 176,
+      "url": "https://redgrenade.life/l2updater/system_en/GoodsIcon.dat"
+    },
+    {
+      "path": "system_en/Hair.int",
+      "sha1": "e41821e1476e04dd7801951125df2eb72e6d3235",
+      "size": 116121,
+      "url": "https://redgrenade.life/l2updater/system_en/Hair.int"
+    },
+    {
+      "path": "system_en/Hairaccessorylocgrp.dat",
+      "sha1": "05824e99a1dbcfac334aff4e9ed63677d2e60e9a",
+      "size": 3888,
+      "url": "https://redgrenade.life/l2updater/system_en/Hairaccessorylocgrp.dat"
+    },
+    {
+      "path": "system_en/Hennagrp-eu.dat",
+      "sha1": "099e5745bd240313648731646aea75136e6bbca8",
+      "size": 8112,
+      "url": "https://redgrenade.life/l2updater/system_en/Hennagrp-eu.dat"
+    },
+    {
+      "path": "system_en/Hennagrp_Classic-eu.dat",
+      "sha1": "00e18479c0d8d9f6d156212bd45f2ab4d706f2b3",
+      "size": 4144,
+      "url": "https://redgrenade.life/l2updater/system_en/Hennagrp_Classic-eu.dat"
+    },
+    {
+      "path": "system_en/HuntingZone-eu.dat",
+      "sha1": "4c9dc2ba9c0bf45e684b7d5f02f6072070d0823c",
+      "size": 9264,
+      "url": "https://redgrenade.life/l2updater/system_en/HuntingZone-eu.dat"
+    },
+    {
+      "path": "system_en/HuntingZone_Classic-eu.dat",
+      "sha1": "85dae17f0ea1817fb22cf6865a49f984cbad9435",
+      "size": 18480,
+      "url": "https://redgrenade.life/l2updater/system_en/HuntingZone_Classic-eu.dat"
+    },
+    {
+      "path": "system_en/InstantZoneData-eu.dat",
+      "sha1": "22de88317de3a45685a1ee837964445eeaebeec1",
+      "size": 2736,
+      "url": "https://redgrenade.life/l2updater/system_en/InstantZoneData-eu.dat"
+    },
+    {
+      "path": "system_en/InstantZoneData_Classic-eu.dat",
+      "sha1": "d61b6fa953836421962f246ace8ffab3a223292d",
+      "size": 560,
+      "url": "https://redgrenade.life/l2updater/system_en/InstantZoneData_Classic-eu.dat"
+    },
+    {
+      "path": "system_en/Interface.u",
+      "sha1": "5202b83d5c2bbc539a531523a5f646fb4bf765ab",
+      "size": 3251939,
+      "url": "https://redgrenade.life/l2updater/system_en/Interface.u"
+    },
+    {
+      "path": "system_en/Interface.xdat",
+      "sha1": "bdee0f5802fa560b862c875235a1320557dd82b4",
+      "size": 2833719,
+      "url": "https://redgrenade.life/l2updater/system_en/Interface.xdat"
+    },
+    {
+      "path": "system_en/ItemName-eu.dat",
+      "sha1": "dd3cf85f7d43885e2162538277b6c901f3be58e9",
+      "size": 1078704,
+      "url": "https://redgrenade.life/l2updater/system_en/ItemName-eu.dat"
+    },
+    {
+      "path": "system_en/ItemName_Classic-eu.dat",
+      "sha1": "1b3b0eecc77d809a2bd5a403f09d9d6534525fbb",
+      "size": 379568,
+      "url": "https://redgrenade.life/l2updater/system_en/ItemName_Classic-eu.dat"
+    },
+    {
+      "path": "system_en/ItemStatData.dat",
+      "sha1": "74903a8ce89bcd7e77cc36974a7e7b19b5a6bb86",
+      "size": 140592,
+      "url": "https://redgrenade.life/l2updater/system_en/ItemStatData.dat"
+    },
+    {
+      "path": "system_en/ItemStatData_Classic.dat",
+      "sha1": "71158f4a6421bfcdc126902179f2a234c748e574",
+      "size": 153648,
+      "url": "https://redgrenade.life/l2updater/system_en/ItemStatData_Classic.dat"
+    },
+    {
+      "path": "system_en/L2.bin",
+      "sha1": "e2b7f45284c9f4e6e284bf496a3e9f70f2beb955",
+      "size": 3421742,
+      "url": "https://redgrenade.life/l2updater/system_en/L2.bin"
+    },
+    {
+      "path": "system_en/L2.ini",
+      "sha1": "866619716c9549835b8cc70d36e470b91223cdfe",
+      "size": 4272,
+      "url": "https://redgrenade.life/l2updater/system_en/L2.ini"
+    },
+    {
+      "path": "system_en/L2CefSubProcess.exe",
+      "sha1": "c62306c1b3ff16bd12afc593f0fee8b982ed96d7",
+      "size": 246272,
+      "url": "https://redgrenade.life/l2updater/system_en/L2CefSubProcess.exe"
+    },
+    {
+      "path": "system_en/L2CompiledShader.bin",
+      "sha1": "f52b6f5403be72b23363a120ae751e986d4a1b85",
+      "size": 124082,
+      "url": "https://redgrenade.life/l2updater/system_en/L2CompiledShader.bin"
+    },
+    {
+      "path": "system_en/L2CrashSender.exe",
+      "sha1": "8b0754533ba076ba14fab56527aa84587493078a",
+      "size": 149504,
+      "url": "https://redgrenade.life/l2updater/system_en/L2CrashSender.exe"
+    },
+    {
+      "path": "system_en/L2ForecF.ffe",
+      "sha1": "89138f5c4585bd1939a77976120a04ba6c917f78",
+      "size": 3496,
+      "url": "https://redgrenade.life/l2updater/system_en/L2ForecF.ffe"
+    },
+    {
+      "path": "system_en/L2GameDataName.dat",
+      "sha1": "c83eac43ddcb9a373298e0b71936c039cefb0776",
+      "size": 758960,
+      "url": "https://redgrenade.life/l2updater/system_en/L2GameDataName.dat"
+    },
+    {
+      "path": "system_en/L2PreCompiledShader.bin",
+      "sha1": "11edf2bdcca5b43ae1a966fe63d6509d087ffdf2",
+      "size": 58539,
+      "url": "https://redgrenade.life/l2updater/system_en/L2PreCompiledShader.bin"
+    },
+    {
+      "path": "system_en/LargeFont-eu.gly",
+      "sha1": "f4525a1b42071ee924a6ff15295e2df0cc327d99",
+      "size": 1540,
+      "url": "https://redgrenade.life/l2updater/system_en/LargeFont-eu.gly"
+    },
+    {
+      "path": "system_en/LargeFont.gly",
+      "sha1": "70a039a8bf14253580422b81c7ffb2e3d10c4084",
+      "size": 185612,
+      "url": "https://redgrenade.life/l2updater/system_en/LargeFont.gly"
+    },
+    {
+      "path": "system_en/LineageDeco.u",
+      "sha1": "077bac57e34d5e8aa6b0ebe27dbed721c207a1c1",
+      "size": 4911,
+      "url": "https://redgrenade.life/l2updater/system_en/LineageDeco.u"
+    },
+    {
+      "path": "system_en/LineageEffect.u",
+      "sha1": "81bcdbabf9aa49c136668f101c71a4026a3f2ab5",
+      "size": 30792761,
+      "url": "https://redgrenade.life/l2updater/system_en/LineageEffect.u"
+    },
+    {
+      "path": "system_en/LineageEffect2.u",
+      "sha1": "36a9535ff293c2ceea597460a75839a6f6e2994f",
+      "size": 8680319,
+      "url": "https://redgrenade.life/l2updater/system_en/LineageEffect2.u"
+    },
+    {
+      "path": "system_en/LineageEffect_Br.u",
+      "sha1": "4687a62fb821b8a6627b4fec0f8bbf2d4b95936b",
+      "size": 1214919,
+      "url": "https://redgrenade.life/l2updater/system_en/LineageEffect_Br.u"
+    },
+    {
+      "path": "system_en/LineageGameplay.u",
+      "sha1": "307d7da9a5b303f690f076ba115afb35cde4b494",
+      "size": 8745,
+      "url": "https://redgrenade.life/l2updater/system_en/LineageGameplay.u"
+    },
+    {
+      "path": "system_en/LineageMonster.u",
+      "sha1": "ae3090e76f0e8ccb8dd49dd81cdf83a30304bee9",
+      "size": 184821,
+      "url": "https://redgrenade.life/l2updater/system_en/LineageMonster.u"
+    },
+    {
+      "path": "system_en/LineageMonster10.u",
+      "sha1": "658e45c6f04f0fb6fec2fb8ecf3fdeec6ad70121",
+      "size": 13056,
+      "url": "https://redgrenade.life/l2updater/system_en/LineageMonster10.u"
+    },
+    {
+      "path": "system_en/LineageMonster11.u",
+      "sha1": "08b29398b042cdeb7e50aba148e50218c55a81a0",
+      "size": 9072,
+      "url": "https://redgrenade.life/l2updater/system_en/LineageMonster11.u"
+    },
+    {
+      "path": "system_en/LineageMonster12.u",
+      "sha1": "242348f39979cd8971b38d2ae87a6064a63c9525",
+      "size": 15290,
+      "url": "https://redgrenade.life/l2updater/system_en/LineageMonster12.u"
+    },
+    {
+      "path": "system_en/LineageMonster13.u",
+      "sha1": "7a6698f55367a9870c5d3e05a64e817458803fda",
+      "size": 70340,
+      "url": "https://redgrenade.life/l2updater/system_en/LineageMonster13.u"
+    },
+    {
+      "path": "system_en/LineageMonster2.u",
+      "sha1": "32662cfc8c351d403ce70e455c5e1e427a510493",
+      "size": 86274,
+      "url": "https://redgrenade.life/l2updater/system_en/LineageMonster2.u"
+    },
+    {
+      "path": "system_en/LineageMonster3.u",
+      "sha1": "56a2179a596ef6b538b14bb52d46c2248e2adbdd",
+      "size": 94358,
+      "url": "https://redgrenade.life/l2updater/system_en/LineageMonster3.u"
+    },
+    {
+      "path": "system_en/LineageMonster4.u",
+      "sha1": "0d4fdd7a892972f473e934b19bd6f90d10161699",
+      "size": 99546,
+      "url": "https://redgrenade.life/l2updater/system_en/LineageMonster4.u"
+    },
+    {
+      "path": "system_en/LineageMonster5.u",
+      "sha1": "d18fea5262e3798b4ae91debf3a9232a8cc6d77c",
+      "size": 62011,
+      "url": "https://redgrenade.life/l2updater/system_en/LineageMonster5.u"
+    },
+    {
+      "path": "system_en/LineageMonster6.u",
+      "sha1": "32850b62094d6fb1d557fea0d743d90a6b21f3d2",
+      "size": 24541,
+      "url": "https://redgrenade.life/l2updater/system_en/LineageMonster6.u"
+    },
+    {
+      "path": "system_en/LineageMonster7.u",
+      "sha1": "5d4daca592cafc5bac5931b56d5d865e53c94db3",
+      "size": 124589,
+      "url": "https://redgrenade.life/l2updater/system_en/LineageMonster7.u"
+    },
+    {
+      "path": "system_en/LineageMonster8.u",
+      "sha1": "d815436bcfa2d6fc469bfe25a4d1bc2c21aa51b5",
+      "size": 6992,
+      "url": "https://redgrenade.life/l2updater/system_en/LineageMonster8.u"
+    },
+    {
+      "path": "system_en/LineageMonster9.u",
+      "sha1": "a4b0201ed69bed47da58bb395c14d727e7b4bd7e",
+      "size": 21118,
+      "url": "https://redgrenade.life/l2updater/system_en/LineageMonster9.u"
+    },
+    {
+      "path": "system_en/LineageMonster99.u",
+      "sha1": "5028d128ba1939c5c7f1fdf8d039f8072f60e32a",
+      "size": 8027,
+      "url": "https://redgrenade.life/l2updater/system_en/LineageMonster99.u"
+    },
+    {
+      "path": "system_en/LineageNPCs_ShockZone.u",
+      "sha1": "78e1504c8c8a5f35049a3dac36380fe56f29c263",
+      "size": 73487373,
+      "url": "https://redgrenade.life/l2updater/system_en/LineageNPCs_ShockZone.u"
+    },
+    {
+      "path": "system_en/LineageNpc.u",
+      "sha1": "67b21f67605231e01a42244ce7e82776fca36089",
+      "size": 100363,
+      "url": "https://redgrenade.life/l2updater/system_en/LineageNpc.u"
+    },
+    {
+      "path": "system_en/LineageNpc2.u",
+      "sha1": "49d21636d25fbd28be65d2b0db81f84a65c8367f",
+      "size": 241220,
+      "url": "https://redgrenade.life/l2updater/system_en/LineageNpc2.u"
+    },
+    {
+      "path": "system_en/LineageNpc3.u",
+      "sha1": "93220bb0fe945c2cd9dc0f8d4e2f08d276bfe6f9",
+      "size": 55657,
+      "url": "https://redgrenade.life/l2updater/system_en/LineageNpc3.u"
+    },
+    {
+      "path": "system_en/LineageNpc4.u",
+      "sha1": "8f9ae848a1484b4ee484930eea030832e2c95ef1",
+      "size": 18393,
+      "url": "https://redgrenade.life/l2updater/system_en/LineageNpc4.u"
+    },
+    {
+      "path": "system_en/LineageNpc5.u",
+      "sha1": "86e86496209043026b8f43bec94cdac94a77987f",
+      "size": 46801,
+      "url": "https://redgrenade.life/l2updater/system_en/LineageNpc5.u"
+    },
+    {
+      "path": "system_en/LineageNpcEv.u",
+      "sha1": "610e7b7f6484483befe7ccd2c20579e437d2a5cc",
+      "size": 171890,
+      "url": "https://redgrenade.life/l2updater/system_en/LineageNpcEv.u"
+    },
+    {
+      "path": "system_en/LineageNpc_br.u",
+      "sha1": "80ce8b4c3eebe7102117f5f8856d0aea92e81d4c",
+      "size": 53897,
+      "url": "https://redgrenade.life/l2updater/system_en/LineageNpc_br.u"
+    },
+    {
+      "path": "system_en/LineageSceneInfo.u",
+      "sha1": "b87caa93a4e6a2350ffa382e318178c62fd007c1",
+      "size": 387618,
+      "url": "https://redgrenade.life/l2updater/system_en/LineageSceneInfo.u"
+    },
+    {
+      "path": "system_en/LineageSkillEffect.u",
+      "sha1": "2ff5c109257498ec7b6ac2489b62d202d46e6e86",
+      "size": 1854539,
+      "url": "https://redgrenade.life/l2updater/system_en/LineageSkillEffect.u"
+    },
+    {
+      "path": "system_en/LineageVehicle.u",
+      "sha1": "7982889449c8fbac338ea9eeeafa55bb64311c11",
+      "size": 7341,
+      "url": "https://redgrenade.life/l2updater/system_en/LineageVehicle.u"
+    },
+    {
+      "path": "system_en/LineageWarrior.u",
+      "sha1": "38fd71482b55669fe2caa06c615f8ed0ca56d860",
+      "size": 21627,
+      "url": "https://redgrenade.life/l2updater/system_en/LineageWarrior.u"
+    },
+    {
+      "path": "system_en/LobbyTimeEnv0.int",
+      "sha1": "c786d546e59e65e23baeb4f2f982c32fd4dce0d2",
+      "size": 27727,
+      "url": "https://redgrenade.life/l2updater/system_en/LobbyTimeEnv0.int"
+    },
+    {
+      "path": "system_en/LobbyTimeEnv0_Classic.int",
+      "sha1": "7ad424d77a7ed01b050b7ce35bed65f93c677a7d",
+      "size": 28109,
+      "url": "https://redgrenade.life/l2updater/system_en/LobbyTimeEnv0_Classic.int"
+    },
+    {
+      "path": "system_en/Localization.ini",
+      "sha1": "d9caaf479c55adc9dd140ea53d53eca38cf897e0",
+      "size": 10621,
+      "url": "https://redgrenade.life/l2updater/system_en/Localization.ini"
+    },
+    {
+      "path": "system_en/Logongrp.dat",
+      "sha1": "e335e2f5b4b763d3d108a0c247ecacdec62ac6ca",
+      "size": 176,
+      "url": "https://redgrenade.life/l2updater/system_en/Logongrp.dat"
+    },
+    {
+      "path": "system_en/Logongrp_Classic.dat",
+      "sha1": "e335e2f5b4b763d3d108a0c247ecacdec62ac6ca",
+      "size": 176,
+      "url": "https://redgrenade.life/l2updater/system_en/Logongrp_Classic.dat"
+    },
+    {
+      "path": "system_en/LollyCubeData.dat",
+      "sha1": "8a59aa25f7b8426f8538667833fb1a3d2533ac75",
+      "size": 176,
+      "url": "https://redgrenade.life/l2updater/system_en/LollyCubeData.dat"
+    },
+    {
+      "path": "system_en/MSConditionData.dat",
+      "sha1": "57b84e9c0dc8416c412a4980c13bca102a081b98",
+      "size": 324656,
+      "url": "https://redgrenade.life/l2updater/system_en/MSConditionData.dat"
+    },
+    {
+      "path": "system_en/MSConditionData_Classic.dat",
+      "sha1": "9158f803a87de6e862e3fdbcd969cdadc188c730",
+      "size": 45360,
+      "url": "https://redgrenade.life/l2updater/system_en/MSConditionData_Classic.dat"
+    },
+    {
+      "path": "system_en/MantleException.dat",
+      "sha1": "8640e62ab75d2953f913f84e0e52bdc9ebac5a56",
+      "size": 688,
+      "url": "https://redgrenade.life/l2updater/system_en/MantleException.dat"
+    },
+    {
+      "path": "system_en/MinimapRegion.dat",
+      "sha1": "541c92b5556cd704bcc8e293c527815f4da5c5aa",
+      "size": 3760,
+      "url": "https://redgrenade.life/l2updater/system_en/MinimapRegion.dat"
+    },
+    {
+      "path": "system_en/MinimapRegion_Classic.dat",
+      "sha1": "9b36ab728b7527e384f28119102aa1b7a85ae996",
+      "size": 3120,
+      "url": "https://redgrenade.life/l2updater/system_en/MinimapRegion_Classic.dat"
+    },
+    {
+      "path": "system_en/MobSkillAnimgrp.dat",
+      "sha1": "e9a07940519602120880da9bd94a5f3766c3cf3d",
+      "size": 41136,
+      "url": "https://redgrenade.life/l2updater/system_en/MobSkillAnimgrp.dat"
+    },
+    {
+      "path": "system_en/MobSkillAnimgrp_Classic.dat",
+      "sha1": "6eb8b939998f5b485f240fce017ebfa00403ff0d",
+      "size": 43568,
+      "url": "https://redgrenade.life/l2updater/system_en/MobSkillAnimgrp_Classic.dat"
+    },
+    {
+      "path": "system_en/MonsterBook_client.dat",
+      "sha1": "426e9236996f6dba72721762a20ec9f533fb36df",
+      "size": 4784,
+      "url": "https://redgrenade.life/l2updater/system_en/MonsterBook_client.dat"
+    },
+    {
+      "path": "system_en/MusicInfo.dat",
+      "sha1": "368924e2173b856339c18895ed0baef219839ae2",
+      "size": 5552,
+      "url": "https://redgrenade.life/l2updater/system_en/MusicInfo.dat"
+    },
+    {
+      "path": "system_en/MusicInfo_Classic.dat",
+      "sha1": "b68370423735b9796f3f460d68f742ba65af3504",
+      "size": 3888,
+      "url": "https://redgrenade.life/l2updater/system_en/MusicInfo_Classic.dat"
+    },
+    {
+      "path": "system_en/NPCTeleporter.dat",
+      "sha1": "1130acec21609c3841349955fde89159d7dc5081",
+      "size": 688,
+      "url": "https://redgrenade.life/l2updater/system_en/NPCTeleporter.dat"
+    },
+    {
+      "path": "system_en/NPCTeleporter_Classic.dat",
+      "sha1": "07eeef69bef14dc90ed1331b848f035b5a4972ac",
+      "size": 560,
+      "url": "https://redgrenade.life/l2updater/system_en/NPCTeleporter_Classic.dat"
+    },
+    {
+      "path": "system_en/NPSWF32.dll",
+      "sha1": "65ad349b8197941d34a207953d10bf44672a4119",
+      "size": 17599688,
+      "url": "https://redgrenade.life/l2updater/system_en/NPSWF32.dll"
+    },
+    {
+      "path": "system_en/NSplash.dll",
+      "sha1": "e69ddb996e62f5ca1344e7c44192f978bc065000",
+      "size": 84992,
+      "url": "https://redgrenade.life/l2updater/system_en/NSplash.dll"
+    },
+    {
+      "path": "system_en/NWindow.dll",
+      "sha1": "1b37e4290c55377382d00583caf7ed2caecf4d28",
+      "size": 14437048,
+      "url": "https://redgrenade.life/l2updater/system_en/NWindow.dll"
+    },
+    {
+      "path": "system_en/NWindow.i64",
+      "sha1": "55660261251d91ad617f4fb3f6b2d2b3392f9449",
+      "size": 222446614,
+      "url": "https://redgrenade.life/l2updater/system_en/NWindow.i64"
+    },
+    {
+      "path": "system_en/NWindow.u",
+      "sha1": "6b105c44cd0d8e176092dba6b0788108de020959",
+      "size": 416453,
+      "url": "https://redgrenade.life/l2updater/system_en/NWindow.u"
+    },
+    {
+      "path": "system_en/Network.log",
+      "sha1": "10d74263cf4b9eaf684df784b6e6956fe50b3778",
+      "size": 155208,
+      "url": "https://redgrenade.life/l2updater/system_en/Network.log"
+    },
+    {
+      "path": "system_en/NpcName-eu.dat",
+      "sha1": "24770adacf376ef54107e0f9cab91ca9d9b7d39f",
+      "size": 142640,
+      "url": "https://redgrenade.life/l2updater/system_en/NpcName-eu.dat"
+    },
+    {
+      "path": "system_en/NpcName_Classic-eu.dat",
+      "sha1": "d9302e170db399a53ce7138e373e3b7fb9b92789",
+      "size": 153520,
+      "url": "https://redgrenade.life/l2updater/system_en/NpcName_Classic-eu.dat"
+    },
+    {
+      "path": "system_en/NpcString-eu.dat",
+      "sha1": "6c1cb617d5935e555b11ece9af7afc559b109a26",
+      "size": 251440,
+      "url": "https://redgrenade.life/l2updater/system_en/NpcString-eu.dat"
+    },
+    {
+      "path": "system_en/NpcString_Classic-eu.dat",
+      "sha1": "d194394346b9d3a1b37d41583402bae87af3b922",
+      "size": 208944,
+      "url": "https://redgrenade.life/l2updater/system_en/NpcString_Classic-eu.dat"
+    },
+    {
+      "path": "system_en/Npcgrp.dat",
+      "sha1": "a9d67e66c05be57313523b011ae2bb62e6ec9619",
+      "size": 335536,
+      "url": "https://redgrenade.life/l2updater/system_en/Npcgrp.dat"
+    },
+    {
+      "path": "system_en/Npcgrp_Classic.dat",
+      "sha1": "0aeb69021ee69f54ef8423ee2beae91114bb064e",
+      "size": 363824,
+      "url": "https://redgrenade.life/l2updater/system_en/Npcgrp_Classic.dat"
+    },
+    {
+      "path": "system_en/Obscene-eu.dat",
+      "sha1": "dae993ad3982d34e5b73ed16ff9bd7d3018ed96d",
+      "size": 304,
+      "url": "https://redgrenade.life/l2updater/system_en/Obscene-eu.dat"
+    },
+    {
+      "path": "system_en/OneDayReward_Classic-eu.dat",
+      "sha1": "cad77d5b9ae39cb6dea297cfdf22702537d40590",
+      "size": 2096,
+      "url": "https://redgrenade.life/l2updater/system_en/OneDayReward_Classic-eu.dat"
+    },
+    {
+      "path": "system_en/Option.ini",
+      "sha1": "35aa161d59b45c1f0fae57afa061cfc40fcf70ef",
+      "size": 513,
+      "url": "https://redgrenade.life/l2updater/system_en/Option.ini"
+    },
+    {
+      "path": "system_en/PawnAnimData.dat",
+      "sha1": "d8c281a6035dd25d3e3741bdde49ebf6e5c1dd49",
+      "size": 218928,
+      "url": "https://redgrenade.life/l2updater/system_en/PawnAnimData.dat"
+    },
+    {
+      "path": "system_en/PledgeLevelDesc-eu.dat",
+      "sha1": "4df28c496b35df4a04db8ee87c8911a2e47b0e61",
+      "size": 304,
+      "url": "https://redgrenade.life/l2updater/system_en/PledgeLevelDesc-eu.dat"
+    },
+    {
+      "path": "system_en/PledgeMasteryInfo-eu.dat",
+      "sha1": "28ec63a369541e3f13296484bbb08d7bd3344168",
+      "size": 688,
+      "url": "https://redgrenade.life/l2updater/system_en/PledgeMasteryInfo-eu.dat"
+    },
+    {
+      "path": "system_en/PledgeMission-eu.dat",
+      "sha1": "c1dc40fc8a22f9fa8afca242bfa89287faf53891",
+      "size": 5552,
+      "url": "https://redgrenade.life/l2updater/system_en/PledgeMission-eu.dat"
+    },
+    {
+      "path": "system_en/PostEffectData.dat",
+      "sha1": "cac2a943b56f78a92f6919745ec241a924184f3d",
+      "size": 304,
+      "url": "https://redgrenade.life/l2updater/system_en/PostEffectData.dat"
+    },
+    {
+      "path": "system_en/Predefinedshader.bin",
+      "sha1": "30faaac3d4b113a9f9bad4ca5a34cc9e4dbaa699",
+      "size": 146380,
+      "url": "https://redgrenade.life/l2updater/system_en/Predefinedshader.bin"
+    },
+    {
+      "path": "system_en/ProductName-eu.dat",
+      "sha1": "a1770fb1d8fc20d891cd31c5b80bc1e43314fa67",
+      "size": 17712,
+      "url": "https://redgrenade.life/l2updater/system_en/ProductName-eu.dat"
+    },
+    {
+      "path": "system_en/ProductName_Classic-eu.dat",
+      "sha1": "9201f5339d6d9b3b252f666ca1e34e4f488084fa",
+      "size": 1584,
+      "url": "https://redgrenade.life/l2updater/system_en/ProductName_Classic-eu.dat"
+    },
+    {
+      "path": "system_en/QuestMarkConditionData.dat",
+      "sha1": "8dc90403df213c5b92687d6f7685ead0d0007423",
+      "size": 816,
+      "url": "https://redgrenade.life/l2updater/system_en/QuestMarkConditionData.dat"
+    },
+    {
+      "path": "system_en/QuestMarkConditionData_Classic.dat",
+      "sha1": "8dc90403df213c5b92687d6f7685ead0d0007423",
+      "size": 816,
+      "url": "https://redgrenade.life/l2updater/system_en/QuestMarkConditionData_Classic.dat"
+    },
+    {
+      "path": "system_en/QuestName-eu.dat",
+      "sha1": "c2f77b7178853cc56d98f7a4ba726583036907b7",
+      "size": 233648,
+      "url": "https://redgrenade.life/l2updater/system_en/QuestName-eu.dat"
+    },
+    {
+      "path": "system_en/QuestName_Classic-eu.dat",
+      "sha1": "f7afad7d42053e03bc2ff90c4ca91d27b4a89535",
+      "size": 194992,
+      "url": "https://redgrenade.life/l2updater/system_en/QuestName_Classic-eu.dat"
+    },
+    {
+      "path": "system_en/RaidData-eu.dat",
+      "sha1": "7b9e685686481cbcbb3c37ea1e2a31de092cfe77",
+      "size": 2608,
+      "url": "https://redgrenade.life/l2updater/system_en/RaidData-eu.dat"
+    },
+    {
+      "path": "system_en/RaidData_Classic-eu.dat",
+      "sha1": "e17ec76d6e65e3bd26a142eb912cc68154b8864b",
+      "size": 6064,
+      "url": "https://redgrenade.life/l2updater/system_en/RaidData_Classic-eu.dat"
+    },
+    {
+      "path": "system_en/Recipe.dat",
+      "sha1": "5038def4ac43c516fe624a6c70228e1899e71030",
+      "size": 43952,
+      "url": "https://redgrenade.life/l2updater/system_en/Recipe.dat"
+    },
+    {
+      "path": "system_en/Recipe_Classic.dat",
+      "sha1": "877a87f56677223ae9fe13d7d40f5926393d9069",
+      "size": 25520,
+      "url": "https://redgrenade.life/l2updater/system_en/Recipe_Classic.dat"
+    },
+    {
+      "path": "system_en/RideData.dat",
+      "sha1": "3bb041586e2e69344bf8ba5c32ebc85a6b00654a",
+      "size": 1328,
+      "url": "https://redgrenade.life/l2updater/system_en/RideData.dat"
+    },
+    {
+      "path": "system_en/RideData_Classic.dat",
+      "sha1": "3bb041586e2e69344bf8ba5c32ebc85a6b00654a",
+      "size": 1328,
+      "url": "https://redgrenade.life/l2updater/system_en/RideData_Classic.dat"
+    },
+    {
+      "path": "system_en/ScenePlayerData.dat",
+      "sha1": "9025aca3c076c8c6b45c1af09f7da59605e25a9c",
+      "size": 944,
+      "url": "https://redgrenade.life/l2updater/system_en/ScenePlayerData.dat"
+    },
+    {
+      "path": "system_en/ServerName-eu.dat",
+      "sha1": "d6ad5381e2fa46eb5ef79d93caecd62d8754ae8a",
+      "size": 1200,
+      "url": "https://redgrenade.life/l2updater/system_en/ServerName-eu.dat"
+    },
+    {
+      "path": "system_en/SetItemGrp-eu.dat",
+      "sha1": "4e1997e099d063f16998a10ac2837c95670098ac",
+      "size": 19120,
+      "url": "https://redgrenade.life/l2updater/system_en/SetItemGrp-eu.dat"
+    },
+    {
+      "path": "system_en/SetItemGrp_Classic-eu.dat",
+      "sha1": "b476a2841efe2e0dff88fd8e460ac3262d7af592",
+      "size": 2992,
+      "url": "https://redgrenade.life/l2updater/system_en/SetItemGrp_Classic-eu.dat"
+    },
+    {
+      "path": "system_en/ShockZoneSettings.ini",
+      "sha1": "44edf5bbc8e0f23987e4443066822ab27bb931c3",
+      "size": 1474,
+      "url": "https://redgrenade.life/l2updater/system_en/ShockZoneSettings.ini"
+    },
+    {
+      "path": "system_en/ShortcutAlias.dat",
+      "sha1": "b605b3eae2fd15bf145de30b6348f7522a85bc43",
+      "size": 2224,
+      "url": "https://redgrenade.life/l2updater/system_en/ShortcutAlias.dat"
+    },
+    {
+      "path": "system_en/ShortcutAlias_Classic.dat",
+      "sha1": "b605b3eae2fd15bf145de30b6348f7522a85bc43",
+      "size": 2224,
+      "url": "https://redgrenade.life/l2updater/system_en/ShortcutAlias_Classic.dat"
+    },
+    {
+      "path": "system_en/ShuttleData.dat",
+      "sha1": "195eb45e74ec05c5597366ed046670485e6cac8f",
+      "size": 176,
+      "url": "https://redgrenade.life/l2updater/system_en/ShuttleData.dat"
+    },
+    {
+      "path": "system_en/ShuttleData_Classic.dat",
+      "sha1": "195eb45e74ec05c5597366ed046670485e6cac8f",
+      "size": 176,
+      "url": "https://redgrenade.life/l2updater/system_en/ShuttleData_Classic.dat"
+    },
+    {
+      "path": "system_en/SkillName-eu.dat",
+      "sha1": "e0ae54783f33f9f2fb35501a81fded0f5b3d859e",
+      "size": 1388592,
+      "url": "https://redgrenade.life/l2updater/system_en/SkillName-eu.dat"
+    },
+    {
+      "path": "system_en/SkillName_Classic-eu.dat",
+      "sha1": "434fd6138c78646ff684d8f53f68d431942ed2ae",
+      "size": 593712,
+      "url": "https://redgrenade.life/l2updater/system_en/SkillName_Classic-eu.dat"
+    },
+    {
+      "path": "system_en/SkillSoundSource.dat",
+      "sha1": "75718122bb062ded5a525c965889073e5b053fa1",
+      "size": 30768,
+      "url": "https://redgrenade.life/l2updater/system_en/SkillSoundSource.dat"
+    },
+    {
+      "path": "system_en/SkillSoundSource_Classic.dat",
+      "sha1": "e420e9f51c1c0b0730714c8acfb20a9f6739cbf3",
+      "size": 27056,
+      "url": "https://redgrenade.life/l2updater/system_en/SkillSoundSource_Classic.dat"
+    },
+    {
+      "path": "system_en/SkillSoundgrp.dat",
+      "sha1": "ba9fd7ebe12f957f83a398b9dcd0d09032bfaaa2",
+      "size": 120368,
+      "url": "https://redgrenade.life/l2updater/system_en/SkillSoundgrp.dat"
+    },
+    {
+      "path": "system_en/SkillSoundgrp_Classic.dat",
+      "sha1": "c139cc4f6d6cb38b8066373f1b6cc828958321c3",
+      "size": 100656,
+      "url": "https://redgrenade.life/l2updater/system_en/SkillSoundgrp_Classic.dat"
+    },
+    {
+      "path": "system_en/Skillgrp.dat",
+      "sha1": "549d20a75f102c0b9d114651713a9bbebf5f7f9a",
+      "size": 677296,
+      "url": "https://redgrenade.life/l2updater/system_en/Skillgrp.dat"
+    },
+    {
+      "path": "system_en/Skillgrp_Classic.dat",
+      "sha1": "a9a4cab035889bd0ce6da484117dfcbbfb5da196",
+      "size": 271280,
+      "url": "https://redgrenade.life/l2updater/system_en/Skillgrp_Classic.dat"
+    },
+    {
+      "path": "system_en/SmallFont-eu.gly",
+      "sha1": "4becef5e1ff664e27094ec651ad3170508b2187a",
+      "size": 1540,
+      "url": "https://redgrenade.life/l2updater/system_en/SmallFont-eu.gly"
+    },
+    {
+      "path": "system_en/SmallFont.gly",
+      "sha1": "7c0c8788e1202be8c01049d5cfe6debacf4cb48d",
+      "size": 181780,
+      "url": "https://redgrenade.life/l2updater/system_en/SmallFont.gly"
+    },
+    {
+      "path": "system_en/StaticObject-eu.dat",
+      "sha1": "6e3da12a4b2f8bf0616e3f7e15adc125c9e0d589",
+      "size": 3760,
+      "url": "https://redgrenade.life/l2updater/system_en/StaticObject-eu.dat"
+    },
+    {
+      "path": "system_en/StaticObject_Classic-eu.dat",
+      "sha1": "db472a7feb6f921c3fdec9e665f7d0a22b00eee4",
+      "size": 3504,
+      "url": "https://redgrenade.life/l2updater/system_en/StaticObject_Classic-eu.dat"
+    },
+    {
+      "path": "system_en/StatisticName-eu.dat",
+      "sha1": "49241c2072221325590a96afea3c7592186a4e75",
+      "size": 2352,
+      "url": "https://redgrenade.life/l2updater/system_en/StatisticName-eu.dat"
+    },
+    {
+      "path": "system_en/SymbolName-eu.dat",
+      "sha1": "cf5062ad553e3fd2c8c5f865de13706911411ee2",
+      "size": 432,
+      "url": "https://redgrenade.life/l2updater/system_en/SymbolName-eu.dat"
+    },
+    {
+      "path": "system_en/SymbolName_Classic-eu.dat",
+      "sha1": "abb0f1c5274be50d411431e3556fa4e15a698086",
+      "size": 304,
+      "url": "https://redgrenade.life/l2updater/system_en/SymbolName_Classic-eu.dat"
+    },
+    {
+      "path": "system_en/SysString-eu.dat",
+      "sha1": "e82f3120f527e2564aa2a43f7f46bd67e74fdceb",
+      "size": 53424,
+      "url": "https://redgrenade.life/l2updater/system_en/SysString-eu.dat"
+    },
+    {
+      "path": "system_en/SysString_Classic-eu.dat",
+      "sha1": "9795e15e8148d0ab38b1edb2f91de464b7facb40",
+      "size": 46256,
+      "url": "https://redgrenade.life/l2updater/system_en/SysString_Classic-eu.dat"
+    },
+    {
+      "path": "system_en/SystemMsg-eu.dat",
+      "sha1": "be4550e0cd185182b73caf0048fc3ac41676e6b3",
+      "size": 150832,
+      "url": "https://redgrenade.life/l2updater/system_en/SystemMsg-eu.dat"
+    },
+    {
+      "path": "system_en/SystemMsg_Classic-eu.dat",
+      "sha1": "2564924406891753269d24b09da2d4f7d2fbecf8",
+      "size": 140848,
+      "url": "https://redgrenade.life/l2updater/system_en/SystemMsg_Classic-eu.dat"
+    },
+    {
+      "path": "system_en/TTFontInfo.ini",
+      "sha1": "539959cf139d7650f53b6024f1e9cb130b7fabb3",
+      "size": 775,
+      "url": "https://redgrenade.life/l2updater/system_en/TTFontInfo.ini"
+    },
+    {
+      "path": "system_en/TimeEnv0.int",
+      "sha1": "0b90285deec0d88458376bffaad586a8bf967874",
+      "size": 27965,
+      "url": "https://redgrenade.life/l2updater/system_en/TimeEnv0.int"
+    },
+    {
+      "path": "system_en/TimeEnv1.int",
+      "sha1": "81792d245dccec60dfc1b8dd92206ef41a4ab9ce",
+      "size": 27008,
+      "url": "https://redgrenade.life/l2updater/system_en/TimeEnv1.int"
+    },
+    {
+      "path": "system_en/TimeEnv2.int",
+      "sha1": "a784da6e1a4c117727daef3ef7e5dfdd00ce65b6",
+      "size": 27022,
+      "url": "https://redgrenade.life/l2updater/system_en/TimeEnv2.int"
+    },
+    {
+      "path": "system_en/TimeEnv3.int",
+      "sha1": "c036e11e32f0db4af277a77fb9d81dfad7f15641",
+      "size": 27786,
+      "url": "https://redgrenade.life/l2updater/system_en/TimeEnv3.int"
+    },
+    {
+      "path": "system_en/TimeEnv4.int",
+      "sha1": "11a37f67fbaf7a7f9482962a94765ceef2ecb28d",
+      "size": 5124,
+      "url": "https://redgrenade.life/l2updater/system_en/TimeEnv4.int"
+    },
+    {
+      "path": "system_en/TimeEnv5.int",
+      "sha1": "505b8332d371ff36a008573caf5be72ec9d99fee",
+      "size": 5194,
+      "url": "https://redgrenade.life/l2updater/system_en/TimeEnv5.int"
+    },
+    {
+      "path": "system_en/TransformData.dat",
+      "sha1": "651962263d6cae533ce4d86bb29b84a1cc9b2a8c",
+      "size": 1840,
+      "url": "https://redgrenade.life/l2updater/system_en/TransformData.dat"
+    },
+    {
+      "path": "system_en/TransformData_Classic.dat",
+      "sha1": "651962263d6cae533ce4d86bb29b84a1cc9b2a8c",
+      "size": 1840,
+      "url": "https://redgrenade.life/l2updater/system_en/TransformData_Classic.dat"
+    },
+    {
+      "path": "system_en/TutorialName-eu.dat",
+      "sha1": "8559607acb9076e01eec06e00e509c6430397a72",
+      "size": 37680,
+      "url": "https://redgrenade.life/l2updater/system_en/TutorialName-eu.dat"
+    },
+    {
+      "path": "system_en/TutorialName_Classic-eu.dat",
+      "sha1": "e40152ffbbf3faaaecdc1b2fa1420905c7c76198",
+      "size": 432,
+      "url": "https://redgrenade.life/l2updater/system_en/TutorialName_Classic-eu.dat"
+    },
+    {
+      "path": "system_en/UDebugMenu.u",
+      "sha1": "8023021cf5fe161337b8a5d8eaf163bbbde14e61",
+      "size": 183361,
+      "url": "https://redgrenade.life/l2updater/system_en/UDebugMenu.u"
+    },
+    {
+      "path": "system_en/UIStats.int",
+      "sha1": "1bff583d48a74aeb0424ae992aec1627f6c753dd",
+      "size": 134,
+      "url": "https://redgrenade.life/l2updater/system_en/UIStats.int"
+    },
+    {
+      "path": "system_en/UWindow.u",
+      "sha1": "2c64057df39c82316644884ec19b7892b2488595",
+      "size": 380765,
+      "url": "https://redgrenade.life/l2updater/system_en/UWindow.u"
+    },
+    {
+      "path": "system_en/UpgradeSystem.dat",
+      "sha1": "7308e6965b01f73ebdf4ebae4f45071e4b676383",
+      "size": 28208,
+      "url": "https://redgrenade.life/l2updater/system_en/UpgradeSystem.dat"
+    },
+    {
+      "path": "system_en/UpgradeSystem_Classic.dat",
+      "sha1": "0920f7e19504678f214e7b9e337ddb50571159f8",
+      "size": 688,
+      "url": "https://redgrenade.life/l2updater/system_en/UpgradeSystem_Classic.dat"
+    },
+    {
+      "path": "system_en/UpgradeSystem_Normal.dat",
+      "sha1": "35e852d3c68750c711984f527361b0089e10bd40",
+      "size": 176,
+      "url": "https://redgrenade.life/l2updater/system_en/UpgradeSystem_Normal.dat"
+    },
+    {
+      "path": "system_en/UpgradeSystem_Normal_Classic.dat",
+      "sha1": "22e5486be99ced04e724fd1e5aafcfec0a325565",
+      "size": 153392,
+      "url": "https://redgrenade.life/l2updater/system_en/UpgradeSystem_Normal_Classic.dat"
+    },
+    {
+      "path": "system_en/UseCountItem.dat",
+      "sha1": "7fd15ff7416f291338532631d6131fb3ef79dd53",
+      "size": 432,
+      "url": "https://redgrenade.life/l2updater/system_en/UseCountItem.dat"
+    },
+    {
+      "path": "system_en/UseCountItem_Classic.dat",
+      "sha1": "ebf1fa6265a814363f3f4bb4f398852e687d9b7c",
+      "size": 304,
+      "url": "https://redgrenade.life/l2updater/system_en/UseCountItem_Classic.dat"
+    },
+    {
+      "path": "system_en/User.ini",
+      "sha1": "5570ccf62cb5e23db1abad7232ffeda5771eb017",
+      "size": 6576,
+      "url": "https://redgrenade.life/l2updater/system_en/User.ini"
+    },
+    {
+      "path": "system_en/UsmMovieData-eu.dat",
+      "sha1": "e1f4dcdfa304a7ff25ba44565d344ec63c3f316e",
+      "size": 432,
+      "url": "https://redgrenade.life/l2updater/system_en/UsmMovieData-eu.dat"
+    },
+    {
+      "path": "system_en/VehiclePartsGrp.dat",
+      "sha1": "692c63dc6a50fe146f855294ff021a173d935eac",
+      "size": 304,
+      "url": "https://redgrenade.life/l2updater/system_en/VehiclePartsGrp.dat"
+    },
+    {
+      "path": "system_en/WeaponEnchantEffectData.dat",
+      "sha1": "75a5b222c7dc13973c1621677aad6f350f03c447",
+      "size": 688,
+      "url": "https://redgrenade.life/l2updater/system_en/WeaponEnchantEffectData.dat"
+    },
+    {
+      "path": "system_en/WeaponEnchantEffectData_Classic.dat",
+      "sha1": "b5f1dcb0d9c51e868eef97c6058ca9a93c5b988a",
+      "size": 816,
+      "url": "https://redgrenade.life/l2updater/system_en/WeaponEnchantEffectData_Classic.dat"
+    },
+    {
+      "path": "system_en/Weapongrp.dat",
+      "sha1": "9546b289cac665583329bfd78636723955c0e556",
+      "size": 209200,
+      "url": "https://redgrenade.life/l2updater/system_en/Weapongrp.dat"
+    },
+    {
+      "path": "system_en/Weapongrp_Classic.dat",
+      "sha1": "641c55f97c6ce98d9a1d5c76d86c8524255fc421",
+      "size": 59312,
+      "url": "https://redgrenade.life/l2updater/system_en/Weapongrp_Classic.dat"
+    },
+    {
+      "path": "system_en/Wform.bm",
+      "sha1": "5ad917e12bedab519e6fc291bb8af049dff7cd31",
+      "size": 526985,
+      "url": "https://redgrenade.life/l2updater/system_en/Wform.bm"
+    },
+    {
+      "path": "system_en/WinDrv.dll",
+      "sha1": "5f5a620aa2aff2f18c7198b24b5a098d1ed04e6f",
+      "size": 1319424,
+      "url": "https://redgrenade.life/l2updater/system_en/WinDrv.dll"
+    },
+    {
+      "path": "system_en/WinDrv.int",
+      "sha1": "17b71ab8da06a06869b739463e8a336671ce4232",
+      "size": 709,
+      "url": "https://redgrenade.life/l2updater/system_en/WinDrv.int"
+    },
+    {
+      "path": "system_en/Window.dll",
+      "sha1": "d6dc20f9ea80d8eb9754bc83051ffca585d9fb49",
+      "size": 1454592,
+      "url": "https://redgrenade.life/l2updater/system_en/Window.dll"
+    },
+    {
+      "path": "system_en/Window.int",
+      "sha1": "9a007f1a229976d52fe6c489938416537d2b1f5c",
+      "size": 2317,
+      "url": "https://redgrenade.life/l2updater/system_en/Window.int"
+    },
+    {
+      "path": "system_en/WindowsInfo.ini",
+      "sha1": "e989b005901014b3feb4cf2b9a76f2d57aeb9682",
+      "size": 3148,
+      "url": "https://redgrenade.life/l2updater/system_en/WindowsInfo.ini"
+    },
+    {
+      "path": "system_en/ZoneName-eu.dat",
+      "sha1": "1dca959d3811e7840d3e9acce63bfdbe46885a79",
+      "size": 9008,
+      "url": "https://redgrenade.life/l2updater/system_en/ZoneName-eu.dat"
+    },
+    {
+      "path": "system_en/ZoneName_Classic-eu.dat",
+      "sha1": "8d37d60505ed6109268610b6eb6a74336bda5325",
+      "size": 6064,
+      "url": "https://redgrenade.life/l2updater/system_en/ZoneName_Classic-eu.dat"
+    },
+    {
+      "path": "system_en/aegisty.bin",
+      "sha1": "723d2b0d418086208383131e5d182b01c208f3cc",
+      "size": 4832880,
+      "url": "https://redgrenade.life/l2updater/system_en/aegisty.bin"
+    },
+    {
+      "path": "system_en/agathiondata.dat",
+      "sha1": "79621aacd90784623f8ba41fb66d6e9c0d458dd1",
+      "size": 15152,
+      "url": "https://redgrenade.life/l2updater/system_en/agathiondata.dat"
+    },
+    {
+      "path": "system_en/agathiondata_Classic.dat",
+      "sha1": "ef4da9f120e3c3689d28d60b404a65981053c5fd",
+      "size": 2992,
+      "url": "https://redgrenade.life/l2updater/system_en/agathiondata_Classic.dat"
+    },
+    {
+      "path": "system_en/avcodec-53.dll",
+      "sha1": "53d59b9d3027bf57928b58648a8adeb847a7c68f",
+      "size": 1102424,
+      "url": "https://redgrenade.life/l2updater/system_en/avcodec-53.dll"
+    },
+    {
+      "path": "system_en/avformat-53.dll",
+      "sha1": "5a4c60da6aa17e57ed5c1dd2a9485fac301ab36a",
+      "size": 193624,
+      "url": "https://redgrenade.life/l2updater/system_en/avformat-53.dll"
+    },
+    {
+      "path": "system_en/avutil-51.dll",
+      "sha1": "68a50b52caaa89ba04f2f6617c9c3bf18e7f8ac1",
+      "size": 126040,
+      "url": "https://redgrenade.life/l2updater/system_en/avutil-51.dll"
+    },
+    {
+      "path": "system_en/awesomium_process.exe",
+      "sha1": "4d79ab2b32826cb3b6c9896aa76befc2a5240334",
+      "size": 42568,
+      "url": "https://redgrenade.life/l2updater/system_en/awesomium_process.exe"
+    },
+    {
+      "path": "system_en/bdcap32.dll",
+      "sha1": "7b33623c290ab2c26db25d7fdeebc9c1c710faa8",
+      "size": 11061280,
+      "url": "https://redgrenade.life/l2updater/system_en/bdcap32.dll"
+    },
+    {
+      "path": "system_en/beecrypt.dll",
+      "sha1": "efd03e1ebbb8082fe130d294f64a4224b9e75937",
+      "size": 188416,
+      "url": "https://redgrenade.life/l2updater/system_en/beecrypt.dll"
+    },
+    {
+      "path": "system_en/bighead.int",
+      "sha1": "5d85592ef3f16d2fe1e62e1a19866be02ffa8db2",
+      "size": 1083,
+      "url": "https://redgrenade.life/l2updater/system_en/bighead.int"
+    },
+    {
+      "path": "system_en/cef.pak",
+      "sha1": "89e42afbc42526752e5d56d0a4c2b3943e2835c6",
+      "size": 2184260,
+      "url": "https://redgrenade.life/l2updater/system_en/cef.pak"
+    },
+    {
+      "path": "system_en/cef_100_percent.pak",
+      "sha1": "43ce7585e0632fc374bb6717d2a92d5bf94827db",
+      "size": 468951,
+      "url": "https://redgrenade.life/l2updater/system_en/cef_100_percent.pak"
+    },
+    {
+      "path": "system_en/cef_200_percent.pak",
+      "sha1": "25d427473aacdd39a903db45acb94edcffcb4386",
+      "size": 622967,
+      "url": "https://redgrenade.life/l2updater/system_en/cef_200_percent.pak"
+    },
+    {
+      "path": "system_en/chatfilter.ini",
+      "sha1": "6e1cbca84824ea6b7f8d19170a2eaf0f95f558a5",
+      "size": 2420,
+      "url": "https://redgrenade.life/l2updater/system_en/chatfilter.ini"
+    },
+    {
+      "path": "system_en/d3dcompiler_43.dll",
+      "sha1": "98be17e1d324790a5b206e1ea1cc4e64fbe21240",
+      "size": 2106216,
+      "url": "https://redgrenade.life/l2updater/system_en/d3dcompiler_43.dll"
+    },
+    {
+      "path": "system_en/d3dcompiler_47.dll",
+      "sha1": "91bc4989345a4e26f06c0c781a21a27d4ee9bacd",
+      "size": 3466856,
+      "url": "https://redgrenade.life/l2updater/system_en/d3dcompiler_47.dll"
+    },
+    {
+      "path": "system_en/dbghelp.dll",
+      "sha1": "faf95ec65cde5bd833ce610bb8523363310ec4ad",
+      "size": 1213200,
+      "url": "https://redgrenade.life/l2updater/system_en/dbghelp.dll"
+    },
+    {
+      "path": "system_en/encvag.dll",
+      "sha1": "d00b71c7982612a3602235307188b9b4243dc980",
+      "size": 150528,
+      "url": "https://redgrenade.life/l2updater/system_en/encvag.dll"
+    },
+    {
+      "path": "system_en/ensoul_fee_client.dat",
+      "sha1": "c5dad346f73500fc5e48aa8d6c4e6a03d4b6eecb",
+      "size": 304,
+      "url": "https://redgrenade.life/l2updater/system_en/ensoul_fee_client.dat"
+    },
+    {
+      "path": "system_en/ensoul_fee_client_Classic.dat",
+      "sha1": "98edc1a2ef99f0fe4e44740e717183138ac1e9f7",
+      "size": 304,
+      "url": "https://redgrenade.life/l2updater/system_en/ensoul_fee_client_Classic.dat"
+    },
+    {
+      "path": "system_en/ensoul_option_client-eu.dat",
+      "sha1": "dc3f7391d8b125b957dcc3ee5549ceeb3f09a063",
+      "size": 10288,
+      "url": "https://redgrenade.life/l2updater/system_en/ensoul_option_client-eu.dat"
+    },
+    {
+      "path": "system_en/ensoul_option_client_Classic-eu.dat",
+      "sha1": "737e39c221db9d90c7c2a554555f53c95566fea5",
+      "size": 8496,
+      "url": "https://redgrenade.life/l2updater/system_en/ensoul_option_client_Classic-eu.dat"
+    },
+    {
+      "path": "system_en/ensoul_stone_client.dat",
+      "sha1": "7cb1feebea0443a63235646481c20464ebec3b32",
+      "size": 1712,
+      "url": "https://redgrenade.life/l2updater/system_en/ensoul_stone_client.dat"
+    },
+    {
+      "path": "system_en/ensoul_stone_client_Classic.dat",
+      "sha1": "14ca16a9c41b5888e562063e739b95a32ddb08ef",
+      "size": 2224,
+      "url": "https://redgrenade.life/l2updater/system_en/ensoul_stone_client_Classic.dat"
+    },
+    {
+      "path": "system_en/faceExName-eu.dat",
+      "sha1": "36f6ec9a2e20ea46c2e6233a527c9d303590468f",
+      "size": 688,
+      "url": "https://redgrenade.life/l2updater/system_en/faceExName-eu.dat"
+    },
+    {
+      "path": "system_en/faceexgrp.dat",
+      "sha1": "d2a98bfa203e6b6c04e44b89209d4ac38d19e199",
+      "size": 1200,
+      "url": "https://redgrenade.life/l2updater/system_en/faceexgrp.dat"
+    },
+    {
+      "path": "system_en/ffmpegsumo.dll",
+      "sha1": "2188656acaf981d21f3058f919b143cbc11c388a",
+      "size": 961536,
+      "url": "https://redgrenade.life/l2updater/system_en/ffmpegsumo.dll"
+    },
+    {
+      "path": "system_en/fmodex.dll",
+      "sha1": "000a10733ac66e53914d47be788d73f9d368cc5f",
+      "size": 798720,
+      "url": "https://redgrenade.life/l2updater/system_en/fmodex.dll"
+    },
+    {
+      "path": "system_en/hairExName-eu.dat",
+      "sha1": "75cb2d92a56c9c0a6f5db1f2b82410cef41ac554",
+      "size": 3504,
+      "url": "https://redgrenade.life/l2updater/system_en/hairExName-eu.dat"
+    },
+    {
+      "path": "system_en/hairExName-ru.dat",
+      "sha1": "6985d734e87a051bf09f4f00494dc4cc44a61aea",
+      "size": 3632,
+      "url": "https://redgrenade.life/l2updater/system_en/hairExName-ru.dat"
+    },
+    {
+      "path": "system_en/hairexgrp.dat",
+      "sha1": "a1af0b12bbd6279811697fb0f8f63cf86d102050",
+      "size": 3632,
+      "url": "https://redgrenade.life/l2updater/system_en/hairexgrp.dat"
+    },
+    {
+      "path": "system_en/icudt.dll",
+      "sha1": "226acd9090aa71d86f5a5f8bc953cb15a00c2a55",
+      "size": 9957960,
+      "url": "https://redgrenade.life/l2updater/system_en/icudt.dll"
+    },
+    {
+      "path": "system_en/icudt42.dll",
+      "sha1": "5b5a418c06896bb5556acb6fc893d9d969c70511",
+      "size": 10947384,
+      "url": "https://redgrenade.life/l2updater/system_en/icudt42.dll"
+    },
+    {
+      "path": "system_en/icudtl.dat",
+      "sha1": "7e5fe4cf14a80511d82761db1c3e56568be36220",
+      "size": 10207504,
+      "url": "https://redgrenade.life/l2updater/system_en/icudtl.dat"
+    },
+    {
+      "path": "system_en/ime.xml",
+      "sha1": "e5b22e83051c5d43648e98fc39d57abac0b15582",
+      "size": 10621,
+      "url": "https://redgrenade.life/l2updater/system_en/ime.xml"
+    },
+    {
+      "path": "system_en/item_baseinfo.dat",
+      "sha1": "8c2021fdacc85ff81a60f946042a04304ccd59e8",
+      "size": 104368,
+      "url": "https://redgrenade.life/l2updater/system_en/item_baseinfo.dat"
+    },
+    {
+      "path": "system_en/item_baseinfo_Classic.dat",
+      "sha1": "85630dbd697b916bc1283a1ff213f1920bf24a82",
+      "size": 28336,
+      "url": "https://redgrenade.life/l2updater/system_en/item_baseinfo_Classic.dat"
+    },
+    {
+      "path": "system_en/l2.exe",
+      "sha1": "f48aaa299c333aaff5ea970383f8656065561752",
+      "size": 39189104,
+      "url": "https://redgrenade.life/l2updater/system_en/l2.exe"
+    },
+    {
+      "path": "system_en/l2.int",
+      "sha1": "e15e7d3ca52ed9ced6bd4f059326a288362a4e30",
+      "size": 143,
+      "url": "https://redgrenade.life/l2updater/system_en/l2.int"
+    },
+    {
+      "path": "system_en/l2.log",
+      "sha1": "d5231c483c910459aa53ae408f1556bbe990e058",
+      "size": 780130,
+      "url": "https://redgrenade.life/l2updater/system_en/l2.log"
+    },
+    {
+      "path": "system_en/libEGL.dll",
+      "sha1": "671c54cdedaae39c64c44a5068d5c82431acd406",
+      "size": 74752,
+      "url": "https://redgrenade.life/l2updater/system_en/libEGL.dll"
+    },
+    {
+      "path": "system_en/libGLESv2.dll",
+      "sha1": "dc60e8e2f26cdfff2803e77c1a6b7d66284912c8",
+      "size": 1643008,
+      "url": "https://redgrenade.life/l2updater/system_en/libGLESv2.dll"
+    },
+    {
+      "path": "system_en/libcef.dll",
+      "sha1": "cabd0ef2e0a285aa5bdbf2a870d22c12aec202c3",
+      "size": 45069312,
+      "url": "https://redgrenade.life/l2updater/system_en/libcef.dll"
+    },
+    {
+      "path": "system_en/locales/en-US.dll",
+      "sha1": "34e45fc59f73f46b8d364a0a06f15214ae4f2b89",
+      "size": 117048,
+      "url": "https://redgrenade.life/l2updater/system_en/locales/en-US.dll"
+    },
+    {
+      "path": "system_en/locales/en-US.pak",
+      "sha1": "fb887f2f5837f582b92e8756f33da8effbdc1f92",
+      "size": 14086,
+      "url": "https://redgrenade.life/l2updater/system_en/locales/en-US.pak"
+    },
+    {
+      "path": "system_en/msxml4.dll",
+      "sha1": "a6d0697d8fd1afca440f5a4f65df5d67a9cfc9b1",
+      "size": 1275392,
+      "url": "https://redgrenade.life/l2updater/system_en/msxml4.dll"
+    },
+    {
+      "path": "system_en/msxml4a.dll",
+      "sha1": "2ed39ccdb9eedae37a64d9186d933a7f0452cd61",
+      "size": 44544,
+      "url": "https://redgrenade.life/l2updater/system_en/msxml4a.dll"
+    },
+    {
+      "path": "system_en/msxml4r.dll",
+      "sha1": "a96c1818c5a6ba081c655ab42ccf9fc58cdbc6d0",
+      "size": 82432,
+      "url": "https://redgrenade.life/l2updater/system_en/msxml4r.dll"
+    },
+    {
+      "path": "system_en/natives_blob.bin",
+      "sha1": "e09e48d069f8cbb4b22e1dc1b8df07b1f714f93c",
+      "size": 410937,
+      "url": "https://redgrenade.life/l2updater/system_en/natives_blob.bin"
+    },
+    {
+      "path": "system_en/npkcrypt.dll",
+      "sha1": "fad52a7b1317ed98cc51957aa7613e995b2b94d0",
+      "size": 420472,
+      "url": "https://redgrenade.life/l2updater/system_en/npkcrypt.dll"
+    },
+    {
+      "path": "system_en/npkpdb.dll",
+      "sha1": "8756b1429e45095b8510b43f4a3644ce9d1092a1",
+      "size": 53248,
+      "url": "https://redgrenade.life/l2updater/system_en/npkpdb.dll"
+    },
+    {
+      "path": "system_en/nservice_topping_buff.dat",
+      "sha1": "f3f3c9d3342d548e9d2166f5444be845c8e8d9ad",
+      "size": 176,
+      "url": "https://redgrenade.life/l2updater/system_en/nservice_topping_buff.dat"
+    },
+    {
+      "path": "system_en/nservice_topping_buff_Classic.dat",
+      "sha1": "9e9dbd1647794cbedbfbbca7db81d4c22105bc07",
+      "size": 176,
+      "url": "https://redgrenade.life/l2updater/system_en/nservice_topping_buff_Classic.dat"
+    },
+    {
+      "path": "system_en/ogg.dll",
+      "sha1": "7b270fbb0ea3140b01d2abc0892f8c63c24bee2b",
+      "size": 61440,
+      "url": "https://redgrenade.life/l2updater/system_en/ogg.dll"
+    },
+    {
+      "path": "system_en/optiondata_client-eu.dat",
+      "sha1": "58243000a75f2d579ea7ecc03583447cbea54437",
+      "size": 231600,
+      "url": "https://redgrenade.life/l2updater/system_en/optiondata_client-eu.dat"
+    },
+    {
+      "path": "system_en/optiondata_client_Classic-eu.dat",
+      "sha1": "97c42270225c0e10e343ded615154f34d66bbd5c",
+      "size": 116528,
+      "url": "https://redgrenade.life/l2updater/system_en/optiondata_client_Classic-eu.dat"
+    },
+    {
+      "path": "system_en/plugins/NPSWF32_16_0_0_257.dll",
+      "sha1": "34209ae6ed882ec77530cd637a28652993c6bb4a",
+      "size": 16844464,
+      "url": "https://redgrenade.life/l2updater/system_en/plugins/NPSWF32_16_0_0_257.dll"
+    },
+    {
+      "path": "system_en/snapshot_blob.bin",
+      "sha1": "58f1e2762ebc7f38db0587379e228a9298f42c05",
+      "size": 449780,
+      "url": "https://redgrenade.life/l2updater/system_en/snapshot_blob.bin"
+    },
+    {
+      "path": "system_en/soulshot.int",
+      "sha1": "cde96bb9f034374d551abe293be63eb6e3ed0bf2",
+      "size": 2730,
+      "url": "https://redgrenade.life/l2updater/system_en/soulshot.int"
+    },
+    {
+      "path": "system_en/soulshot_arena.int",
+      "sha1": "675eb4a9f917fdad6abc2728d55d6dd41729bfe3",
+      "size": 2709,
+      "url": "https://redgrenade.life/l2updater/system_en/soulshot_arena.int"
+    },
+    {
+      "path": "system_en/steam_api.dll",
+      "sha1": "c4ba8ef91b9f3712e83b54ddf24945e2c7fbed45",
+      "size": 186560,
+      "url": "https://redgrenade.life/l2updater/system_en/steam_api.dll"
+    },
+    {
+      "path": "system_en/variationeffectgrp-eu.dat",
+      "sha1": "80bf7641c42e23af13dd6e990137f81953070426",
+      "size": 1584,
+      "url": "https://redgrenade.life/l2updater/system_en/variationeffectgrp-eu.dat"
+    },
+    {
+      "path": "system_en/variationeffectgrp_Classic-eu.dat",
+      "sha1": "281469a14334c3255f613ddaa66a9c27af4dfc14",
+      "size": 1200,
+      "url": "https://redgrenade.life/l2updater/system_en/variationeffectgrp_Classic-eu.dat"
+    },
+    {
+      "path": "system_en/vcomp120.dll",
+      "sha1": "8d81406c8dd3ed8894d8aee07dd718dcfd2035c5",
+      "size": 119456,
+      "url": "https://redgrenade.life/l2updater/system_en/vcomp120.dll"
+    },
+    {
+      "path": "system_en/vorbis.dll",
+      "sha1": "5cd875aaebfc3b8ff13baec9375674fd8a4f68dc",
+      "size": 249856,
+      "url": "https://redgrenade.life/l2updater/system_en/vorbis.dll"
+    },
+    {
+      "path": "system_en/vorbisfile.dll",
+      "sha1": "5f17105f2fdd7aa6e5df3adfc8f7d14fcc1e694a",
+      "size": 106496,
+      "url": "https://redgrenade.life/l2updater/system_en/vorbisfile.dll"
+    },
+    {
+      "path": "system_en/widevinecdmadapter.dll",
+      "sha1": "62aec47f2cbd1039b8005cfa1678aa96a0fd3a5e",
+      "size": 1423360,
+      "url": "https://redgrenade.life/l2updater/system_en/widevinecdmadapter.dll"
+    },
+    {
+      "path": "system_en/wrap_oal.dll",
+      "sha1": "4851b95e7467cdef9f4665d9fcbfbfdfea795b79",
+      "size": 409600,
+      "url": "https://redgrenade.life/l2updater/system_en/wrap_oal.dll"
+    },
+    {
+      "path": "system_en/xinput9_1_0.dll",
+      "sha1": "dba2fa128597310ab682551285330b3cce53dd15",
+      "size": 61136,
+      "url": "https://redgrenade.life/l2updater/system_en/xinput9_1_0.dll"
+    },
+    {
+      "path": "system_ru/ALAudio.dll",
+      "sha1": "547b0d1bee070f6b346ca486cd569a0327294074",
+      "size": 242176,
+      "url": "https://redgrenade.life/l2updater/system_ru/ALAudio.dll"
+    },
+    {
+      "path": "system_ru/ALAudio.int",
+      "sha1": "972ce1a7dd870e2c25a328e40e0e6a748ef3c75a",
+      "size": 4636,
+      "url": "https://redgrenade.life/l2updater/system_ru/ALAudio.int"
+    },
+    {
+      "path": "system_ru/AbnormalDefaultEffect.dat",
+      "sha1": "f561aa9d7592e3c8456748a18e9c44614b8ac34d",
+      "size": 3504,
+      "url": "https://redgrenade.life/l2updater/system_ru/AbnormalDefaultEffect.dat"
+    },
+    {
+      "path": "system_ru/AbnormalEdgeEffectData.dat",
+      "sha1": "cb036309772db33526b8a0406e9e00d340d7848b",
+      "size": 432,
+      "url": "https://redgrenade.life/l2updater/system_ru/AbnormalEdgeEffectData.dat"
+    },
+    {
+      "path": "system_ru/ActionName-ru.dat",
+      "sha1": "91ea5056278fa1e2965609ff1083f96130081e22",
+      "size": 15536,
+      "url": "https://redgrenade.life/l2updater/system_ru/ActionName-ru.dat"
+    },
+    {
+      "path": "system_ru/ActionName_Classic-ru.dat",
+      "sha1": "2bbec03221114854a08373342904cf467d4788de",
+      "size": 14384,
+      "url": "https://redgrenade.life/l2updater/system_ru/ActionName_Classic-ru.dat"
+    },
+    {
+      "path": "system_ru/AdditionalEffect.dat",
+      "sha1": "ee3e48bb0ebb726edafb5d64aa48c8fef572f4bf",
+      "size": 2480,
+      "url": "https://redgrenade.life/l2updater/system_ru/AdditionalEffect.dat"
+    },
+    {
+      "path": "system_ru/AdditionalEffect_Classic.dat",
+      "sha1": "44ad723f0c0b55043d6053cb4ffc91d0ffc8759d",
+      "size": 2352,
+      "url": "https://redgrenade.life/l2updater/system_ru/AdditionalEffect_Classic.dat"
+    },
+    {
+      "path": "system_ru/AdditionalItemGrp.dat",
+      "sha1": "90d88cfd66386b797434d982cc2c8e38ae200154",
+      "size": 91184,
+      "url": "https://redgrenade.life/l2updater/system_ru/AdditionalItemGrp.dat"
+    },
+    {
+      "path": "system_ru/AdditionalItemGrp_Classic.dat",
+      "sha1": "7d6fe51a0caa5c9275c296665826cc2ffdda2be9",
+      "size": 29488,
+      "url": "https://redgrenade.life/l2updater/system_ru/AdditionalItemGrp_Classic.dat"
+    },
+    {
+      "path": "system_ru/AdditionalJewelEquipEffect.dat",
+      "sha1": "1671e6f03c6ff2021a2ed632614731f4907950c4",
+      "size": 304,
+      "url": "https://redgrenade.life/l2updater/system_ru/AdditionalJewelEquipEffect.dat"
+    },
+    {
+      "path": "system_ru/AdditionalJewelEquipEffect_Classic.dat",
+      "sha1": "fc6954e62418593a66f04fab2d205607d29c02da",
+      "size": 688,
+      "url": "https://redgrenade.life/l2updater/system_ru/AdditionalJewelEquipEffect_Classic.dat"
+    },
+    {
+      "path": "system_ru/AdditionalNpcGrpParts.dat",
+      "sha1": "9bee9e3dcac5c2e3df7b18183060275c6fc6946c",
+      "size": 1840,
+      "url": "https://redgrenade.life/l2updater/system_ru/AdditionalNpcGrpParts.dat"
+    },
+    {
+      "path": "system_ru/AdditionalNpcGrpParts_Classic.dat",
+      "sha1": "43679cfe15645e1e8205761bb76bbb606dfb1a92",
+      "size": 176,
+      "url": "https://redgrenade.life/l2updater/system_ru/AdditionalNpcGrpParts_Classic.dat"
+    },
+    {
+      "path": "system_ru/AdditionalSoulshotEffect.dat",
+      "sha1": "1ed6a35e722f585a73ec1c90fff6b2f8a5c74660",
+      "size": 304,
+      "url": "https://redgrenade.life/l2updater/system_ru/AdditionalSoulshotEffect.dat"
+    },
+    {
+      "path": "system_ru/AdditionalSoulshotEffect_Classic.dat",
+      "sha1": "0a2234afe71d7ee26687f2268f5a2ab320d1182e",
+      "size": 432,
+      "url": "https://redgrenade.life/l2updater/system_ru/AdditionalSoulshotEffect_Classic.dat"
+    },
+    {
+      "path": "system_ru/AlchemyData.dat",
+      "sha1": "f4b0a18fc12ea0bdc988a4d8aefbca9b0cc30539",
+      "size": 1840,
+      "url": "https://redgrenade.life/l2updater/system_ru/AlchemyData.dat"
+    },
+    {
+      "path": "system_ru/AlterSkillData.dat",
+      "sha1": "ff912401bcb43561ec4ea3a3976d515b4297e71f",
+      "size": 560,
+      "url": "https://redgrenade.life/l2updater/system_ru/AlterSkillData.dat"
+    },
+    {
+      "path": "system_ru/AnimationCombo.dat",
+      "sha1": "d49048dd9226396d9c59f50291affcc3e81592b6",
+      "size": 2992,
+      "url": "https://redgrenade.life/l2updater/system_ru/AnimationCombo.dat"
+    },
+    {
+      "path": "system_ru/Armorgrp.dat",
+      "sha1": "3bc46416c0b4b4b42101ba9a213e76210f5c2ae0",
+      "size": 513456,
+      "url": "https://redgrenade.life/l2updater/system_ru/Armorgrp.dat"
+    },
+    {
+      "path": "system_ru/Armorgrp_Classic.dat",
+      "sha1": "c7855046cd0fca74c17eeeb2d35930cd4c485224",
+      "size": 160944,
+      "url": "https://redgrenade.life/l2updater/system_ru/Armorgrp_Classic.dat"
+    },
+    {
+      "path": "system_ru/ArtifactData.dat",
+      "sha1": "a296485378649037a8a02837a727f8f2d038229c",
+      "size": 304,
+      "url": "https://redgrenade.life/l2updater/system_ru/ArtifactData.dat"
+    },
+    {
+      "path": "system_ru/ArtifactEnchantSetting.dat",
+      "sha1": "17602ccf78729454034cd82bb835ec763ae3ca66",
+      "size": 176,
+      "url": "https://redgrenade.life/l2updater/system_ru/ArtifactEnchantSetting.dat"
+    },
+    {
+      "path": "system_ru/ArtifactTypeSetting.dat",
+      "sha1": "b274224f7128ec9fdf5bcf46ffd08c474b0929e0",
+      "size": 176,
+      "url": "https://redgrenade.life/l2updater/system_ru/ArtifactTypeSetting.dat"
+    },
+    {
+      "path": "system_ru/ArtifactUpgrade.dat",
+      "sha1": "b3f91c31469b06ab8523c89e32a8c8ae16e57acf",
+      "size": 688,
+      "url": "https://redgrenade.life/l2updater/system_ru/ArtifactUpgrade.dat"
+    },
+    {
+      "path": "system_ru/Awesomium.dll",
+      "sha1": "aaa03e1a11d13e2d3e66398ed171bf9f67a08cbb",
+      "size": 21438776,
+      "url": "https://redgrenade.life/l2updater/system_ru/Awesomium.dll"
+    },
+    {
+      "path": "system_ru/AwesomiumProcess.exe",
+      "sha1": "4a4fb61fe21690ecbf15696e11704e55557db260",
+      "size": 453944,
+      "url": "https://redgrenade.life/l2updater/system_ru/AwesomiumProcess.exe"
+    },
+    {
+      "path": "system_ru/BeastTimeEnv0.int",
+      "sha1": "bc5e033a8b754bfeb86fa87e722995d54376a212",
+      "size": 28126,
+      "url": "https://redgrenade.life/l2updater/system_ru/BeastTimeEnv0.int"
+    },
+    {
+      "path": "system_ru/BeastTimeEnv1.int",
+      "sha1": "073c140bc2c3df4167aba296a2603920871d0a76",
+      "size": 28453,
+      "url": "https://redgrenade.life/l2updater/system_ru/BeastTimeEnv1.int"
+    },
+    {
+      "path": "system_ru/BeastTimeEnv2.int",
+      "sha1": "46296696b858a53189149fae9e2816842d1cd491",
+      "size": 27325,
+      "url": "https://redgrenade.life/l2updater/system_ru/BeastTimeEnv2.int"
+    },
+    {
+      "path": "system_ru/BeastTimeEnv3.int",
+      "sha1": "fa5f0f404431a4c84eff802e52bb6d84ce541837",
+      "size": 28101,
+      "url": "https://redgrenade.life/l2updater/system_ru/BeastTimeEnv3.int"
+    },
+    {
+      "path": "system_ru/BeastTimeEnv4.int",
+      "sha1": "3fe1ec0d0148ac27b11f636bafad479318a5ee54",
+      "size": 4922,
+      "url": "https://redgrenade.life/l2updater/system_ru/BeastTimeEnv4.int"
+    },
+    {
+      "path": "system_ru/BeastTimeEnv5.int",
+      "sha1": "07a98caadbf7388c739af5cfa90d2fa41d7c7fc1",
+      "size": 4992,
+      "url": "https://redgrenade.life/l2updater/system_ru/BeastTimeEnv5.int"
+    },
+    {
+      "path": "system_ru/CameraEffectInfo.u",
+      "sha1": "885907ee1682b43cb225147e3dd2240f6e7d0a96",
+      "size": 1462,
+      "url": "https://redgrenade.life/l2updater/system_ru/CameraEffectInfo.u"
+    },
+    {
+      "path": "system_ru/CardCollectData-ru.dat",
+      "sha1": "15311377098fc2917c5fa4c81cd82d9204f891bf",
+      "size": 304,
+      "url": "https://redgrenade.life/l2updater/system_ru/CardCollectData-ru.dat"
+    },
+    {
+      "path": "system_ru/CardCollectData_Classic-ru.dat",
+      "sha1": "7dc19d04f0d8dd4993fa3c6b0a7ebc04d58fc7d3",
+      "size": 304,
+      "url": "https://redgrenade.life/l2updater/system_ru/CardCollectData_Classic-ru.dat"
+    },
+    {
+      "path": "system_ru/CastleName-ru.dat",
+      "sha1": "4aae7628cf22a78410188def897deb9d844e8665",
+      "size": 2224,
+      "url": "https://redgrenade.life/l2updater/system_ru/CastleName-ru.dat"
+    },
+    {
+      "path": "system_ru/CastleName_Classic-ru.dat",
+      "sha1": "40fea54cb0b9d341bed8c070c6347eb26548e21b",
+      "size": 2352,
+      "url": "https://redgrenade.life/l2updater/system_ru/CastleName_Classic-ru.dat"
+    },
+    {
+      "path": "system_ru/CharCreategrp.dat",
+      "sha1": "aa825e62b0c4a95ca974b6d848e6dc554fedda75",
+      "size": 688,
+      "url": "https://redgrenade.life/l2updater/system_ru/CharCreategrp.dat"
+    },
+    {
+      "path": "system_ru/CharCreategrp_Classic.dat",
+      "sha1": "2c7f93437f8165f8a680d73a9daaa42ad97c448f",
+      "size": 304,
+      "url": "https://redgrenade.life/l2updater/system_ru/CharCreategrp_Classic.dat"
+    },
+    {
+      "path": "system_ru/CharacterInitialStatExData.dat",
+      "sha1": "3c7bad7830e0a42ccdf3fae94b8ab87b605e69d7",
+      "size": 432,
+      "url": "https://redgrenade.life/l2updater/system_ru/CharacterInitialStatExData.dat"
+    },
+    {
+      "path": "system_ru/Chargrp.dat",
+      "sha1": "d93403039dca3a3b32a5577882be93e48c23e761",
+      "size": 4912,
+      "url": "https://redgrenade.life/l2updater/system_ru/Chargrp.dat"
+    },
+    {
+      "path": "system_ru/ClassInfo-ru.dat",
+      "sha1": "31514d2e90c17be5c6844e62cda9643c8753aa99",
+      "size": 5168,
+      "url": "https://redgrenade.life/l2updater/system_ru/ClassInfo-ru.dat"
+    },
+    {
+      "path": "system_ru/ClassInfo_Classic-ru.dat",
+      "sha1": "c6e0b97a04b87b342490a8b62e48c265aa7b126d",
+      "size": 2480,
+      "url": "https://redgrenade.life/l2updater/system_ru/ClassInfo_Classic-ru.dat"
+    },
+    {
+      "path": "system_ru/Cloak.int",
+      "sha1": "11926a2f162aa5bf621c95c3c08983834e5991bc",
+      "size": 434,
+      "url": "https://redgrenade.life/l2updater/system_ru/Cloak.int"
+    },
+    {
+      "path": "system_ru/ColorExName-ru.dat",
+      "sha1": "2b1e3ada19c44133b420efa61d8d77f71dbb077e",
+      "size": 1200,
+      "url": "https://redgrenade.life/l2updater/system_ru/ColorExName-ru.dat"
+    },
+    {
+      "path": "system_ru/ColorExgrp.dat",
+      "sha1": "95fa4910015a2408f4d8a56670f1e45bec0640fb",
+      "size": 560,
+      "url": "https://redgrenade.life/l2updater/system_ru/ColorExgrp.dat"
+    },
+    {
+      "path": "system_ru/CombinationItemData.dat",
+      "sha1": "525f6e6b0cc90caeda49bbaa2721bf47d0eaa178",
+      "size": 10288,
+      "url": "https://redgrenade.life/l2updater/system_ru/CombinationItemData.dat"
+    },
+    {
+      "path": "system_ru/CombinationItemData_Classic.dat",
+      "sha1": "dfb19afda6bb55459e3026a17e4ec5d27a868c08",
+      "size": 3760,
+      "url": "https://redgrenade.life/l2updater/system_ru/CombinationItemData_Classic.dat"
+    },
+    {
+      "path": "system_ru/CommandName-ru.dat",
+      "sha1": "53572a24fc57a37138c5e3e797a99dd6079c943a",
+      "size": 1840,
+      "url": "https://redgrenade.life/l2updater/system_ru/CommandName-ru.dat"
+    },
+    {
+      "path": "system_ru/CommandName_Classic-ru.dat",
+      "sha1": "c777a95f34ce7d40341b3b9b684cb24713304de3",
+      "size": 1584,
+      "url": "https://redgrenade.life/l2updater/system_ru/CommandName_Classic-ru.dat"
+    },
+    {
+      "path": "system_ru/Core.dll",
+      "sha1": "a3c775fc7907d0f75ecd63352eefd7a7bd0dbb7e",
+      "size": 1839288,
+      "url": "https://redgrenade.life/l2updater/system_ru/Core.dll"
+    },
+    {
+      "path": "system_ru/Core.int",
+      "sha1": "dd7a5f47f73adec31f2bae7eef81cfba0578f0b3",
+      "size": 3479,
+      "url": "https://redgrenade.life/l2updater/system_ru/Core.int"
+    },
+    {
+      "path": "system_ru/Core.u",
+      "sha1": "9af98633be30917d96e5ced492957d03138e65d3",
+      "size": 38832,
+      "url": "https://redgrenade.life/l2updater/system_ru/Core.u"
+    },
+    {
+      "path": "system_ru/Costume_Classic.dat",
+      "sha1": "2c70fdcfd14562fed82e99c1bc3afe749ce0480d",
+      "size": 1328,
+      "url": "https://redgrenade.life/l2updater/system_ru/Costume_Classic.dat"
+    },
+    {
+      "path": "system_ru/Costume_CollectionBonus_Classic.dat",
+      "sha1": "291793adb98c2250e195bb912dbeba5ac3aca6dc",
+      "size": 176,
+      "url": "https://redgrenade.life/l2updater/system_ru/Costume_CollectionBonus_Classic.dat"
+    },
+    {
+      "path": "system_ru/Costume_Collection_Classic.dat",
+      "sha1": "f4dda9c4d586407013db3584e13c5e2a158e060a",
+      "size": 304,
+      "url": "https://redgrenade.life/l2updater/system_ru/Costume_Collection_Classic.dat"
+    },
+    {
+      "path": "system_ru/Credit-ru.dat",
+      "sha1": "7e5f63a23f5e413a5d9910b8765be4ab14b7f161",
+      "size": 176,
+      "url": "https://redgrenade.life/l2updater/system_ru/Credit-ru.dat"
+    },
+    {
+      "path": "system_ru/CreditFont.gly",
+      "sha1": "618fd8b21cf55c0726a9dc8e9ffead2eaa95d96d",
+      "size": 181780,
+      "url": "https://redgrenade.life/l2updater/system_ru/CreditFont.gly"
+    },
+    {
+      "path": "system_ru/CubicEffectData.dat",
+      "sha1": "ed09cb78cd1c097d6b6edf64e738514eb7ca0493",
+      "size": 176,
+      "url": "https://redgrenade.life/l2updater/system_ru/CubicEffectData.dat"
+    },
+    {
+      "path": "system_ru/D3DDrv.dll",
+      "sha1": "049797cff97ae7ccd8413a8419d7044927422ddc",
+      "size": 811008,
+      "url": "https://redgrenade.life/l2updater/system_ru/D3DDrv.dll"
+    },
+    {
+      "path": "system_ru/D3DDrv.int",
+      "sha1": "6a666075407d178875d851d1ed472899e61c7135",
+      "size": 402,
+      "url": "https://redgrenade.life/l2updater/system_ru/D3DDrv.int"
+    },
+    {
+      "path": "system_ru/D3DX9_40.dll",
+      "sha1": "77a7f48f4bdb7e66ed5e524bb8879e3da0d6cd1d",
+      "size": 4379984,
+      "url": "https://redgrenade.life/l2updater/system_ru/D3DX9_40.dll"
+    },
+    {
+      "path": "system_ru/DecoNPCData_client.dat",
+      "sha1": "d5150b5e3e9eef089c915d36659f54b93cfb561a",
+      "size": 688,
+      "url": "https://redgrenade.life/l2updater/system_ru/DecoNPCData_client.dat"
+    },
+    {
+      "path": "system_ru/DefOpenAL32.dll",
+      "sha1": "c16010b8e2b902fe40ad359a57472268ab5c5c88",
+      "size": 114688,
+      "url": "https://redgrenade.life/l2updater/system_ru/DefOpenAL32.dll"
+    },
+    {
+      "path": "system_ru/DualCastTypeData.dat",
+      "sha1": "54267479db50a7861fe02824effb70d0118d3ed8",
+      "size": 176,
+      "url": "https://redgrenade.life/l2updater/system_ru/DualCastTypeData.dat"
+    },
+    {
+      "path": "system_ru/DynamicContentsName-ru.dat",
+      "sha1": "6487f0a47d53fcb6f2db5a1ca0ca621f98101f1b",
+      "size": 3504,
+      "url": "https://redgrenade.life/l2updater/system_ru/DynamicContentsName-ru.dat"
+    },
+    {
+      "path": "system_ru/EULA-ru.dat",
+      "sha1": "e1197fd4bc940af3e4affacbf8fec5ac20a67bf7",
+      "size": 3120,
+      "url": "https://redgrenade.life/l2updater/system_ru/EULA-ru.dat"
+    },
+    {
+      "path": "system_ru/Editor.u",
+      "sha1": "8c5043844aa5db2466a5f0b808fa732fb39e466e",
+      "size": 558507,
+      "url": "https://redgrenade.life/l2updater/system_ru/Editor.u"
+    },
+    {
+      "path": "system_ru/ElementalSpiritStat_Classic.dat",
+      "sha1": "5585078f645dad4c06b9b5b01944c614f641408d",
+      "size": 2864,
+      "url": "https://redgrenade.life/l2updater/system_ru/ElementalSpiritStat_Classic.dat"
+    },
+    {
+      "path": "system_ru/ElementalSpirit_Classic.dat",
+      "sha1": "69732932f2f15cfdf1e3cad32cd905dacf3593c9",
+      "size": 1072,
+      "url": "https://redgrenade.life/l2updater/system_ru/ElementalSpirit_Classic.dat"
+    },
+    {
+      "path": "system_ru/EnchantStatBonus.dat",
+      "sha1": "758e5d69bf456995127085ae1296d33bf0f2a5dd",
+      "size": 432,
+      "url": "https://redgrenade.life/l2updater/system_ru/EnchantStatBonus.dat"
+    },
+    {
+      "path": "system_ru/EnchantStatBonus_Classic.dat",
+      "sha1": "330de50d7331932b41f04b9ab3abf0e629fc529e",
+      "size": 432,
+      "url": "https://redgrenade.life/l2updater/system_ru/EnchantStatBonus_Classic.dat"
+    },
+    {
+      "path": "system_ru/EnchantedWeaponFlowEffectData.dat",
+      "sha1": "2dc9872043b8211c326fa503cb8c2814342300d9",
+      "size": 1328,
+      "url": "https://redgrenade.life/l2updater/system_ru/EnchantedWeaponFlowEffectData.dat"
+    },
+    {
+      "path": "system_ru/EnchantedWeaponFlowEffectData_Classic.dat",
+      "sha1": "c01faf9935158a0d6563fdd7a60cfaf794de2641",
+      "size": 688,
+      "url": "https://redgrenade.life/l2updater/system_ru/EnchantedWeaponFlowEffectData_Classic.dat"
+    },
+    {
+      "path": "system_ru/Engine.dll",
+      "sha1": "f9025b864975cc72634018b7c29a7776e1322802",
+      "size": 38829108,
+      "url": "https://redgrenade.life/l2updater/system_ru/Engine.dll"
+    },
+    {
+      "path": "system_ru/Engine.int",
+      "sha1": "8624fff4bcf007101b5e8cde97dc1efbaad19a30",
+      "size": 6991,
+      "url": "https://redgrenade.life/l2updater/system_ru/Engine.int"
+    },
+    {
+      "path": "system_ru/Engine.u",
+      "sha1": "e811a093b341102eac9fb339cdd7cf581eceb347",
+      "size": 1900690,
+      "url": "https://redgrenade.life/l2updater/system_ru/Engine.u"
+    },
+    {
+      "path": "system_ru/EnterEventgrp.dat",
+      "sha1": "44ac3e43421933d1641e12c44ad5d6799db3a9af",
+      "size": 6704,
+      "url": "https://redgrenade.life/l2updater/system_ru/EnterEventgrp.dat"
+    },
+    {
+      "path": "system_ru/EnterEventgrp_Classic.dat",
+      "sha1": "4054890f0e77ba3785e5b959d416befdc03adc07",
+      "size": 6320,
+      "url": "https://redgrenade.life/l2updater/system_ru/EnterEventgrp_Classic.dat"
+    },
+    {
+      "path": "system_ru/Env.int",
+      "sha1": "1fe11c13d06ae82d6987c63ff2fa090aa61d1171",
+      "size": 4253,
+      "url": "https://redgrenade.life/l2updater/system_ru/Env.int"
+    },
+    {
+      "path": "system_ru/EtcItemgrp.dat",
+      "sha1": "695d9565f5eca7c842859dc9cd0c1bf445832e7f",
+      "size": 153904,
+      "url": "https://redgrenade.life/l2updater/system_ru/EtcItemgrp.dat"
+    },
+    {
+      "path": "system_ru/EtcItemgrp_Classic.dat",
+      "sha1": "5a36783ac483add7c25a02b5c2cac37a9806abb7",
+      "size": 65072,
+      "url": "https://redgrenade.life/l2updater/system_ru/EtcItemgrp_Classic.dat"
+    },
+    {
+      "path": "system_ru/EventAlarmList-ru.dat",
+      "sha1": "0ca32c7b4312372aa96823e8778f56128b888318",
+      "size": 2480,
+      "url": "https://redgrenade.life/l2updater/system_ru/EventAlarmList-ru.dat"
+    },
+    {
+      "path": "system_ru/EventAlarmList_Classic-ru.dat",
+      "sha1": "488b4f21ce26198d5622b0cd9c01e508d3e867dc",
+      "size": 1840,
+      "url": "https://redgrenade.life/l2updater/system_ru/EventAlarmList_Classic-ru.dat"
+    },
+    {
+      "path": "system_ru/EventContentsGoalName-ru.dat",
+      "sha1": "a6e94df8bc72457fcbbd4324e844167dd5abc78e",
+      "size": 560,
+      "url": "https://redgrenade.life/l2updater/system_ru/EventContentsGoalName-ru.dat"
+    },
+    {
+      "path": "system_ru/EventContentsName-ru.dat",
+      "sha1": "36fbf3d8b52f51e96b9d50d08fe8157a22680ca4",
+      "size": 304,
+      "url": "https://redgrenade.life/l2updater/system_ru/EventContentsName-ru.dat"
+    },
+    {
+      "path": "system_ru/EventLookChange.dat",
+      "sha1": "304764b81fdeb52f4229890d4e6b7c0e8f6068cc",
+      "size": 2352,
+      "url": "https://redgrenade.life/l2updater/system_ru/EventLookChange.dat"
+    },
+    {
+      "path": "system_ru/ExceptionMinimapData.dat",
+      "sha1": "d4fe1978d896c4aaea4f3c66a2828ef778076f0e",
+      "size": 2096,
+      "url": "https://redgrenade.life/l2updater/system_ru/ExceptionMinimapData.dat"
+    },
+    {
+      "path": "system_ru/ExceptionMinimapData_Classic.dat",
+      "sha1": "b303b50030f4731dee2ca4fe6ae2b8e75769291a",
+      "size": 1584,
+      "url": "https://redgrenade.life/l2updater/system_ru/ExceptionMinimapData_Classic.dat"
+    },
+    {
+      "path": "system_ru/FactionName-ru.dat",
+      "sha1": "8b1ae9b5a2345cfe8f9637d7bb8a4c3fcd18d0f7",
+      "size": 3760,
+      "url": "https://redgrenade.life/l2updater/system_ru/FactionName-ru.dat"
+    },
+    {
+      "path": "system_ru/Fire.dll",
+      "sha1": "c13e51d213cc2c0ae3a8c759f4ad1f738ad6d659",
+      "size": 193024,
+      "url": "https://redgrenade.life/l2updater/system_ru/Fire.dll"
+    },
+    {
+      "path": "system_ru/Fire.u",
+      "sha1": "bc92ca9d35645dc97152432a799665c54a8eac56",
+      "size": 6797,
+      "url": "https://redgrenade.life/l2updater/system_ru/Fire.u"
+    },
+    {
+      "path": "system_ru/FixedTimeEnv0.int",
+      "sha1": "83141a174bb23001cd8a4f8747ac9202756dd129",
+      "size": 27238,
+      "url": "https://redgrenade.life/l2updater/system_ru/FixedTimeEnv0.int"
+    },
+    {
+      "path": "system_ru/FlashConfig.dat",
+      "sha1": "84688f1a14f291d70f9a18be95dbc1fce88104a9",
+      "size": 1072,
+      "url": "https://redgrenade.life/l2updater/system_ru/FlashConfig.dat"
+    },
+    {
+      "path": "system_ru/FlyMoveName-ru.dat",
+      "sha1": "37d037521f73fc6818285f1100b082cac622a904",
+      "size": 1072,
+      "url": "https://redgrenade.life/l2updater/system_ru/FlyMoveName-ru.dat"
+    },
+    {
+      "path": "system_ru/FlyMoveName_Classic-ru.dat",
+      "sha1": "1b19f5485bdb67888ca72d41dd6dbd8a51728cfc",
+      "size": 944,
+      "url": "https://redgrenade.life/l2updater/system_ru/FlyMoveName_Classic-ru.dat"
+    },
+    {
+      "path": "system_ru/FullArmorEnchantEffectData.dat",
+      "sha1": "f1f4e2bf07fc5672ed382c161105421236a9c00e",
+      "size": 176,
+      "url": "https://redgrenade.life/l2updater/system_ru/FullArmorEnchantEffectData.dat"
+    },
+    {
+      "path": "system_ru/GameDataBase-ru.dat",
+      "sha1": "2d5a44a2f05677194028a8a54e4f8b0507dbbd6d",
+      "size": 3504,
+      "url": "https://redgrenade.life/l2updater/system_ru/GameDataBase-ru.dat"
+    },
+    {
+      "path": "system_ru/GameDataBase_Classic-ru.dat",
+      "sha1": "de57722a85ceb413fd8fb2c01b1d437d3a5d94ec",
+      "size": 816,
+      "url": "https://redgrenade.life/l2updater/system_ru/GameDataBase_Classic-ru.dat"
+    },
+    {
+      "path": "system_ru/GamePlay.u",
+      "sha1": "8face29eaadfd528601676a99dfc25bd88eb9f39",
+      "size": 106478,
+      "url": "https://redgrenade.life/l2updater/system_ru/GamePlay.u"
+    },
+    {
+      "path": "system_ru/GameTip-ru.dat",
+      "sha1": "372b4b01f14604c04bee3ccb4d34e87817ab40d3",
+      "size": 29488,
+      "url": "https://redgrenade.life/l2updater/system_ru/GameTip-ru.dat"
+    },
+    {
+      "path": "system_ru/GameTip_Classic-ru.dat",
+      "sha1": "8d38f0d2bfd86f7e1009d1a6778778f7c0c43250",
+      "size": 28336,
+      "url": "https://redgrenade.life/l2updater/system_ru/GameTip_Classic-ru.dat"
+    },
+    {
+      "path": "system_ru/GoodsIcon.dat",
+      "sha1": "f413cf707b506975772fa750fb5ac4e23862234f",
+      "size": 176,
+      "url": "https://redgrenade.life/l2updater/system_ru/GoodsIcon.dat"
+    },
+    {
+      "path": "system_ru/Hair.int",
+      "sha1": "e41821e1476e04dd7801951125df2eb72e6d3235",
+      "size": 116121,
+      "url": "https://redgrenade.life/l2updater/system_ru/Hair.int"
+    },
+    {
+      "path": "system_ru/Hairaccessorylocgrp.dat",
+      "sha1": "7d690f7cfd8318e848c0ff74120b99997f770155",
+      "size": 3888,
+      "url": "https://redgrenade.life/l2updater/system_ru/Hairaccessorylocgrp.dat"
+    },
+    {
+      "path": "system_ru/Hennagrp-ru.dat",
+      "sha1": "b35403faa80ee528e1f38f23619ac14138aecb08",
+      "size": 8112,
+      "url": "https://redgrenade.life/l2updater/system_ru/Hennagrp-ru.dat"
+    },
+    {
+      "path": "system_ru/Hennagrp_Classic-ru.dat",
+      "sha1": "ac93a0849ef08a77c0c8d47a8bba18bdb3bb57da",
+      "size": 4272,
+      "url": "https://redgrenade.life/l2updater/system_ru/Hennagrp_Classic-ru.dat"
+    },
+    {
+      "path": "system_ru/HuntingZone-ru.dat",
+      "sha1": "6f1d2fb5b1ddf04bcea39c40930b6630fd794f41",
+      "size": 10288,
+      "url": "https://redgrenade.life/l2updater/system_ru/HuntingZone-ru.dat"
+    },
+    {
+      "path": "system_ru/HuntingZone_Classic-ru.dat",
+      "sha1": "89a60a1b945f5e9cf64e35556187a24842c502f8",
+      "size": 21040,
+      "url": "https://redgrenade.life/l2updater/system_ru/HuntingZone_Classic-ru.dat"
+    },
+    {
+      "path": "system_ru/InstantZoneData-ru.dat",
+      "sha1": "2a330bf2c0d6c2f6072eb17c36af4ba1ca93d507",
+      "size": 3248,
+      "url": "https://redgrenade.life/l2updater/system_ru/InstantZoneData-ru.dat"
+    },
+    {
+      "path": "system_ru/InstantZoneData_Classic-ru.dat",
+      "sha1": "48390ffa6bb39bd00cb0cb7f5d8a8ad8475d71a8",
+      "size": 560,
+      "url": "https://redgrenade.life/l2updater/system_ru/InstantZoneData_Classic-ru.dat"
+    },
+    {
+      "path": "system_ru/Interface.u",
+      "sha1": "5202b83d5c2bbc539a531523a5f646fb4bf765ab",
+      "size": 3251939,
+      "url": "https://redgrenade.life/l2updater/system_ru/Interface.u"
+    },
+    {
+      "path": "system_ru/Interface.xdat",
+      "sha1": "bdee0f5802fa560b862c875235a1320557dd82b4",
+      "size": 2833719,
+      "url": "https://redgrenade.life/l2updater/system_ru/Interface.xdat"
+    },
+    {
+      "path": "system_ru/ItemName-ru.dat",
+      "sha1": "ba362ffa11d94511a5233594c99aa0104c561686",
+      "size": 1079088,
+      "url": "https://redgrenade.life/l2updater/system_ru/ItemName-ru.dat"
+    },
+    {
+      "path": "system_ru/ItemName_Classic-ru.dat",
+      "sha1": "089d3d7ea95dae5b47395f8e90397b134eaf588f",
+      "size": 379952,
+      "url": "https://redgrenade.life/l2updater/system_ru/ItemName_Classic-ru.dat"
+    },
+    {
+      "path": "system_ru/ItemStatData.dat",
+      "sha1": "74903a8ce89bcd7e77cc36974a7e7b19b5a6bb86",
+      "size": 140592,
+      "url": "https://redgrenade.life/l2updater/system_ru/ItemStatData.dat"
+    },
+    {
+      "path": "system_ru/ItemStatData_Classic.dat",
+      "sha1": "71158f4a6421bfcdc126902179f2a234c748e574",
+      "size": 153648,
+      "url": "https://redgrenade.life/l2updater/system_ru/ItemStatData_Classic.dat"
+    },
+    {
+      "path": "system_ru/L2-classic.ini",
+      "sha1": "66221037377aa22b4ec18f09630885638f6b9900",
+      "size": 4528,
+      "url": "https://redgrenade.life/l2updater/system_ru/L2-classic.ini"
+    },
+    {
+      "path": "system_ru/L2-otc.ini",
+      "sha1": "5e47972b0e73c06f65d9713c5f4b270e64fab23f",
+      "size": 4528,
+      "url": "https://redgrenade.life/l2updater/system_ru/L2-otc.ini"
+    },
+    {
+      "path": "system_ru/L2.bin",
+      "sha1": "e2b7f45284c9f4e6e284bf496a3e9f70f2beb955",
+      "size": 3421742,
+      "url": "https://redgrenade.life/l2updater/system_ru/L2.bin"
+    },
+    {
+      "path": "system_ru/L2.exe",
+      "sha1": "f48aaa299c333aaff5ea970383f8656065561752",
+      "size": 39189104,
+      "url": "https://redgrenade.life/l2updater/system_ru/L2.exe"
+    },
+    {
+      "path": "system_ru/L2.log",
+      "sha1": "6d381ac07e5a572fa45c5aa228855ea520f9c335",
+      "size": 744718,
+      "url": "https://redgrenade.life/l2updater/system_ru/L2.log"
+    },
+    {
+      "path": "system_ru/L2CefSubProcess.exe",
+      "sha1": "c62306c1b3ff16bd12afc593f0fee8b982ed96d7",
+      "size": 246272,
+      "url": "https://redgrenade.life/l2updater/system_ru/L2CefSubProcess.exe"
+    },
+    {
+      "path": "system_ru/L2CompiledShader.bin",
+      "sha1": "0217796aefba2446d37df67afd48fa6f828c2ec0",
+      "size": 63648,
+      "url": "https://redgrenade.life/l2updater/system_ru/L2CompiledShader.bin"
+    },
+    {
+      "path": "system_ru/L2CrashSender.exe",
+      "sha1": "8b0754533ba076ba14fab56527aa84587493078a",
+      "size": 149504,
+      "url": "https://redgrenade.life/l2updater/system_ru/L2CrashSender.exe"
+    },
+    {
+      "path": "system_ru/L2DB.bin",
+      "sha1": "98401f94b2ae6b732dcb6d4a4238a2b5ef57e2c1",
+      "size": 686,
+      "url": "https://redgrenade.life/l2updater/system_ru/L2DB.bin"
+    },
+    {
+      "path": "system_ru/L2DiscordPresence.dll",
+      "sha1": "7b11338208eb2a583682446a7bee6b46a41552d3",
+      "size": 9728,
+      "url": "https://redgrenade.life/l2updater/system_ru/L2DiscordPresence.dll"
+    },
+    {
+      "path": "system_ru/L2ForecF.ffe",
+      "sha1": "89138f5c4585bd1939a77976120a04ba6c917f78",
+      "size": 3496,
+      "url": "https://redgrenade.life/l2updater/system_ru/L2ForecF.ffe"
+    },
+    {
+      "path": "system_ru/L2GameDataName.dat",
+      "sha1": "d3f7de182bc718f1796002f3c8f54420c583873c",
+      "size": 764592,
+      "url": "https://redgrenade.life/l2updater/system_ru/L2GameDataName.dat"
+    },
+    {
+      "path": "system_ru/L2PreCompiledShader.bin",
+      "sha1": "11edf2bdcca5b43ae1a966fe63d6509d087ffdf2",
+      "size": 58539,
+      "url": "https://redgrenade.life/l2updater/system_ru/L2PreCompiledShader.bin"
+    },
+    {
+      "path": "system_ru/L2SPDB.bin",
+      "sha1": "df607846511de67332b3bc4d7a799644aa3f2663",
+      "size": 20,
+      "url": "https://redgrenade.life/l2updater/system_ru/L2SPDB.bin"
+    },
+    {
+      "path": "system_ru/L2Second.log",
+      "sha1": "3e638567fd28acedf698da862c47e6bc23f60774",
+      "size": 138856,
+      "url": "https://redgrenade.life/l2updater/system_ru/L2Second.log"
+    },
+    {
+      "path": "system_ru/LargeFont-ru.gly",
+      "sha1": "f4525a1b42071ee924a6ff15295e2df0cc327d99",
+      "size": 1540,
+      "url": "https://redgrenade.life/l2updater/system_ru/LargeFont-ru.gly"
+    },
+    {
+      "path": "system_ru/LargeFont.gly",
+      "sha1": "70a039a8bf14253580422b81c7ffb2e3d10c4084",
+      "size": 185612,
+      "url": "https://redgrenade.life/l2updater/system_ru/LargeFont.gly"
+    },
+    {
+      "path": "system_ru/LineageDeco.u",
+      "sha1": "1712d5eebf2ee96ac92afa62fb714f581c992818",
+      "size": 4911,
+      "url": "https://redgrenade.life/l2updater/system_ru/LineageDeco.u"
+    },
+    {
+      "path": "system_ru/LineageEffect.u",
+      "sha1": "56c58fb9853ecc01f356c1d023197aebf00a18d2",
+      "size": 31178502,
+      "url": "https://redgrenade.life/l2updater/system_ru/LineageEffect.u"
+    },
+    {
+      "path": "system_ru/LineageEffect2.u",
+      "sha1": "98e75f06da5a9057bc2421586c57a52b0443e54f",
+      "size": 8680319,
+      "url": "https://redgrenade.life/l2updater/system_ru/LineageEffect2.u"
+    },
+    {
+      "path": "system_ru/LineageEffect_Br.u",
+      "sha1": "579e33b69272be545fa353d4fecb1ce33a7ef78f",
+      "size": 1214919,
+      "url": "https://redgrenade.life/l2updater/system_ru/LineageEffect_Br.u"
+    },
+    {
+      "path": "system_ru/LineageGameplay.u",
+      "sha1": "1f26f6e466feeab4812ca33315fe3f511476e55b",
+      "size": 8745,
+      "url": "https://redgrenade.life/l2updater/system_ru/LineageGameplay.u"
+    },
+    {
+      "path": "system_ru/LineageMonster.u",
+      "sha1": "c1ef52bdc38732adaafddc2907b9aef5a78f9116",
+      "size": 184821,
+      "url": "https://redgrenade.life/l2updater/system_ru/LineageMonster.u"
+    },
+    {
+      "path": "system_ru/LineageMonster10.u",
+      "sha1": "c86c7ec5f5b6c360c62cd54f8e666a1945536ae3",
+      "size": 13056,
+      "url": "https://redgrenade.life/l2updater/system_ru/LineageMonster10.u"
+    },
+    {
+      "path": "system_ru/LineageMonster11.u",
+      "sha1": "d9c74862f2b96c2a3c8845454bc656397f9c13b2",
+      "size": 9072,
+      "url": "https://redgrenade.life/l2updater/system_ru/LineageMonster11.u"
+    },
+    {
+      "path": "system_ru/LineageMonster12.u",
+      "sha1": "101d1dce869e6afe48f445c9a3104730ae97ea3a",
+      "size": 15290,
+      "url": "https://redgrenade.life/l2updater/system_ru/LineageMonster12.u"
+    },
+    {
+      "path": "system_ru/LineageMonster13.u",
+      "sha1": "fa12dd3ae11470f202cdce860257d2908440ac42",
+      "size": 70340,
+      "url": "https://redgrenade.life/l2updater/system_ru/LineageMonster13.u"
+    },
+    {
+      "path": "system_ru/LineageMonster2.u",
+      "sha1": "23646c44523242067092c2b1723c5dbe9a77031e",
+      "size": 86274,
+      "url": "https://redgrenade.life/l2updater/system_ru/LineageMonster2.u"
+    },
+    {
+      "path": "system_ru/LineageMonster3.u",
+      "sha1": "4183637785c30cde4dfa9c47d550406d1e7b84f7",
+      "size": 94358,
+      "url": "https://redgrenade.life/l2updater/system_ru/LineageMonster3.u"
+    },
+    {
+      "path": "system_ru/LineageMonster4.u",
+      "sha1": "2cd819fe535c6374d48b975b360c5fc7f848567a",
+      "size": 99546,
+      "url": "https://redgrenade.life/l2updater/system_ru/LineageMonster4.u"
+    },
+    {
+      "path": "system_ru/LineageMonster5.u",
+      "sha1": "63310542f61c0e35bc0ac5b2d741ff38a08d62d8",
+      "size": 62011,
+      "url": "https://redgrenade.life/l2updater/system_ru/LineageMonster5.u"
+    },
+    {
+      "path": "system_ru/LineageMonster6.u",
+      "sha1": "ee9dc9b7485b7e54781c00195820a63b16566fa5",
+      "size": 24541,
+      "url": "https://redgrenade.life/l2updater/system_ru/LineageMonster6.u"
+    },
+    {
+      "path": "system_ru/LineageMonster7.u",
+      "sha1": "54d7aa66353d4c5f20468089ed18a61d0ff56401",
+      "size": 124589,
+      "url": "https://redgrenade.life/l2updater/system_ru/LineageMonster7.u"
+    },
+    {
+      "path": "system_ru/LineageMonster8.u",
+      "sha1": "891c57a04a19571583d31bccb1744b80c06fd5e9",
+      "size": 6992,
+      "url": "https://redgrenade.life/l2updater/system_ru/LineageMonster8.u"
+    },
+    {
+      "path": "system_ru/LineageMonster9.u",
+      "sha1": "4f856492020b09360cf2b5c369caf05cc03f3140",
+      "size": 21118,
+      "url": "https://redgrenade.life/l2updater/system_ru/LineageMonster9.u"
+    },
+    {
+      "path": "system_ru/LineageMonster99.u",
+      "sha1": "e40d992247f8efd50b8c10e953cd14c703081449",
+      "size": 8027,
+      "url": "https://redgrenade.life/l2updater/system_ru/LineageMonster99.u"
+    },
+    {
+      "path": "system_ru/LineageNPCs_ShockZone.u",
+      "sha1": "78e1504c8c8a5f35049a3dac36380fe56f29c263",
+      "size": 73487373,
+      "url": "https://redgrenade.life/l2updater/system_ru/LineageNPCs_ShockZone.u"
+    },
+    {
+      "path": "system_ru/LineageNpc.u",
+      "sha1": "000b9db3ca8e3e8e3a7dd3390bed1dc2159e7664",
+      "size": 100363,
+      "url": "https://redgrenade.life/l2updater/system_ru/LineageNpc.u"
+    },
+    {
+      "path": "system_ru/LineageNpc2.u",
+      "sha1": "ec7c977eadc4aedcd54d2181a0aa588acc7d1c7b",
+      "size": 241220,
+      "url": "https://redgrenade.life/l2updater/system_ru/LineageNpc2.u"
+    },
+    {
+      "path": "system_ru/LineageNpc3.u",
+      "sha1": "9749ffd843aca03e5f92b1fe89ba909ea844874a",
+      "size": 55657,
+      "url": "https://redgrenade.life/l2updater/system_ru/LineageNpc3.u"
+    },
+    {
+      "path": "system_ru/LineageNpc4.u",
+      "sha1": "7ebfa482523996c6c8995580b582d2c7f3a89989",
+      "size": 18393,
+      "url": "https://redgrenade.life/l2updater/system_ru/LineageNpc4.u"
+    },
+    {
+      "path": "system_ru/LineageNpc5.u",
+      "sha1": "6cda4bc3473d88c6f4514f441e2a3389926a8253",
+      "size": 46801,
+      "url": "https://redgrenade.life/l2updater/system_ru/LineageNpc5.u"
+    },
+    {
+      "path": "system_ru/LineageNpcEv.u",
+      "sha1": "00a61656a2a8e8ea93558677f974a525b1c9c922",
+      "size": 171890,
+      "url": "https://redgrenade.life/l2updater/system_ru/LineageNpcEv.u"
+    },
+    {
+      "path": "system_ru/LineageNpc_br.u",
+      "sha1": "7f2c2407eaab7997230ceca02524d389fb5f0632",
+      "size": 53897,
+      "url": "https://redgrenade.life/l2updater/system_ru/LineageNpc_br.u"
+    },
+    {
+      "path": "system_ru/LineageSceneInfo.u",
+      "sha1": "84d10e08dc82b49a1debbf25c092d2913309c969",
+      "size": 387618,
+      "url": "https://redgrenade.life/l2updater/system_ru/LineageSceneInfo.u"
+    },
+    {
+      "path": "system_ru/LineageSkillEffect.u",
+      "sha1": "50c75edc8a0016c3ab3ed777fd06e89430139d7b",
+      "size": 1854539,
+      "url": "https://redgrenade.life/l2updater/system_ru/LineageSkillEffect.u"
+    },
+    {
+      "path": "system_ru/LineageVehicle.u",
+      "sha1": "594be7afbec314826688255ead429eb7863a7153",
+      "size": 7341,
+      "url": "https://redgrenade.life/l2updater/system_ru/LineageVehicle.u"
+    },
+    {
+      "path": "system_ru/LineageWarrior.u",
+      "sha1": "2b624bce560c58fe37c9f88b9b6d22d843f96afd",
+      "size": 21627,
+      "url": "https://redgrenade.life/l2updater/system_ru/LineageWarrior.u"
+    },
+    {
+      "path": "system_ru/LobbyTimeEnv0.int",
+      "sha1": "c786d546e59e65e23baeb4f2f982c32fd4dce0d2",
+      "size": 27727,
+      "url": "https://redgrenade.life/l2updater/system_ru/LobbyTimeEnv0.int"
+    },
+    {
+      "path": "system_ru/LobbyTimeEnv0_Classic.int",
+      "sha1": "7ad424d77a7ed01b050b7ce35bed65f93c677a7d",
+      "size": 28109,
+      "url": "https://redgrenade.life/l2updater/system_ru/LobbyTimeEnv0_Classic.int"
+    },
+    {
+      "path": "system_ru/Localization.ini",
+      "sha1": "623cd29985a5773d1e2f7c6bd6d8fddc96c6d023",
+      "size": 10207,
+      "url": "https://redgrenade.life/l2updater/system_ru/Localization.ini"
+    },
+    {
+      "path": "system_ru/Logongrp.dat",
+      "sha1": "e335e2f5b4b763d3d108a0c247ecacdec62ac6ca",
+      "size": 176,
+      "url": "https://redgrenade.life/l2updater/system_ru/Logongrp.dat"
+    },
+    {
+      "path": "system_ru/Logongrp_Classic.dat",
+      "sha1": "e335e2f5b4b763d3d108a0c247ecacdec62ac6ca",
+      "size": 176,
+      "url": "https://redgrenade.life/l2updater/system_ru/Logongrp_Classic.dat"
+    },
+    {
+      "path": "system_ru/LollyCubeData.dat",
+      "sha1": "8a59aa25f7b8426f8538667833fb1a3d2533ac75",
+      "size": 176,
+      "url": "https://redgrenade.life/l2updater/system_ru/LollyCubeData.dat"
+    },
+    {
+      "path": "system_ru/MSConditionData.dat",
+      "sha1": "57b84e9c0dc8416c412a4980c13bca102a081b98",
+      "size": 324656,
+      "url": "https://redgrenade.life/l2updater/system_ru/MSConditionData.dat"
+    },
+    {
+      "path": "system_ru/MSConditionData_Classic.dat",
+      "sha1": "9158f803a87de6e862e3fdbcd969cdadc188c730",
+      "size": 45360,
+      "url": "https://redgrenade.life/l2updater/system_ru/MSConditionData_Classic.dat"
+    },
+    {
+      "path": "system_ru/MantleException.dat",
+      "sha1": "f00372e7c623b4aa95681205952ed732138b30f9",
+      "size": 688,
+      "url": "https://redgrenade.life/l2updater/system_ru/MantleException.dat"
+    },
+    {
+      "path": "system_ru/MinimapRegion.dat",
+      "sha1": "35743211c00fc3e0de43061eb9f5d39ca1368144",
+      "size": 3632,
+      "url": "https://redgrenade.life/l2updater/system_ru/MinimapRegion.dat"
+    },
+    {
+      "path": "system_ru/MinimapRegion_Classic.dat",
+      "sha1": "9a64175010c792b14683d3b96ed479efacfb0aae",
+      "size": 3120,
+      "url": "https://redgrenade.life/l2updater/system_ru/MinimapRegion_Classic.dat"
+    },
+    {
+      "path": "system_ru/MobSkillAnimgrp.dat",
+      "sha1": "b8d81a1b5c17235531964d3288e123577b7d7b1c",
+      "size": 41264,
+      "url": "https://redgrenade.life/l2updater/system_ru/MobSkillAnimgrp.dat"
+    },
+    {
+      "path": "system_ru/MobSkillAnimgrp_Classic.dat",
+      "sha1": "85f24e05738075d2939c708176891c3fbfa660fb",
+      "size": 43568,
+      "url": "https://redgrenade.life/l2updater/system_ru/MobSkillAnimgrp_Classic.dat"
+    },
+    {
+      "path": "system_ru/MonsterBook_client.dat",
+      "sha1": "e859473e40282bccfef3fb649cc01c7d43e7e124",
+      "size": 4784,
+      "url": "https://redgrenade.life/l2updater/system_ru/MonsterBook_client.dat"
+    },
+    {
+      "path": "system_ru/MusicInfo.dat",
+      "sha1": "9bcc2a9ba3e1f9cd9968e07c9f061025f62047df",
+      "size": 5552,
+      "url": "https://redgrenade.life/l2updater/system_ru/MusicInfo.dat"
+    },
+    {
+      "path": "system_ru/MusicInfo_Classic.dat",
+      "sha1": "3edba402ed6c437bebee5736b32f9cd221e2749d",
+      "size": 3888,
+      "url": "https://redgrenade.life/l2updater/system_ru/MusicInfo_Classic.dat"
+    },
+    {
+      "path": "system_ru/NPCTeleporter.dat",
+      "sha1": "1130acec21609c3841349955fde89159d7dc5081",
+      "size": 688,
+      "url": "https://redgrenade.life/l2updater/system_ru/NPCTeleporter.dat"
+    },
+    {
+      "path": "system_ru/NPCTeleporter_Classic.dat",
+      "sha1": "07eeef69bef14dc90ed1331b848f035b5a4972ac",
+      "size": 560,
+      "url": "https://redgrenade.life/l2updater/system_ru/NPCTeleporter_Classic.dat"
+    },
+    {
+      "path": "system_ru/NPSWF32.dll",
+      "sha1": "65ad349b8197941d34a207953d10bf44672a4119",
+      "size": 17599688,
+      "url": "https://redgrenade.life/l2updater/system_ru/NPSWF32.dll"
+    },
+    {
+      "path": "system_ru/NSplash.dll",
+      "sha1": "e69ddb996e62f5ca1344e7c44192f978bc065000",
+      "size": 84992,
+      "url": "https://redgrenade.life/l2updater/system_ru/NSplash.dll"
+    },
+    {
+      "path": "system_ru/NWindow.dll",
+      "sha1": "1b37e4290c55377382d00583caf7ed2caecf4d28",
+      "size": 14437048,
+      "url": "https://redgrenade.life/l2updater/system_ru/NWindow.dll"
+    },
+    {
+      "path": "system_ru/NWindow.u",
+      "sha1": "6b105c44cd0d8e176092dba6b0788108de020959",
+      "size": 416453,
+      "url": "https://redgrenade.life/l2updater/system_ru/NWindow.u"
+    },
+    {
+      "path": "system_ru/Network.log",
+      "sha1": "7f4bb0aa6c768547a3822c08e1e5453d07507fd4",
+      "size": 91870,
+      "url": "https://redgrenade.life/l2updater/system_ru/Network.log"
+    },
+    {
+      "path": "system_ru/NpcName-ru.dat",
+      "sha1": "24770adacf376ef54107e0f9cab91ca9d9b7d39f",
+      "size": 142640,
+      "url": "https://redgrenade.life/l2updater/system_ru/NpcName-ru.dat"
+    },
+    {
+      "path": "system_ru/NpcName_Classic-ru.dat",
+      "sha1": "7edd4a6703611f5443cb137f99774311b6e60641",
+      "size": 153776,
+      "url": "https://redgrenade.life/l2updater/system_ru/NpcName_Classic-ru.dat"
+    },
+    {
+      "path": "system_ru/NpcString-ru.dat",
+      "sha1": "71806324458a1c0ac637b603b0857ee1d0c495fd",
+      "size": 300336,
+      "url": "https://redgrenade.life/l2updater/system_ru/NpcString-ru.dat"
+    },
+    {
+      "path": "system_ru/NpcString_Classic-ru.dat",
+      "sha1": "d057676f8c7018960677fb34a26299a367f92a06",
+      "size": 249648,
+      "url": "https://redgrenade.life/l2updater/system_ru/NpcString_Classic-ru.dat"
+    },
+    {
+      "path": "system_ru/Npcgrp.dat",
+      "sha1": "21fcaed9867266df30a0887a0f6dc6ea8691524f",
+      "size": 335152,
+      "url": "https://redgrenade.life/l2updater/system_ru/Npcgrp.dat"
+    },
+    {
+      "path": "system_ru/Npcgrp_Classic.dat",
+      "sha1": "874ffb541aa6a4439d345cea8149872bc368bc34",
+      "size": 363568,
+      "url": "https://redgrenade.life/l2updater/system_ru/Npcgrp_Classic.dat"
+    },
+    {
+      "path": "system_ru/Obscene-ru.dat",
+      "sha1": "b3b1bf0d99ff4bb6f7b48e71ca17840b47304e49",
+      "size": 29104,
+      "url": "https://redgrenade.life/l2updater/system_ru/Obscene-ru.dat"
+    },
+    {
+      "path": "system_ru/OneDayReward_Classic-ru.dat",
+      "sha1": "e36dd0fd9aa58e497cb6dc3e8a20dfc284567859",
+      "size": 7088,
+      "url": "https://redgrenade.life/l2updater/system_ru/OneDayReward_Classic-ru.dat"
+    },
+    {
+      "path": "system_ru/Option.ini",
+      "sha1": "e3f1aef1ababa4682bb3dcd1794b9b5177acfe01",
+      "size": 3076,
+      "url": "https://redgrenade.life/l2updater/system_ru/Option.ini"
+    },
+    {
+      "path": "system_ru/PawnAnimData.dat",
+      "sha1": "4e53dadd25bfc383be16b12f9803329f784e07be",
+      "size": 217648,
+      "url": "https://redgrenade.life/l2updater/system_ru/PawnAnimData.dat"
+    },
+    {
+      "path": "system_ru/PledgeLevelDesc-ru.dat",
+      "sha1": "4df28c496b35df4a04db8ee87c8911a2e47b0e61",
+      "size": 304,
+      "url": "https://redgrenade.life/l2updater/system_ru/PledgeLevelDesc-ru.dat"
+    },
+    {
+      "path": "system_ru/PledgeMasteryInfo-ru.dat",
+      "sha1": "4c7c20b03620974770b1988a8bb7b5c582efba43",
+      "size": 816,
+      "url": "https://redgrenade.life/l2updater/system_ru/PledgeMasteryInfo-ru.dat"
+    },
+    {
+      "path": "system_ru/PledgeMission-ru.dat",
+      "sha1": "a717dd8f11d61087d6f6659ecab170f757be34cf",
+      "size": 6704,
+      "url": "https://redgrenade.life/l2updater/system_ru/PledgeMission-ru.dat"
+    },
+    {
+      "path": "system_ru/PostEffectData.dat",
+      "sha1": "9f81bea1f7358475d94d28132886084786c9bd91",
+      "size": 304,
+      "url": "https://redgrenade.life/l2updater/system_ru/PostEffectData.dat"
+    },
+    {
+      "path": "system_ru/Predefinedshader.bin",
+      "sha1": "30faaac3d4b113a9f9bad4ca5a34cc9e4dbaa699",
+      "size": 146380,
+      "url": "https://redgrenade.life/l2updater/system_ru/Predefinedshader.bin"
+    },
+    {
+      "path": "system_ru/ProductName-ru.dat",
+      "sha1": "2c6ca91c7563d77c62a4342119c4df276709b986",
+      "size": 17712,
+      "url": "https://redgrenade.life/l2updater/system_ru/ProductName-ru.dat"
+    },
+    {
+      "path": "system_ru/ProductName_Classic-ru.dat",
+      "sha1": "d2a58dd2ec0e495e63b28c65815b483b501e396b",
+      "size": 1584,
+      "url": "https://redgrenade.life/l2updater/system_ru/ProductName_Classic-ru.dat"
+    },
+    {
+      "path": "system_ru/QuestMarkConditionData.dat",
+      "sha1": "8dc90403df213c5b92687d6f7685ead0d0007423",
+      "size": 816,
+      "url": "https://redgrenade.life/l2updater/system_ru/QuestMarkConditionData.dat"
+    },
+    {
+      "path": "system_ru/QuestMarkConditionData_Classic.dat",
+      "sha1": "8dc90403df213c5b92687d6f7685ead0d0007423",
+      "size": 816,
+      "url": "https://redgrenade.life/l2updater/system_ru/QuestMarkConditionData_Classic.dat"
+    },
+    {
+      "path": "system_ru/QuestName-ru.dat",
+      "sha1": "13f263e3f4804cad7874545f36219a4804a0abec",
+      "size": 265264,
+      "url": "https://redgrenade.life/l2updater/system_ru/QuestName-ru.dat"
+    },
+    {
+      "path": "system_ru/QuestName_Classic-ru.dat",
+      "sha1": "f7afad7d42053e03bc2ff90c4ca91d27b4a89535",
+      "size": 194992,
+      "url": "https://redgrenade.life/l2updater/system_ru/QuestName_Classic-ru.dat"
+    },
+    {
+      "path": "system_ru/RaidData-ru.dat",
+      "sha1": "7b9e685686481cbcbb3c37ea1e2a31de092cfe77",
+      "size": 2608,
+      "url": "https://redgrenade.life/l2updater/system_ru/RaidData-ru.dat"
+    },
+    {
+      "path": "system_ru/RaidData_Classic-ru.dat",
+      "sha1": "e17ec76d6e65e3bd26a142eb912cc68154b8864b",
+      "size": 6064,
+      "url": "https://redgrenade.life/l2updater/system_ru/RaidData_Classic-ru.dat"
+    },
+    {
+      "path": "system_ru/Recipe.dat",
+      "sha1": "5038def4ac43c516fe624a6c70228e1899e71030",
+      "size": 43952,
+      "url": "https://redgrenade.life/l2updater/system_ru/Recipe.dat"
+    },
+    {
+      "path": "system_ru/Recipe_Classic.dat",
+      "sha1": "877a87f56677223ae9fe13d7d40f5926393d9069",
+      "size": 25520,
+      "url": "https://redgrenade.life/l2updater/system_ru/Recipe_Classic.dat"
+    },
+    {
+      "path": "system_ru/RideData.dat",
+      "sha1": "9a343432e0e95105ef09ba9591ff5925b17f27a8",
+      "size": 1328,
+      "url": "https://redgrenade.life/l2updater/system_ru/RideData.dat"
+    },
+    {
+      "path": "system_ru/RideData_Classic.dat",
+      "sha1": "9a343432e0e95105ef09ba9591ff5925b17f27a8",
+      "size": 1328,
+      "url": "https://redgrenade.life/l2updater/system_ru/RideData_Classic.dat"
+    },
+    {
+      "path": "system_ru/ScenePlayerData.dat",
+      "sha1": "2466e71a7e341410497fcb13d04aeceb15eb8af0",
+      "size": 944,
+      "url": "https://redgrenade.life/l2updater/system_ru/ScenePlayerData.dat"
+    },
+    {
+      "path": "system_ru/ServerName-ru.dat",
+      "sha1": "d6ad5381e2fa46eb5ef79d93caecd62d8754ae8a",
+      "size": 1200,
+      "url": "https://redgrenade.life/l2updater/system_ru/ServerName-ru.dat"
+    },
+    {
+      "path": "system_ru/SetItemGrp-ru.dat",
+      "sha1": "4e1997e099d063f16998a10ac2837c95670098ac",
+      "size": 19120,
+      "url": "https://redgrenade.life/l2updater/system_ru/SetItemGrp-ru.dat"
+    },
+    {
+      "path": "system_ru/SetItemGrp_Classic-ru.dat",
+      "sha1": "b476a2841efe2e0dff88fd8e460ac3262d7af592",
+      "size": 2992,
+      "url": "https://redgrenade.life/l2updater/system_ru/SetItemGrp_Classic-ru.dat"
+    },
+    {
+      "path": "system_ru/ShockZoneSettings.ini",
+      "sha1": "d14aa53f032268785acb08ccac891fb7c15bd23f",
+      "size": 1476,
+      "url": "https://redgrenade.life/l2updater/system_ru/ShockZoneSettings.ini"
+    },
+    {
+      "path": "system_ru/ShortcutAlias.dat",
+      "sha1": "b605b3eae2fd15bf145de30b6348f7522a85bc43",
+      "size": 2224,
+      "url": "https://redgrenade.life/l2updater/system_ru/ShortcutAlias.dat"
+    },
+    {
+      "path": "system_ru/ShortcutAlias_Classic.dat",
+      "sha1": "b605b3eae2fd15bf145de30b6348f7522a85bc43",
+      "size": 2224,
+      "url": "https://redgrenade.life/l2updater/system_ru/ShortcutAlias_Classic.dat"
+    },
+    {
+      "path": "system_ru/ShuttleData.dat",
+      "sha1": "5324d4da695639e0b8bd43b39742a7e8de600722",
+      "size": 176,
+      "url": "https://redgrenade.life/l2updater/system_ru/ShuttleData.dat"
+    },
+    {
+      "path": "system_ru/ShuttleData_Classic.dat",
+      "sha1": "5324d4da695639e0b8bd43b39742a7e8de600722",
+      "size": 176,
+      "url": "https://redgrenade.life/l2updater/system_ru/ShuttleData_Classic.dat"
+    },
+    {
+      "path": "system_ru/SkillName-ru.dat",
+      "sha1": "e0ae54783f33f9f2fb35501a81fded0f5b3d859e",
+      "size": 1388592,
+      "url": "https://redgrenade.life/l2updater/system_ru/SkillName-ru.dat"
+    },
+    {
+      "path": "system_ru/SkillName_Classic-ru.dat",
+      "sha1": "b902512616fc33ebe1eac71474d4a4e3349b9631",
+      "size": 593840,
+      "url": "https://redgrenade.life/l2updater/system_ru/SkillName_Classic-ru.dat"
+    },
+    {
+      "path": "system_ru/SkillSoundSource.dat",
+      "sha1": "75718122bb062ded5a525c965889073e5b053fa1",
+      "size": 30768,
+      "url": "https://redgrenade.life/l2updater/system_ru/SkillSoundSource.dat"
+    },
+    {
+      "path": "system_ru/SkillSoundSource_Classic.dat",
+      "sha1": "e420e9f51c1c0b0730714c8acfb20a9f6739cbf3",
+      "size": 27056,
+      "url": "https://redgrenade.life/l2updater/system_ru/SkillSoundSource_Classic.dat"
+    },
+    {
+      "path": "system_ru/SkillSoundgrp.dat",
+      "sha1": "c5e0790019e9b6afb685e06ccbe52a0bbc37a006",
+      "size": 122160,
+      "url": "https://redgrenade.life/l2updater/system_ru/SkillSoundgrp.dat"
+    },
+    {
+      "path": "system_ru/SkillSoundgrp_Classic.dat",
+      "sha1": "60ecd3ec59f3b9551fb19c7b41165298a274fdac",
+      "size": 102448,
+      "url": "https://redgrenade.life/l2updater/system_ru/SkillSoundgrp_Classic.dat"
+    },
+    {
+      "path": "system_ru/Skillgrp.dat",
+      "sha1": "028dbdc662e95454a98fdec05d5a328ea93c5bac",
+      "size": 678320,
+      "url": "https://redgrenade.life/l2updater/system_ru/Skillgrp.dat"
+    },
+    {
+      "path": "system_ru/Skillgrp_Classic.dat",
+      "sha1": "176173d8ea395e46bc2d78b663b24c6f19b84102",
+      "size": 271536,
+      "url": "https://redgrenade.life/l2updater/system_ru/Skillgrp_Classic.dat"
+    },
+    {
+      "path": "system_ru/SmallFont-ru.gly",
+      "sha1": "4becef5e1ff664e27094ec651ad3170508b2187a",
+      "size": 1540,
+      "url": "https://redgrenade.life/l2updater/system_ru/SmallFont-ru.gly"
+    },
+    {
+      "path": "system_ru/SmallFont.gly",
+      "sha1": "7c0c8788e1202be8c01049d5cfe6debacf4cb48d",
+      "size": 181780,
+      "url": "https://redgrenade.life/l2updater/system_ru/SmallFont.gly"
+    },
+    {
+      "path": "system_ru/StaticObject-ru.dat",
+      "sha1": "d7f8d63be6a1367240d2bf4a7b874da5fcc99313",
+      "size": 3760,
+      "url": "https://redgrenade.life/l2updater/system_ru/StaticObject-ru.dat"
+    },
+    {
+      "path": "system_ru/StaticObject_Classic-ru.dat",
+      "sha1": "7fa5736cd4028ada1352b6920801907e6a0a6e5a",
+      "size": 3504,
+      "url": "https://redgrenade.life/l2updater/system_ru/StaticObject_Classic-ru.dat"
+    },
+    {
+      "path": "system_ru/StatisticName-ru.dat",
+      "sha1": "aaba4184d088f0b81e659eb36acc3f57972e2d9f",
+      "size": 2736,
+      "url": "https://redgrenade.life/l2updater/system_ru/StatisticName-ru.dat"
+    },
+    {
+      "path": "system_ru/SymbolName-ru.dat",
+      "sha1": "cf5062ad553e3fd2c8c5f865de13706911411ee2",
+      "size": 432,
+      "url": "https://redgrenade.life/l2updater/system_ru/SymbolName-ru.dat"
+    },
+    {
+      "path": "system_ru/SymbolName_Classic-ru.dat",
+      "sha1": "abb0f1c5274be50d411431e3556fa4e15a698086",
+      "size": 304,
+      "url": "https://redgrenade.life/l2updater/system_ru/SymbolName_Classic-ru.dat"
+    },
+    {
+      "path": "system_ru/SysString-ru.dat",
+      "sha1": "66bd79392d3247cd5bcb11d69bf8f2bd7eb6b74c",
+      "size": 67248,
+      "url": "https://redgrenade.life/l2updater/system_ru/SysString-ru.dat"
+    },
+    {
+      "path": "system_ru/SysString_Classic-ru.dat",
+      "sha1": "33dc65170012cb13673731174496132eb740dc6c",
+      "size": 55984,
+      "url": "https://redgrenade.life/l2updater/system_ru/SysString_Classic-ru.dat"
+    },
+    {
+      "path": "system_ru/SystemMsg-ru.dat",
+      "sha1": "484a621fe59f34bc4f92897cb27eb8b3338a2889",
+      "size": 180656,
+      "url": "https://redgrenade.life/l2updater/system_ru/SystemMsg-ru.dat"
+    },
+    {
+      "path": "system_ru/SystemMsg_Classic-ru.dat",
+      "sha1": "85764a7015d36874905a2348678d200a97b7dc0c",
+      "size": 167472,
+      "url": "https://redgrenade.life/l2updater/system_ru/SystemMsg_Classic-ru.dat"
+    },
+    {
+      "path": "system_ru/TTFontInfo.ini",
+      "sha1": "e4251d712c104c1db560ce8cdcf23d1ecff86675",
+      "size": 776,
+      "url": "https://redgrenade.life/l2updater/system_ru/TTFontInfo.ini"
+    },
+    {
+      "path": "system_ru/TimeEnv0.int",
+      "sha1": "0b90285deec0d88458376bffaad586a8bf967874",
+      "size": 27965,
+      "url": "https://redgrenade.life/l2updater/system_ru/TimeEnv0.int"
+    },
+    {
+      "path": "system_ru/TimeEnv1.int",
+      "sha1": "81792d245dccec60dfc1b8dd92206ef41a4ab9ce",
+      "size": 27008,
+      "url": "https://redgrenade.life/l2updater/system_ru/TimeEnv1.int"
+    },
+    {
+      "path": "system_ru/TimeEnv2.int",
+      "sha1": "a784da6e1a4c117727daef3ef7e5dfdd00ce65b6",
+      "size": 27022,
+      "url": "https://redgrenade.life/l2updater/system_ru/TimeEnv2.int"
+    },
+    {
+      "path": "system_ru/TimeEnv3.int",
+      "sha1": "c036e11e32f0db4af277a77fb9d81dfad7f15641",
+      "size": 27786,
+      "url": "https://redgrenade.life/l2updater/system_ru/TimeEnv3.int"
+    },
+    {
+      "path": "system_ru/TimeEnv4.int",
+      "sha1": "11a37f67fbaf7a7f9482962a94765ceef2ecb28d",
+      "size": 5124,
+      "url": "https://redgrenade.life/l2updater/system_ru/TimeEnv4.int"
+    },
+    {
+      "path": "system_ru/TimeEnv5.int",
+      "sha1": "505b8332d371ff36a008573caf5be72ec9d99fee",
+      "size": 5194,
+      "url": "https://redgrenade.life/l2updater/system_ru/TimeEnv5.int"
+    },
+    {
+      "path": "system_ru/TransformData.dat",
+      "sha1": "43bf58df2712f85136c49b32add2298ad91f2bc4",
+      "size": 1840,
+      "url": "https://redgrenade.life/l2updater/system_ru/TransformData.dat"
+    },
+    {
+      "path": "system_ru/TransformData_Classic.dat",
+      "sha1": "43bf58df2712f85136c49b32add2298ad91f2bc4",
+      "size": 1840,
+      "url": "https://redgrenade.life/l2updater/system_ru/TransformData_Classic.dat"
+    },
+    {
+      "path": "system_ru/TutorialName-ru.dat",
+      "sha1": "181b045af5d925660ec7f96510dcc506ae606bfa",
+      "size": 45616,
+      "url": "https://redgrenade.life/l2updater/system_ru/TutorialName-ru.dat"
+    },
+    {
+      "path": "system_ru/TutorialName_Classic-ru.dat",
+      "sha1": "163cf2d22489f98d39eedb15e32878362ed7d245",
+      "size": 560,
+      "url": "https://redgrenade.life/l2updater/system_ru/TutorialName_Classic-ru.dat"
+    },
+    {
+      "path": "system_ru/UDebugMenu.u",
+      "sha1": "bf7d73c6653a8753881fbd37032e0b475cadde43",
+      "size": 183361,
+      "url": "https://redgrenade.life/l2updater/system_ru/UDebugMenu.u"
+    },
+    {
+      "path": "system_ru/UIDEV.ini",
+      "sha1": "2aea130fdd6fe2aed291fc739d5043da9796bc3a",
+      "size": 2531,
+      "url": "https://redgrenade.life/l2updater/system_ru/UIDEV.ini"
+    },
+    {
+      "path": "system_ru/UIDEV_BuildCommand.ini",
+      "sha1": "958d1b6e13f407487da93a5fe5aba02861edd21d",
+      "size": 82,
+      "url": "https://redgrenade.life/l2updater/system_ru/UIDEV_BuildCommand.ini"
+    },
+    {
+      "path": "system_ru/UIStats.int",
+      "sha1": "1bff583d48a74aeb0424ae992aec1627f6c753dd",
+      "size": 134,
+      "url": "https://redgrenade.life/l2updater/system_ru/UIStats.int"
+    },
+    {
+      "path": "system_ru/UWindow.u",
+      "sha1": "7958f5f4fc418f364fa661b06a30b5b26e16d3cd",
+      "size": 380765,
+      "url": "https://redgrenade.life/l2updater/system_ru/UWindow.u"
+    },
+    {
+      "path": "system_ru/UpgradeSystem.dat",
+      "sha1": "7308e6965b01f73ebdf4ebae4f45071e4b676383",
+      "size": 28208,
+      "url": "https://redgrenade.life/l2updater/system_ru/UpgradeSystem.dat"
+    },
+    {
+      "path": "system_ru/UpgradeSystem_Classic.dat",
+      "sha1": "0920f7e19504678f214e7b9e337ddb50571159f8",
+      "size": 688,
+      "url": "https://redgrenade.life/l2updater/system_ru/UpgradeSystem_Classic.dat"
+    },
+    {
+      "path": "system_ru/UpgradeSystem_Normal.dat",
+      "sha1": "35e852d3c68750c711984f527361b0089e10bd40",
+      "size": 176,
+      "url": "https://redgrenade.life/l2updater/system_ru/UpgradeSystem_Normal.dat"
+    },
+    {
+      "path": "system_ru/UpgradeSystem_Normal_Classic.dat",
+      "sha1": "22e5486be99ced04e724fd1e5aafcfec0a325565",
+      "size": 153392,
+      "url": "https://redgrenade.life/l2updater/system_ru/UpgradeSystem_Normal_Classic.dat"
+    },
+    {
+      "path": "system_ru/UseCountItem.dat",
+      "sha1": "7fd15ff7416f291338532631d6131fb3ef79dd53",
+      "size": 432,
+      "url": "https://redgrenade.life/l2updater/system_ru/UseCountItem.dat"
+    },
+    {
+      "path": "system_ru/UseCountItem_Classic.dat",
+      "sha1": "ebf1fa6265a814363f3f4bb4f398852e687d9b7c",
+      "size": 304,
+      "url": "https://redgrenade.life/l2updater/system_ru/UseCountItem_Classic.dat"
+    },
+    {
+      "path": "system_ru/User.ini",
+      "sha1": "5570ccf62cb5e23db1abad7232ffeda5771eb017",
+      "size": 6576,
+      "url": "https://redgrenade.life/l2updater/system_ru/User.ini"
+    },
+    {
+      "path": "system_ru/UsmMovieData-ru.dat",
+      "sha1": "3d0c835c1e0e144223f86f58e13cd2f99944af1b",
+      "size": 432,
+      "url": "https://redgrenade.life/l2updater/system_ru/UsmMovieData-ru.dat"
+    },
+    {
+      "path": "system_ru/VehiclePartsGrp.dat",
+      "sha1": "b89b9772c7d244550ff400598c2af5099c7369e2",
+      "size": 304,
+      "url": "https://redgrenade.life/l2updater/system_ru/VehiclePartsGrp.dat"
+    },
+    {
+      "path": "system_ru/WeaponEnchantEffectData.dat",
+      "sha1": "86511673183f193cde910f54b5619b9599a69750",
+      "size": 688,
+      "url": "https://redgrenade.life/l2updater/system_ru/WeaponEnchantEffectData.dat"
+    },
+    {
+      "path": "system_ru/WeaponEnchantEffectData_Classic.dat",
+      "sha1": "26f52c88ca722cb29cea54fbcdd9edfa43fe7348",
+      "size": 816,
+      "url": "https://redgrenade.life/l2updater/system_ru/WeaponEnchantEffectData_Classic.dat"
+    },
+    {
+      "path": "system_ru/Weapongrp.dat",
+      "sha1": "0dcea06cc7f053af8101b81bccd3a47bade9cb19",
+      "size": 211760,
+      "url": "https://redgrenade.life/l2updater/system_ru/Weapongrp.dat"
+    },
+    {
+      "path": "system_ru/Weapongrp_Classic.dat",
+      "sha1": "2ab02f16f64f94098f657b5ed0ab6d6a34d0e6ad",
+      "size": 60336,
+      "url": "https://redgrenade.life/l2updater/system_ru/Weapongrp_Classic.dat"
+    },
+    {
+      "path": "system_ru/Wform.bm",
+      "sha1": "5ad917e12bedab519e6fc291bb8af049dff7cd31",
+      "size": 526985,
+      "url": "https://redgrenade.life/l2updater/system_ru/Wform.bm"
+    },
+    {
+      "path": "system_ru/WinDrv.dll",
+      "sha1": "5f5a620aa2aff2f18c7198b24b5a098d1ed04e6f",
+      "size": 1319424,
+      "url": "https://redgrenade.life/l2updater/system_ru/WinDrv.dll"
+    },
+    {
+      "path": "system_ru/WinDrv.int",
+      "sha1": "17b71ab8da06a06869b739463e8a336671ce4232",
+      "size": 709,
+      "url": "https://redgrenade.life/l2updater/system_ru/WinDrv.int"
+    },
+    {
+      "path": "system_ru/Window.dll",
+      "sha1": "d6dc20f9ea80d8eb9754bc83051ffca585d9fb49",
+      "size": 1454592,
+      "url": "https://redgrenade.life/l2updater/system_ru/Window.dll"
+    },
+    {
+      "path": "system_ru/Window.int",
+      "sha1": "9a007f1a229976d52fe6c489938416537d2b1f5c",
+      "size": 2317,
+      "url": "https://redgrenade.life/l2updater/system_ru/Window.int"
+    },
+    {
+      "path": "system_ru/WindowsInfo.ini",
+      "sha1": "38a4cb8673369a367cfa8d9bcf37df2e827e74bd",
+      "size": 4960,
+      "url": "https://redgrenade.life/l2updater/system_ru/WindowsInfo.ini"
+    },
+    {
+      "path": "system_ru/ZoneName-ru.dat",
+      "sha1": "6064272d9085214865a1d6c6c6fd53b4a3f2fc63",
+      "size": 9648,
+      "url": "https://redgrenade.life/l2updater/system_ru/ZoneName-ru.dat"
+    },
+    {
+      "path": "system_ru/ZoneName_Classic-ru.dat",
+      "sha1": "c214d1f68dfa59f081a193a2d3f1449883e34f3b",
+      "size": 6448,
+      "url": "https://redgrenade.life/l2updater/system_ru/ZoneName_Classic-ru.dat"
+    },
+    {
+      "path": "system_ru/aegisty.bin",
+      "sha1": "723d2b0d418086208383131e5d182b01c208f3cc",
+      "size": 4832880,
+      "url": "https://redgrenade.life/l2updater/system_ru/aegisty.bin"
+    },
+    {
+      "path": "system_ru/agathiondata.dat",
+      "sha1": "79621aacd90784623f8ba41fb66d6e9c0d458dd1",
+      "size": 15152,
+      "url": "https://redgrenade.life/l2updater/system_ru/agathiondata.dat"
+    },
+    {
+      "path": "system_ru/agathiondata_Classic.dat",
+      "sha1": "ef4da9f120e3c3689d28d60b404a65981053c5fd",
+      "size": 2992,
+      "url": "https://redgrenade.life/l2updater/system_ru/agathiondata_Classic.dat"
+    },
+    {
+      "path": "system_ru/avcodec-53.dll",
+      "sha1": "53d59b9d3027bf57928b58648a8adeb847a7c68f",
+      "size": 1102424,
+      "url": "https://redgrenade.life/l2updater/system_ru/avcodec-53.dll"
+    },
+    {
+      "path": "system_ru/avformat-53.dll",
+      "sha1": "5a4c60da6aa17e57ed5c1dd2a9485fac301ab36a",
+      "size": 193624,
+      "url": "https://redgrenade.life/l2updater/system_ru/avformat-53.dll"
+    },
+    {
+      "path": "system_ru/avutil-51.dll",
+      "sha1": "68a50b52caaa89ba04f2f6617c9c3bf18e7f8ac1",
+      "size": 126040,
+      "url": "https://redgrenade.life/l2updater/system_ru/avutil-51.dll"
+    },
+    {
+      "path": "system_ru/awesomium_process.exe",
+      "sha1": "4d79ab2b32826cb3b6c9896aa76befc2a5240334",
+      "size": 42568,
+      "url": "https://redgrenade.life/l2updater/system_ru/awesomium_process.exe"
+    },
+    {
+      "path": "system_ru/bdcap32.dll",
+      "sha1": "7b33623c290ab2c26db25d7fdeebc9c1c710faa8",
+      "size": 11061280,
+      "url": "https://redgrenade.life/l2updater/system_ru/bdcap32.dll"
+    },
+    {
+      "path": "system_ru/beecrypt.dll",
+      "sha1": "efd03e1ebbb8082fe130d294f64a4224b9e75937",
+      "size": 188416,
+      "url": "https://redgrenade.life/l2updater/system_ru/beecrypt.dll"
+    },
+    {
+      "path": "system_ru/bighead.int",
+      "sha1": "5d85592ef3f16d2fe1e62e1a19866be02ffa8db2",
+      "size": 1083,
+      "url": "https://redgrenade.life/l2updater/system_ru/bighead.int"
+    },
+    {
+      "path": "system_ru/cef.pak",
+      "sha1": "89e42afbc42526752e5d56d0a4c2b3943e2835c6",
+      "size": 2184260,
+      "url": "https://redgrenade.life/l2updater/system_ru/cef.pak"
+    },
+    {
+      "path": "system_ru/cef_100_percent.pak",
+      "sha1": "43ce7585e0632fc374bb6717d2a92d5bf94827db",
+      "size": 468951,
+      "url": "https://redgrenade.life/l2updater/system_ru/cef_100_percent.pak"
+    },
+    {
+      "path": "system_ru/cef_200_percent.pak",
+      "sha1": "25d427473aacdd39a903db45acb94edcffcb4386",
+      "size": 622967,
+      "url": "https://redgrenade.life/l2updater/system_ru/cef_200_percent.pak"
+    },
+    {
+      "path": "system_ru/chatfilter.ini",
+      "sha1": "99167c193e4f3af10d56bad6f60f6cef3159d6d0",
+      "size": 2439,
+      "url": "https://redgrenade.life/l2updater/system_ru/chatfilter.ini"
+    },
+    {
+      "path": "system_ru/d3dcompiler_43.dll",
+      "sha1": "98be17e1d324790a5b206e1ea1cc4e64fbe21240",
+      "size": 2106216,
+      "url": "https://redgrenade.life/l2updater/system_ru/d3dcompiler_43.dll"
+    },
+    {
+      "path": "system_ru/d3dcompiler_47.dll",
+      "sha1": "91bc4989345a4e26f06c0c781a21a27d4ee9bacd",
+      "size": 3466856,
+      "url": "https://redgrenade.life/l2updater/system_ru/d3dcompiler_47.dll"
+    },
+    {
+      "path": "system_ru/dbghelp.dll",
+      "sha1": "faf95ec65cde5bd833ce610bb8523363310ec4ad",
+      "size": 1213200,
+      "url": "https://redgrenade.life/l2updater/system_ru/dbghelp.dll"
+    },
+    {
+      "path": "system_ru/discord_game_sdk.dll",
+      "sha1": "63b2383c12013dcd7bbee08a7f965148c14d9c9d",
+      "size": 2937856,
+      "url": "https://redgrenade.life/l2updater/system_ru/discord_game_sdk.dll"
+    },
+    {
+      "path": "system_ru/dsetup.dll",
+      "sha1": "a0bd2b9f69597c9401891b48a87d3193f011ea57",
+      "size": 62976,
+      "url": "https://redgrenade.life/l2updater/system_ru/dsetup.dll"
+    },
+    {
+      "path": "system_ru/encvag.dll",
+      "sha1": "d00b71c7982612a3602235307188b9b4243dc980",
+      "size": 150528,
+      "url": "https://redgrenade.life/l2updater/system_ru/encvag.dll"
+    },
+    {
+      "path": "system_ru/ensoul_fee_client.dat",
+      "sha1": "c5dad346f73500fc5e48aa8d6c4e6a03d4b6eecb",
+      "size": 304,
+      "url": "https://redgrenade.life/l2updater/system_ru/ensoul_fee_client.dat"
+    },
+    {
+      "path": "system_ru/ensoul_fee_client_Classic.dat",
+      "sha1": "98edc1a2ef99f0fe4e44740e717183138ac1e9f7",
+      "size": 304,
+      "url": "https://redgrenade.life/l2updater/system_ru/ensoul_fee_client_Classic.dat"
+    },
+    {
+      "path": "system_ru/ensoul_option_client-ru.dat",
+      "sha1": "c692fe7f509919e1a5c865876a181ff090773879",
+      "size": 11696,
+      "url": "https://redgrenade.life/l2updater/system_ru/ensoul_option_client-ru.dat"
+    },
+    {
+      "path": "system_ru/ensoul_option_client_Classic-ru.dat",
+      "sha1": "714d6a0e450d553d771e879cfcd1f251a39a56c6",
+      "size": 9904,
+      "url": "https://redgrenade.life/l2updater/system_ru/ensoul_option_client_Classic-ru.dat"
+    },
+    {
+      "path": "system_ru/ensoul_stone_client.dat",
+      "sha1": "7cb1feebea0443a63235646481c20464ebec3b32",
+      "size": 1712,
+      "url": "https://redgrenade.life/l2updater/system_ru/ensoul_stone_client.dat"
+    },
+    {
+      "path": "system_ru/ensoul_stone_client_Classic.dat",
+      "sha1": "14ca16a9c41b5888e562063e739b95a32ddb08ef",
+      "size": 2224,
+      "url": "https://redgrenade.life/l2updater/system_ru/ensoul_stone_client_Classic.dat"
+    },
+    {
+      "path": "system_ru/faceExName-ru.dat",
+      "sha1": "7a0ad5357ed1e54eb5b0dab560196a6b06639cc3",
+      "size": 688,
+      "url": "https://redgrenade.life/l2updater/system_ru/faceExName-ru.dat"
+    },
+    {
+      "path": "system_ru/faceexgrp.dat",
+      "sha1": "e336018d9676a0fe2336ac86d1a0f155558d607d",
+      "size": 1200,
+      "url": "https://redgrenade.life/l2updater/system_ru/faceexgrp.dat"
+    },
+    {
+      "path": "system_ru/ffmpegsumo.dll",
+      "sha1": "2188656acaf981d21f3058f919b143cbc11c388a",
+      "size": 961536,
+      "url": "https://redgrenade.life/l2updater/system_ru/ffmpegsumo.dll"
+    },
+    {
+      "path": "system_ru/fmodex.dll",
+      "sha1": "000a10733ac66e53914d47be788d73f9d368cc5f",
+      "size": 798720,
+      "url": "https://redgrenade.life/l2updater/system_ru/fmodex.dll"
+    },
+    {
+      "path": "system_ru/hairExName-ru.dat",
+      "sha1": "490f1720892971c8cc02c87d78a04109939cad38",
+      "size": 3632,
+      "url": "https://redgrenade.life/l2updater/system_ru/hairExName-ru.dat"
+    },
+    {
+      "path": "system_ru/hairexgrp.dat",
+      "sha1": "ad82fd7872d1f0883b6deff76879e4a0173c8ee6",
+      "size": 3632,
+      "url": "https://redgrenade.life/l2updater/system_ru/hairexgrp.dat"
+    },
+    {
+      "path": "system_ru/icudt.dll",
+      "sha1": "226acd9090aa71d86f5a5f8bc953cb15a00c2a55",
+      "size": 9957960,
+      "url": "https://redgrenade.life/l2updater/system_ru/icudt.dll"
+    },
+    {
+      "path": "system_ru/icudt42.dll",
+      "sha1": "5b5a418c06896bb5556acb6fc893d9d969c70511",
+      "size": 10947384,
+      "url": "https://redgrenade.life/l2updater/system_ru/icudt42.dll"
+    },
+    {
+      "path": "system_ru/icudtl.dat",
+      "sha1": "7e5fe4cf14a80511d82761db1c3e56568be36220",
+      "size": 10207504,
+      "url": "https://redgrenade.life/l2updater/system_ru/icudtl.dat"
+    },
+    {
+      "path": "system_ru/ime.xml",
+      "sha1": "e5b22e83051c5d43648e98fc39d57abac0b15582",
+      "size": 10621,
+      "url": "https://redgrenade.life/l2updater/system_ru/ime.xml"
+    },
+    {
+      "path": "system_ru/item_baseinfo.dat",
+      "sha1": "8c2021fdacc85ff81a60f946042a04304ccd59e8",
+      "size": 104368,
+      "url": "https://redgrenade.life/l2updater/system_ru/item_baseinfo.dat"
+    },
+    {
+      "path": "system_ru/item_baseinfo_Classic.dat",
+      "sha1": "85630dbd697b916bc1283a1ff213f1920bf24a82",
+      "size": 28336,
+      "url": "https://redgrenade.life/l2updater/system_ru/item_baseinfo_Classic.dat"
+    },
+    {
+      "path": "system_ru/l2.ini",
+      "sha1": "866619716c9549835b8cc70d36e470b91223cdfe",
+      "size": 4272,
+      "url": "https://redgrenade.life/l2updater/system_ru/l2.ini"
+    },
+    {
+      "path": "system_ru/l2.int",
+      "sha1": "e15e7d3ca52ed9ced6bd4f059326a288362a4e30",
+      "size": 143,
+      "url": "https://redgrenade.life/l2updater/system_ru/l2.int"
+    },
+    {
+      "path": "system_ru/libEGL.dll",
+      "sha1": "671c54cdedaae39c64c44a5068d5c82431acd406",
+      "size": 74752,
+      "url": "https://redgrenade.life/l2updater/system_ru/libEGL.dll"
+    },
+    {
+      "path": "system_ru/libGLESv2.dll",
+      "sha1": "dc60e8e2f26cdfff2803e77c1a6b7d66284912c8",
+      "size": 1643008,
+      "url": "https://redgrenade.life/l2updater/system_ru/libGLESv2.dll"
+    },
+    {
+      "path": "system_ru/libcef.dll",
+      "sha1": "cabd0ef2e0a285aa5bdbf2a870d22c12aec202c3",
+      "size": 45069312,
+      "url": "https://redgrenade.life/l2updater/system_ru/libcef.dll"
+    },
+    {
+      "path": "system_ru/locales/en-US.dll",
+      "sha1": "34e45fc59f73f46b8d364a0a06f15214ae4f2b89",
+      "size": 117048,
+      "url": "https://redgrenade.life/l2updater/system_ru/locales/en-US.dll"
+    },
+    {
+      "path": "system_ru/locales/en-US.pak",
+      "sha1": "fb887f2f5837f582b92e8756f33da8effbdc1f92",
+      "size": 14086,
+      "url": "https://redgrenade.life/l2updater/system_ru/locales/en-US.pak"
+    },
+    {
+      "path": "system_ru/msxml4.dll",
+      "sha1": "a6d0697d8fd1afca440f5a4f65df5d67a9cfc9b1",
+      "size": 1275392,
+      "url": "https://redgrenade.life/l2updater/system_ru/msxml4.dll"
+    },
+    {
+      "path": "system_ru/msxml4a.dll",
+      "sha1": "2ed39ccdb9eedae37a64d9186d933a7f0452cd61",
+      "size": 44544,
+      "url": "https://redgrenade.life/l2updater/system_ru/msxml4a.dll"
+    },
+    {
+      "path": "system_ru/msxml4r.dll",
+      "sha1": "a96c1818c5a6ba081c655ab42ccf9fc58cdbc6d0",
+      "size": 82432,
+      "url": "https://redgrenade.life/l2updater/system_ru/msxml4r.dll"
+    },
+    {
+      "path": "system_ru/natives_blob.bin",
+      "sha1": "e09e48d069f8cbb4b22e1dc1b8df07b1f714f93c",
+      "size": 410937,
+      "url": "https://redgrenade.life/l2updater/system_ru/natives_blob.bin"
+    },
+    {
+      "path": "system_ru/npkcrypt.dll",
+      "sha1": "fad52a7b1317ed98cc51957aa7613e995b2b94d0",
+      "size": 420472,
+      "url": "https://redgrenade.life/l2updater/system_ru/npkcrypt.dll"
+    },
+    {
+      "path": "system_ru/npkpdb.dll",
+      "sha1": "8756b1429e45095b8510b43f4a3644ce9d1092a1",
+      "size": 53248,
+      "url": "https://redgrenade.life/l2updater/system_ru/npkpdb.dll"
+    },
+    {
+      "path": "system_ru/nservice_topping_buff.dat",
+      "sha1": "f3f3c9d3342d548e9d2166f5444be845c8e8d9ad",
+      "size": 176,
+      "url": "https://redgrenade.life/l2updater/system_ru/nservice_topping_buff.dat"
+    },
+    {
+      "path": "system_ru/nservice_topping_buff_Classic.dat",
+      "sha1": "9e9dbd1647794cbedbfbbca7db81d4c22105bc07",
+      "size": 176,
+      "url": "https://redgrenade.life/l2updater/system_ru/nservice_topping_buff_Classic.dat"
+    },
+    {
+      "path": "system_ru/ogg.dll",
+      "sha1": "eab8ffe007c7aaae2f07cfb62342daf81607ce3d",
+      "size": 65536,
+      "url": "https://redgrenade.life/l2updater/system_ru/ogg.dll"
+    },
+    {
+      "path": "system_ru/optiondata_client-ru.dat",
+      "sha1": "46863fb8e3b2da6a5d58d79c4f9eff8a35b7bbd5",
+      "size": 258608,
+      "url": "https://redgrenade.life/l2updater/system_ru/optiondata_client-ru.dat"
+    },
+    {
+      "path": "system_ru/optiondata_client_Classic-ru.dat",
+      "sha1": "129f3bf954188e0dcd688d6d6e38a31dd1d5161c",
+      "size": 137392,
+      "url": "https://redgrenade.life/l2updater/system_ru/optiondata_client_Classic-ru.dat"
+    },
+    {
+      "path": "system_ru/plugins/NPSWF32_16_0_0_257.dll",
+      "sha1": "34209ae6ed882ec77530cd637a28652993c6bb4a",
+      "size": 16844464,
+      "url": "https://redgrenade.life/l2updater/system_ru/plugins/NPSWF32_16_0_0_257.dll"
+    },
+    {
+      "path": "system_ru/settings.ini",
+      "sha1": "2af6c5dad13260c09d87dc076b5fb8d8487f4c5e",
+      "size": 983,
+      "url": "https://redgrenade.life/l2updater/system_ru/settings.ini"
+    },
+    {
+      "path": "system_ru/snapshot_blob.bin",
+      "sha1": "58f1e2762ebc7f38db0587379e228a9298f42c05",
+      "size": 449780,
+      "url": "https://redgrenade.life/l2updater/system_ru/snapshot_blob.bin"
+    },
+    {
+      "path": "system_ru/soulshot.int",
+      "sha1": "cde96bb9f034374d551abe293be63eb6e3ed0bf2",
+      "size": 2730,
+      "url": "https://redgrenade.life/l2updater/system_ru/soulshot.int"
+    },
+    {
+      "path": "system_ru/soulshot_arena.int",
+      "sha1": "675eb4a9f917fdad6abc2728d55d6dd41729bfe3",
+      "size": 2709,
+      "url": "https://redgrenade.life/l2updater/system_ru/soulshot_arena.int"
+    },
+    {
+      "path": "system_ru/steam_api.dll",
+      "sha1": "c4ba8ef91b9f3712e83b54ddf24945e2c7fbed45",
+      "size": 186560,
+      "url": "https://redgrenade.life/l2updater/system_ru/steam_api.dll"
+    },
+    {
+      "path": "system_ru/variationeffectgrp-ru.dat",
+      "sha1": "e247a25b7101f1f9ffe91ede3389fe2900834391",
+      "size": 1584,
+      "url": "https://redgrenade.life/l2updater/system_ru/variationeffectgrp-ru.dat"
+    },
+    {
+      "path": "system_ru/variationeffectgrp_Classic-ru.dat",
+      "sha1": "7aa84c9494b9901c2d7ce6d5d29227afcd4e9963",
+      "size": 1200,
+      "url": "https://redgrenade.life/l2updater/system_ru/variationeffectgrp_Classic-ru.dat"
+    },
+    {
+      "path": "system_ru/vcomp120.dll",
+      "sha1": "8d81406c8dd3ed8894d8aee07dd718dcfd2035c5",
+      "size": 119456,
+      "url": "https://redgrenade.life/l2updater/system_ru/vcomp120.dll"
+    },
+    {
+      "path": "system_ru/vorbis.dll",
+      "sha1": "5cd875aaebfc3b8ff13baec9375674fd8a4f68dc",
+      "size": 249856,
+      "url": "https://redgrenade.life/l2updater/system_ru/vorbis.dll"
+    },
+    {
+      "path": "system_ru/vorbisfile.dll",
+      "sha1": "5f17105f2fdd7aa6e5df3adfc8f7d14fcc1e694a",
+      "size": 106496,
+      "url": "https://redgrenade.life/l2updater/system_ru/vorbisfile.dll"
+    },
+    {
+      "path": "system_ru/widevinecdmadapter.dll",
+      "sha1": "62aec47f2cbd1039b8005cfa1678aa96a0fd3a5e",
+      "size": 1423360,
+      "url": "https://redgrenade.life/l2updater/system_ru/widevinecdmadapter.dll"
+    },
+    {
+      "path": "system_ru/wrap_oal.dll",
+      "sha1": "4851b95e7467cdef9f4665d9fcbfbfdfea795b79",
+      "size": 409600,
+      "url": "https://redgrenade.life/l2updater/system_ru/wrap_oal.dll"
+    },
+    {
+      "path": "system_ru/xinput9_1_0.dll",
+      "sha1": "dba2fa128597310ab682551285330b3cce53dd15",
+      "size": 61136,
+      "url": "https://redgrenade.life/l2updater/system_ru/xinput9_1_0.dll"
+    }
+  ]
 }
